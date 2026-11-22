@@ -1,0 +1,9 @@
+# Preserve the supplied design files byte-for-byte across worktrees.
+/AGENTS.md -text whitespace=trailing-space,space-before-tab,cr-at-eol
+/修真界_世界设定集_v0.7_2026-11-22.md -text
+/新修仙游戏_文本战斗系统设计_V0.2_Astra参考.md -text
+/宗门系统核心玩法参考_V0.3.md -text
+
+/docs/**/*.md text eol=lf
+/docs/**/*.json text eol=lf
+/tools/*.mjs text eol=lf
