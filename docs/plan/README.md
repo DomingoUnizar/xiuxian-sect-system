@@ -20,16 +20,18 @@
 
 ## 给 Neon 的首项工作
 
-从包含本版入口和路线工单的已核对提交创建独立功能分支。下例供目标分支和工作树路径尚未使用时执行。
+`main` 是打开项目和交接工作的稳定入口。实际开工时从 `main` 创建独立功能分支，同一任务的后续修改继续提交在该分支上。下例供目标分支和工作树路径尚未使用时执行。
 
 ```powershell
 git status --short --branch
 git worktree list
 git log -1 --oneline --decorate
-git worktree add -b feat/sect-system-m1 '..\修仙-宗门系统-M1' docs/sect-system-project-guide
+git worktree add -b feat/sect-system-m1 '..\修仙-宗门系统-M1' main
 ```
 
 Neon 从路线图的 N0 开始，指定一名实现者打通本地正式入口。接着依次完成随机招生与绑定、首次派令与即时兑现、实际关页归来，再交独立复玩。验收者应能在同一存档里打开系统全览、某个宿主的私令和宗门公开纪事，亲自查明谁收到了什么。[按顺序取用的工单](roadmap.md#m1-开工单)
+
+任务通过验证并按协作约定合入 `main` 后，确认没有未提交的工作，切回 `main` 或收起该任务的专用工作树，再用 `git branch -d` 清理已合入的本地任务分支。阶段版本按提交号回看。
 
 ## 资料状态
 

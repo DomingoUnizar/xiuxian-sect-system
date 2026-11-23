@@ -3,7 +3,7 @@
   "goal": "同一起点下，救援和取样两项委托政策改变弟子下一次可选的行动。",
   "implementationOwner": "Hydrogen",
   "acceptanceOwner": "Neon",
-  "baseBranch": "plan/neon-roadmap",
+  "baseBranch": "7323fccfd6e03e3b148b273fbb74b35ee6c8eb48",
   "feedback": [
     { "event": "inventory.open", "tier": "routine", "channels": ["visual"], "reason": "打开库房只需显示选中与焦点。" },
     { "event": "battle.retreat", "tier": "notable", "channels": ["text", "portrait"], "reason": "保留伤势、退路和代价，默认跳过演出。" },
