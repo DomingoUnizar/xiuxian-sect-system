@@ -111,6 +111,6 @@
 
 ## 6. 本项目的开发入口
 
-开始新任务先读 [Neon 开工入口](docs/plan/README.md)，再按工单读取对应原稿、技术契约与验收条件。世界观由 Codex 按用户确认维护。
+开始新任务先读 [Neon 开工入口](docs/plan/README.md)。玩家扮演秘密绑定宗门全员的同一个系统。按[现行开工单](docs/plan/roadmap.md#m1-开工单)读取[玩法设计](docs/plan/gameplay.md)、对应原稿、模拟契约和验收条件。世界设定由 Codex 按用户确认维护。
 
-新增可见事件需在工单记录反馈选择与理由，声音和特效绑定同一事件。按 [协作与验收规则](docs/plan/workflow.md) 核对素材、工具返回与实际证据。药谷切片交独立验收前运行 `node tools/check-handoff.mjs docs/plan/neon-m1.json --accept`。
+新增可见交互或事件时，在工单登记读者、反馈渠道与理由。声音、特效和文字共用已提交的事实。按[协作与交接](docs/plan/workflow.md)核对素材来源、实际工具返回和独立复玩记录。当前交付按[宗门系统 M1 验收](docs/plan/roadmap.md#m1-验收)核对招徒绑定、秘密发令、真实履约、即时发奖与离线归来。归档工单的专用复验命令见[历史资料](docs/plan/workflow.md#历史资料)。
