@@ -1,0 +1,160 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SectSystemContent",
+  "type": "object",
+  "required": [
+    "contentVersion",
+    "regions",
+    "methods",
+    "items",
+    "recipes",
+    "missionTemplates",
+    "heritages",
+    "systemThresholds"
+  ],
+  "properties": {
+    "contentVersion": { "type": "string", "minLength": 1 },
+    "regions": {
+      "type": "array",
+      "minItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "description", "preferredArchetypes"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "description": { "type": "string", "minLength": 1 },
+          "preferredArchetypes": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "methods": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "tier", "category", "description", "cultivationRate", "powerBonus"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "tier": { "enum": ["凡阶", "玄阶", "地阶", "天阶", "帝经"] },
+          "category": { "enum": ["alchemy", "combat", "cultivation", "forging", "beast"] },
+          "description": { "type": "string", "minLength": 1 },
+          "cultivationRate": { "type": "integer", "minimum": 1 },
+          "powerBonus": { "type": "integer", "minimum": 0 },
+          "heritageKey": { "type": "string" }
+        }
+      }
+    },
+    "items": {
+      "type": "array",
+      "minItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "kind", "tier", "quality", "icon"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "kind": { "enum": ["herb", "pill", "talisman", "weapon", "material", "relic"] },
+          "tier": { "type": "string", "minLength": 1 },
+          "quality": { "enum": ["下品", "中品", "上品", "极品"] },
+          "icon": { "type": "string", "minLength": 1 },
+          "healHp": { "type": "integer", "minimum": 0 },
+          "cultivationBonus": { "type": "integer", "minimum": 0 },
+          "toxicity": { "type": "integer", "minimum": 0 }
+        }
+      }
+    },
+    "recipes": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "pillTier",
+          "inputs",
+          "baseFurnaceTemp",
+          "targetTempMin",
+          "targetTempMax",
+          "baseImpurity",
+          "outputLowId",
+          "outputMidId"
+        ],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "pillTier": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "inputs": {
+            "type": "object",
+            "additionalProperties": { "type": "integer", "minimum": 1 }
+          },
+          "baseFurnaceTemp": { "type": "integer" },
+          "targetTempMin": { "type": "integer" },
+          "targetTempMax": { "type": "integer" },
+          "baseImpurity": { "type": "integer", "minimum": 0 },
+          "outputLowId": { "type": "string" },
+          "outputMidId": { "type": "string" },
+          "requiresMethodId": { "type": "string" }
+        }
+      }
+    },
+    "missionTemplates": {
+      "type": "array",
+      "minItems": 6,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "description",
+          "defaultRewardLabel",
+          "defaultRounds",
+          "defaultDaoyuanCost",
+          "defaultDurationTicks",
+          "isPlayerBounty"
+        ],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": "string" },
+          "description": { "type": "string" },
+          "defaultRewardLabel": { "type": "string" },
+          "defaultRounds": { "type": "integer", "minimum": 1 },
+          "defaultDaoyuanCost": { "type": "integer", "minimum": 0 },
+          "defaultDurationTicks": { "type": "integer", "minimum": 1 },
+          "isPlayerBounty": { "type": "boolean" }
+        }
+      }
+    },
+    "heritages": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["key", "methodId", "methodName", "foundationAward", "daoyuanAward", "unlocksPermission"],
+        "properties": {
+          "key": { "type": "string" },
+          "methodId": { "type": "string" },
+          "methodName": { "type": "string" },
+          "foundationAward": { "type": "integer", "minimum": 1 },
+          "daoyuanAward": { "type": "integer", "minimum": 0 },
+          "unlocksPermission": { "type": "string" }
+        }
+      }
+    },
+    "systemThresholds": {
+      "type": "array",
+      "minItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["key", "name", "foundationRequired"],
+        "properties": {
+          "key": { "type": "string" },
+          "name": { "type": "string" },
+          "foundationRequired": { "type": "integer", "minimum": 0 }
+        }
+      }
+    }
+  }
+}

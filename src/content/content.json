@@ -1,0 +1,380 @@
+{
+  "contentVersion": "m2-content-1.0.0",
+  "regions": [
+    {
+      "id": "zhongzhou",
+      "name": "中州 · 附属王朝大试",
+      "description": "乡里学徒与世家旁支赴试，资质与来历最为多样。",
+      "preferredArchetypes": ["alchemy_apprentice", "versatile_youth", "sword_youth"]
+    },
+    {
+      "id": "dongyu",
+      "name": "东域 · 坊市问道",
+      "description": "散修与手艺匠人往来之处，常见已有底子的求道者。",
+      "preferredArchetypes": ["wandering_crafter", "sword_youth", "alchemy_apprentice"]
+    },
+    {
+      "id": "nanjiang",
+      "name": "南疆 · 药谷访贤",
+      "description": "采药人与识药学徒云集，更易遇见通晓药性、火候的新人。",
+      "preferredArchetypes": ["alchemy_apprentice", "versatile_youth"]
+    },
+    {
+      "id": "beihuang",
+      "name": "北荒 · 试锋台",
+      "description": "硬桥硬马的体修与战修出身较多，重实打实的擂台交手。",
+      "preferredArchetypes": ["sword_youth", "body_cultivator"]
+    },
+    {
+      "id": "ximo",
+      "name": "西漠 · 古坊游方",
+      "description": "旧法残谱流散之地，时有重诺守约的游方修士来投。",
+      "preferredArchetypes": ["wandering_crafter", "versatile_youth"]
+    }
+  ],
+  "methods": [
+    {
+      "id": "method_basic_fire",
+      "name": "引火起炉诀",
+      "tier": "凡阶",
+      "category": "alchemy",
+      "description": "入门控火基础法门，足以驱动凡炉炼制一阶丹药。",
+      "cultivationRate": 8,
+      "powerBonus": 2
+    },
+    {
+      "id": "method_basic_sword",
+      "name": "青松试剑势",
+      "tier": "凡阶",
+      "category": "combat",
+      "description": "正统外门剑架，进退有据，可参加同境试剑切磋。",
+      "cultivationRate": 8,
+      "powerBonus": 6
+    },
+    {
+      "id": "method_fenhuo_tiqing",
+      "name": "分火提清法",
+      "tier": "凡阶",
+      "category": "alchemy",
+      "description": "丹堂长老独门手法：去浮浊而不乱炉温，是炼成二阶护脉丹的关键一转。",
+      "cultivationRate": 9,
+      "powerBonus": 3,
+      "heritageKey": "heritage:method_fenhuo_tiqing"
+    },
+    {
+      "id": "method_qinglian_huifeng",
+      "name": "青莲回锋诀",
+      "tier": "玄阶",
+      "category": "combat",
+      "description": "挡下先手锋势后顺势回锋破绽，擅以巧克强。",
+      "cultivationRate": 9,
+      "powerBonus": 12
+    },
+    {
+      "id": "method_forging_fengwen",
+      "name": "接锋蓄水纹",
+      "tier": "凡阶",
+      "category": "forging",
+      "description": "器堂接纹手法：将潮纹玉天然水路引向剑格，每次回锋激出蓄潮破防剑气。",
+      "cultivationRate": 8,
+      "powerBonus": 4,
+      "heritageKey": "heritage:method_forging_fengwen"
+    },
+    {
+      "id": "method_forging_ludan",
+      "name": "温炉控潮纹",
+      "tier": "凡阶",
+      "category": "forging",
+      "description": "器堂接纹手法：将潮纹玉嵌作温脉炉胆，提清时引潮降温，助丹堂稳出上品及极品灵丹。",
+      "cultivationRate": 8,
+      "powerBonus": 2,
+      "heritageKey": "heritage:method_forging_fengwen"
+    },
+    {
+      "id": "method_beast_xunling",
+      "name": "循铃御兽诀",
+      "tier": "凡阶",
+      "category": "beast",
+      "description": "御兽法门：以铃声与灵兽呼吸相应，引灵兽伏耳听泉、轻步衔回完整带露灵花与潮纹玉。",
+      "cultivationRate": 8,
+      "powerBonus": 3,
+      "heritageKey": "heritage:method_beast_xunling"
+    },
+    {
+      "id": "method_jinglei_jue",
+      "name": "惊雷破邪诀",
+      "tier": "玄阶",
+      "category": "combat",
+      "description": "引九霄刚猛雷意入剑，抢拍一击骤发雷威，擅破强敌护体。",
+      "cultivationRate": 10,
+      "powerBonus": 15
+    },
+    {
+      "id": "method_chaoxi_guiyuan",
+      "name": "潮息归元经",
+      "tier": "玄阶",
+      "category": "cultivation",
+      "description": "分辟四路行气周天，使每轮吐纳稳固精进，突破破境亦有奇效。",
+      "cultivationRate": 11,
+      "powerBonus": 8
+    }
+  ],
+  "items": [
+    { "id": "herb_ningling", "name": "凝灵草", "kind": "herb", "tier": "凡阶", "quality": "下品", "icon": "assets/icons/botanical-01.png" },
+    { "id": "herb_huiqi", "name": "回气草", "kind": "herb", "tier": "凡阶", "quality": "下品", "icon": "assets/icons/botanical-01.png" },
+    { "id": "herb_humai", "name": "护脉草", "kind": "herb", "tier": "凡阶", "quality": "中品", "icon": "assets/icons/botanical-02.png" },
+    { "id": "mat_dew_petals", "name": "带露玉髓花", "kind": "herb", "tier": "二阶", "quality": "极品", "icon": "assets/icons/botanical-03.png" },
+    { "id": "mat_chaowen_jade", "name": "潮纹玉", "kind": "material", "tier": "凡阶", "quality": "上品", "icon": "assets/icons/jewels-02.png" },
+    { "id": "pill_ningling_1_low", "name": "一阶下品凝灵丹", "kind": "pill", "tier": "一阶", "quality": "下品", "icon": "assets/icons/pills-01.png", "healHp": 12, "cultivationBonus": 16, "toxicity": 2 },
+    { "id": "pill_ningling_1_mid", "name": "一阶中品凝灵丹", "kind": "pill", "tier": "一阶", "quality": "中品", "icon": "assets/icons/pills-01.png", "healHp": 18, "cultivationBonus": 24, "toxicity": 1 },
+    { "id": "pill_humai_2_mid", "name": "二阶中品护脉丹", "kind": "pill", "tier": "二阶", "quality": "中品", "icon": "assets/icons/pills-02.png", "healHp": 28, "cultivationBonus": 30, "toxicity": 2 },
+    { "id": "pill_humai_2_high", "name": "二阶上品护脉丹", "kind": "pill", "tier": "二阶", "quality": "上品", "icon": "assets/icons/pills-02.png", "healHp": 40, "cultivationBonus": 42, "toxicity": 1 },
+    { "id": "pill_humai_2_supreme", "name": "二阶极品护脉丹", "kind": "pill", "tier": "二阶", "quality": "极品", "icon": "assets/icons/elixirs-02.png", "healHp": 56, "cultivationBonus": 60, "toxicity": 0 },
+    { "id": "talisman_escape", "name": "凡阶遁符", "kind": "talisman", "tier": "凡阶", "quality": "中品", "icon": "assets/icons/talismans-01.png" },
+    { "id": "weapon_iron_sword", "name": "凡阶铁剑", "kind": "weapon", "tier": "凡阶", "quality": "下品", "icon": "assets/weapons/sword_t01_001.png" },
+    { "id": "weapon_chaowen_sword", "name": "储水回锋剑", "kind": "weapon", "tier": "凡阶", "quality": "上品", "icon": "assets/weapons/ma_tu_sword_t02_006.png" },
+    { "id": "relic_chaowen_core", "name": "潮纹温脉炉胆", "kind": "relic", "tier": "凡阶", "quality": "上品", "icon": "assets/icons/relics-02.png" }
+  ],
+  "recipes": [
+    {
+      "id": "recipe_ningling",
+      "name": "凝灵丹方",
+      "pillTier": 1,
+      "inputs": { "herb_ningling": 2, "herb_huiqi": 1 },
+      "baseFurnaceTemp": 6,
+      "targetTempMin": 5,
+      "targetTempMax": 8,
+      "baseImpurity": 2,
+      "outputLowId": "pill_ningling_1_low",
+      "outputMidId": "pill_ningling_1_mid"
+    },
+    {
+      "id": "recipe_humai",
+      "name": "护脉丹方",
+      "pillTier": 2,
+      "inputs": { "herb_humai": 2, "herb_huiqi": 1 },
+      "baseFurnaceTemp": 7,
+      "targetTempMin": 6,
+      "targetTempMax": 8,
+      "baseImpurity": 3,
+      "outputLowId": "pill_humai_2_mid",
+      "outputMidId": "pill_humai_2_high",
+      "requiresMethodId": "method_fenhuo_tiqing"
+    }
+  ],
+  "missionTemplates": [
+    {
+      "id": "first_alchemy",
+      "title": "首炼灵丹",
+      "description": "用本门现有的凡炉，亲手炼成一枚入阶丹药。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 10,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "first_arena_win",
+      "title": "擂上首胜",
+      "description": "登临宗门试剑台，在同境切磋中堂堂正正赢下一场。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 10,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "followup_alchemy_humai",
+      "title": "续炼护脉丹",
+      "description": "以已稳的控火底子再开一炉护脉丹，供同门冲关或疗伤备用。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 10,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "followup_heritage_fenhuo",
+      "title": "承传分火提清",
+      "description": "向丹堂长老请教分火提清之要，独立以该手法炼成一炉灵丹。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 12,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "followup_arena_rematch",
+      "title": "试剑台复赛",
+      "description": "挟初胜余势再赴试剑台，验证新近积累的修为与剑势。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 10,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "followup_wild_expedition",
+      "title": "寒鸦岭外试锋",
+      "description": "带备遁符与兵器往山外寒鸦岭走一趟，见识真实险境、采摘灵草。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 10,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "daily_cultivate",
+      "title": "静室吐纳",
+      "description": "依洞府实供自行运转周天，积攒日常修为。",
+      "defaultRewardLabel": "三轮修为固本",
+      "defaultRounds": 3,
+      "defaultDaoyuanCost": 0,
+      "defaultDurationTicks": 4,
+      "isPlayerBounty": false
+    },
+    {
+      "id": "daily_herb_gather",
+      "title": "药圃巡采",
+      "description": "往后山药圃照料并采回成熟的凝灵草与回气草。",
+      "defaultRewardLabel": "两轮修为",
+      "defaultRounds": 2,
+      "defaultDaoyuanCost": 0,
+      "defaultDurationTicks": 4,
+      "isPlayerBounty": false
+    },
+    {
+      "id": "daily_alchemy",
+      "title": "丹堂常炉",
+      "description": "利用库中已有药材开炉供药，积攒炼丹火候。",
+      "defaultRewardLabel": "三轮修为",
+      "defaultRounds": 3,
+      "defaultDaoyuanCost": 0,
+      "defaultDurationTicks": 5,
+      "isPlayerBounty": false
+    },
+    {
+      "id": "craft_forging_sword",
+      "title": "锻铸蓄水剑",
+      "description": "取库中潮纹玉，以接锋蓄水纹锻成一柄储水回锋剑供同门佩带出战。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 10,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "craft_forging_core",
+      "title": "锻铸温脉炉胆",
+      "description": "取库中潮纹玉，以温炉控潮纹锻成潮纹温脉炉胆嵌装丹堂凡炉。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 10,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "craft_beast_gather",
+      "title": "携兽探泉采露",
+      "description": "习循铃御兽之法，携宗门灵兽赴寒泉寻回潮纹玉与完整带露玉髓花。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 10,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "realm_breakthrough",
+      "title": "破关冲境",
+      "description": "于当前大境九层圆满之际引气合脉，一鼓作气冲破大境瓶颈（若配以护脉丹或灵潮天时更稳）。",
+      "defaultRewardLabel": "十二轮修为灌注",
+      "defaultRounds": 12,
+      "defaultDaoyuanCost": 8,
+      "defaultDurationTicks": 8,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "challenge_gate_duel",
+      "title": "迎敌护山",
+      "description": "外域散修叩山叫阵！出面于山门演武擂台堂堂迎战，挫其锐气、捍卫宗门威名。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 6,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "conquer_frontline",
+      "title": "征伐诸域强敌",
+      "description": "领衔出征诸域踢馆或踏平古秘境！胜出爆刷道统根基、大量道源与高阶神兵宝药。",
+      "defaultRewardLabel": "十二轮修为灌注",
+      "defaultRounds": 12,
+      "defaultDaoyuanCost": 8,
+      "defaultDurationTicks": 8,
+      "isPlayerBounty": true
+    },
+    {
+      "id": "tournament_breakthrough",
+      "title": "阵前破关",
+      "description": "在大比正赛开擂前冲破当前小关，临阵精进修为。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 8,
+      "defaultDurationTicks": 6,
+      "isPlayerBounty": false
+    },
+    {
+      "id": "tournament_champion",
+      "title": "擂上夺魁",
+      "description": "在本届宗门大比决赛正面击败对手夺得头名。",
+      "defaultRewardLabel": "十二轮修为灌注",
+      "defaultRounds": 12,
+      "defaultDaoyuanCost": 8,
+      "defaultDurationTicks": 8,
+      "isPlayerBounty": false
+    },
+    {
+      "id": "tournament_guard",
+      "title": "护我门人",
+      "description": "执掌试剑台护擂阵旗，保大比交手同门尽数平安离台。",
+      "defaultRewardLabel": "十轮修为灌注",
+      "defaultRounds": 10,
+      "defaultDaoyuanCost": 6,
+      "defaultDurationTicks": 8,
+      "isPlayerBounty": false
+    }
+  ],
+  "heritages": [
+    {
+      "key": "heritage:method_fenhuo_tiqing",
+      "methodId": "method_fenhuo_tiqing",
+      "methodName": "分火提清法",
+      "foundationAward": 2,
+      "daoyuanAward": 12,
+      "unlocksPermission": "standing_bounty"
+    },
+    {
+      "key": "heritage:method_forging_fengwen",
+      "methodId": "method_forging_fengwen",
+      "methodName": "潮纹器道真解",
+      "foundationAward": 3,
+      "daoyuanAward": 16,
+      "unlocksPermission": "rule_grant"
+    },
+    {
+      "key": "heritage:method_beast_xunling",
+      "methodId": "method_beast_xunling",
+      "methodName": "循铃御兽诀",
+      "foundationAward": 4,
+      "daoyuanAward": 20,
+      "unlocksPermission": "multi_causal"
+    }
+  ],
+  "systemThresholds": [
+    { "key": "initial", "name": "初始绑定", "foundationRequired": 0 },
+    { "key": "standing_bounty", "name": "自动悬赏", "foundationRequired": 2 },
+    { "key": "rule_grant", "name": "规则赐予", "foundationRequired": 5 },
+    { "key": "multi_causal", "name": "多人因果", "foundationRequired": 9 },
+    { "key": "sect_law", "name": "宗门法则", "foundationRequired": 14 }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "seed": 20261123,
+  "foundationAtLaunch": 9,
+  "unlockedPermissions": [
+    "initial",
+    "standing_bounty",
+    "rule_grant",
+    "multi_causal"
+  ],
+  "caseA_bothHostsWin": {
+    "phase": "settled",
+    "breakthroughSucceeded": true,
+    "winnerId": "member_senior_disciple",
+    "bothSafe": true,
+    "missions": {
+      "breakthrough": "completed",
+      "champion": "completed",
+      "guard": "completed"
+    },
+    "summary": "青蘅山庄 大比决赛落幕：顾衍远 击败 陆宁竹 夺得头名，江玄月 挥旗收住余波护下二人平安离台。"
+  },
+  "caseB_breakthroughWinnerTakesFinal": {
+    "phase": "settled",
+    "breakthroughSucceeded": true,
+    "winnerId": "member_senior_disciple",
+    "missions": {
+      "breakthrough": "completed",
+      "champion": "failed",
+      "guard": "completed"
+    },
+    "championRefundedOnLoss": true,
+    "summary": "青蘅山庄 大比决赛落幕：顾衍远 击败 陆宁竹 夺得头名，江玄月 挥旗收住余波护下二人平安离台。"
+  },
+  "privacyIsolation": {
+    "publicForbiddenLeaks": 0,
+    "hostACannotSeeOthers": true,
+    "hostBCannotSeeOthers": true,
+    "elderCannotSeeOthers": true
+  }
+}

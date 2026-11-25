@@ -1,0 +1,975 @@
+{
+  "schemaVersion": 1,
+  "rulesVersion": "m1-rules-1.0.0",
+  "contentVersion": "m1-content-1.0.0",
+  "rngVersion": "pure-rand-xoroshiro128plus-v1",
+  "seed": 20261123,
+  "sectName": "青蘅山庄",
+  "sectReputation": 10,
+  "sectFocus": "balanced",
+  "tick": 1,
+  "daoyuanAvailable": 24,
+  "daoyuanReserved": 0,
+  "foundationPoints": 0,
+  "unlockedPermissions": [
+    "initial"
+  ],
+  "members": [
+    {
+      "id": "member_master",
+      "name": "宋昭舟",
+      "role": "sect_master",
+      "status": "active",
+      "portraitId": "righteous_049",
+      "originRegionId": "zhongzhou",
+      "background": "开山立宗之主，于筑基期勉力撑起山门与灵脉阵眼。",
+      "ageYears": 148,
+      "lifespanYears": 1400,
+      "realm": "筑基",
+      "realmLayer": 1,
+      "cultivation": 320,
+      "cultivationCap": 600,
+      "foundation": 14,
+      "caveSupplyPerRound": 12,
+      "meridianCapPerRound": 10,
+      "manualRatePerRound": 9,
+      "hp": 150,
+      "maxHp": 150,
+      "qi": 120,
+      "maxQi": 120,
+      "pillToxicity": 0,
+      "spiritRoot": {
+        "elements": [
+          "木",
+          "火"
+        ],
+        "grade": "地品"
+      },
+      "aptitude": {
+        "comprehension": 74,
+        "bone": 70,
+        "soul": 72,
+        "mindset": 78,
+        "luck": 60
+      },
+      "personality": "冷静",
+      "personalGoal": "重振山门道统，觅得可传衣钵之后辈",
+      "craftRank": {
+        "alchemy": 1,
+        "forging": 1,
+        "array": 2,
+        "talisman": 1
+      },
+      "knownMethods": [
+        "method_basic_sword",
+        "method_qinglian_huifeng"
+      ],
+      "hasAlchemyFire": true,
+      "hasCompletedFirstAlchemy": true,
+      "hasWonFirstArena": true,
+      "unlockedArenaRematch": true,
+      "equippedWeapon": {
+        "id": "wpn_master_01",
+        "templateId": "weapon_iron_sword",
+        "name": "青锋铁剑",
+        "tier": "凡阶",
+        "quality": "上品",
+        "iconPath": "assets/weapons/sword_t02_006.png",
+        "durability": 40,
+        "maxDurability": 40,
+        "attackBonus": 10,
+        "defenseBonus": 4
+      },
+      "pouchPills": {},
+      "pouchTalismans": 0,
+      "binding": {
+        "bound": true,
+        "bindingId": "bind_0_master",
+        "boundAtTick": 0,
+        "secrecyIntact": true
+      },
+      "currentActivity": {
+        "kind": "idle_cultivate",
+        "startedTick": 1,
+        "resolveAtTick": 3,
+        "summary": "洞府日常吐纳"
+      },
+      "injuries": [],
+      "notes": [
+        "开山立宗时即已秘密接入，不可向旁人泄露半字"
+      ]
+    },
+    {
+      "id": "member_alchemy_elder",
+      "name": "江玄月",
+      "role": "elder",
+      "status": "active",
+      "portraitId": "righteous_045",
+      "originRegionId": "nanjiang",
+      "background": "丹堂执事长老，手握独门「分火提清法」，惜无人肯沉心接续。",
+      "ageYears": 116,
+      "lifespanYears": 620,
+      "realm": "炼气",
+      "realmLayer": 8,
+      "cultivation": 188,
+      "cultivationCap": 240,
+      "foundation": 11,
+      "caveSupplyPerRound": 10,
+      "meridianCapPerRound": 9,
+      "manualRatePerRound": 9,
+      "hp": 104,
+      "maxHp": 104,
+      "qi": 96,
+      "maxQi": 96,
+      "pillToxicity": 0,
+      "spiritRoot": {
+        "elements": [
+          "火",
+          "木"
+        ],
+        "grade": "地品"
+      },
+      "aptitude": {
+        "comprehension": 76,
+        "bone": 58,
+        "soul": 74,
+        "mindset": 72,
+        "luck": 55
+      },
+      "personality": "专研",
+      "personalGoal": "亲见一名后学弟子独立使出分火提清法成丹",
+      "craftRank": {
+        "alchemy": 2,
+        "forging": 0,
+        "array": 0,
+        "talisman": 0
+      },
+      "knownMethods": [
+        "method_basic_fire",
+        "method_fenhuo_tiqing"
+      ],
+      "hasAlchemyFire": true,
+      "hasCompletedFirstAlchemy": true,
+      "hasWonFirstArena": false,
+      "unlockedArenaRematch": false,
+      "equippedWeapon": {
+        "id": "wpn_alchemy_seal_01",
+        "templateId": "weapon_iron_sword",
+        "name": "丹堂控火阵印",
+        "tier": "凡阶",
+        "quality": "中品",
+        "iconPath": "assets/weapons/seal_t02_004.png",
+        "durability": 36,
+        "maxDurability": 36,
+        "attackBonus": 4,
+        "defenseBonus": 6
+      },
+      "pouchPills": {},
+      "pouchTalismans": 0,
+      "binding": {
+        "bound": true,
+        "bindingId": "bind_0_alchemy_elder",
+        "boundAtTick": 0,
+        "secrecyIntact": true
+      },
+      "currentActivity": {
+        "kind": "idle_cultivate",
+        "startedTick": 1,
+        "resolveAtTick": 3,
+        "summary": "洞府日常吐纳"
+      },
+      "injuries": [],
+      "notes": [
+        "创法/传法者：已掌握「分火提清法」"
+      ]
+    },
+    {
+      "id": "member_recruit_elder",
+      "name": "沈清月",
+      "role": "elder",
+      "status": "active",
+      "portraitId": "righteous_011",
+      "originRegionId": "zhongzhou",
+      "background": "外门招生长老，奔走五域递送名帖、核验应试学徒。",
+      "ageYears": 88,
+      "lifespanYears": 540,
+      "realm": "炼气",
+      "realmLayer": 6,
+      "cultivation": 142,
+      "cultivationCap": 200,
+      "foundation": 9,
+      "caveSupplyPerRound": 9,
+      "meridianCapPerRound": 8,
+      "manualRatePerRound": 8,
+      "hp": 96,
+      "maxHp": 96,
+      "qi": 84,
+      "maxQi": 84,
+      "pillToxicity": 0,
+      "spiritRoot": {
+        "elements": [
+          "水",
+          "土"
+        ],
+        "grade": "凡品"
+      },
+      "aptitude": {
+        "comprehension": 60,
+        "bone": 62,
+        "soul": 66,
+        "mindset": 70,
+        "luck": 64
+      },
+      "personality": "谨慎",
+      "personalGoal": "为山门招来真能立得住的门人",
+      "craftRank": {
+        "alchemy": 0,
+        "forging": 0,
+        "array": 1,
+        "talisman": 1
+      },
+      "knownMethods": [
+        "method_basic_sword"
+      ],
+      "hasAlchemyFire": false,
+      "hasCompletedFirstAlchemy": false,
+      "hasWonFirstArena": true,
+      "unlockedArenaRematch": false,
+      "equippedWeapon": {
+        "id": "wpn_recruit_bell_01",
+        "templateId": "weapon_iron_sword",
+        "name": "护山铜铃",
+        "tier": "凡阶",
+        "quality": "下品",
+        "iconPath": "assets/weapons/bell_t01_001.png",
+        "durability": 32,
+        "maxDurability": 32,
+        "attackBonus": 3,
+        "defenseBonus": 5
+      },
+      "pouchPills": {},
+      "pouchTalismans": 0,
+      "binding": {
+        "bound": true,
+        "bindingId": "bind_0_recruit_elder",
+        "boundAtTick": 0,
+        "secrecyIntact": true
+      },
+      "currentActivity": {
+        "kind": "idle_cultivate",
+        "startedTick": 1,
+        "resolveAtTick": 3,
+        "summary": "洞府日常吐纳"
+      },
+      "injuries": [],
+      "notes": []
+    },
+    {
+      "id": "member_senior_disciple",
+      "name": "顾衍远",
+      "role": "disciple",
+      "status": "active",
+      "portraitId": "righteous_009",
+      "originRegionId": "beihuang",
+      "background": "入门最早的大师兄，平日负责护山巡查与采药照应。",
+      "ageYears": 27,
+      "lifespanYears": 480,
+      "realm": "炼气",
+      "realmLayer": 4,
+      "cultivation": 118,
+      "cultivationCap": 160,
+      "foundation": 8,
+      "caveSupplyPerRound": 9,
+      "meridianCapPerRound": 8,
+      "manualRatePerRound": 8,
+      "hp": 92,
+      "maxHp": 92,
+      "qi": 78,
+      "maxQi": 78,
+      "pillToxicity": 0,
+      "spiritRoot": {
+        "elements": [
+          "金"
+        ],
+        "grade": "凡品"
+      },
+      "aptitude": {
+        "comprehension": 56,
+        "bone": 71,
+        "soul": 54,
+        "mindset": 68,
+        "luck": 52
+      },
+      "personality": "重情",
+      "personalGoal": "护住同门，早日摸到炼气后期的门槛",
+      "craftRank": {
+        "alchemy": 0,
+        "forging": 0,
+        "array": 0,
+        "talisman": 0
+      },
+      "knownMethods": [
+        "method_basic_sword"
+      ],
+      "hasAlchemyFire": false,
+      "hasCompletedFirstAlchemy": false,
+      "hasWonFirstArena": true,
+      "unlockedArenaRematch": false,
+      "equippedWeapon": {
+        "id": "wpn_senior_01",
+        "templateId": "weapon_iron_sword",
+        "name": "凡阶铁剑",
+        "tier": "凡阶",
+        "quality": "下品",
+        "iconPath": "assets/weapons/sword_t01_001.png",
+        "durability": 28,
+        "maxDurability": 30,
+        "attackBonus": 6,
+        "defenseBonus": 2
+      },
+      "pouchPills": {},
+      "pouchTalismans": 0,
+      "binding": {
+        "bound": true,
+        "bindingId": "bind_0_senior",
+        "boundAtTick": 0,
+        "secrecyIntact": true
+      },
+      "currentActivity": {
+        "kind": "idle_cultivate",
+        "startedTick": 1,
+        "resolveAtTick": 3,
+        "summary": "洞府日常吐纳"
+      },
+      "injuries": [],
+      "notes": []
+    },
+    {
+      "id": "member_departed_01",
+      "name": "许玄",
+      "role": "disciple",
+      "status": "departed",
+      "portraitId": "mortal_001",
+      "originRegionId": "dongyu",
+      "background": "早年曾在山门帮忙炮制药草，后因家事正式拜别退宗返乡。",
+      "ageYears": 34,
+      "lifespanYears": 430,
+      "realm": "炼气",
+      "realmLayer": 2,
+      "cultivation": 78,
+      "cultivationCap": 140,
+      "foundation": 6,
+      "caveSupplyPerRound": 8,
+      "meridianCapPerRound": 8,
+      "manualRatePerRound": 8,
+      "hp": 84,
+      "maxHp": 84,
+      "qi": 66,
+      "maxQi": 66,
+      "pillToxicity": 0,
+      "spiritRoot": {
+        "elements": [
+          "木"
+        ],
+        "grade": "凡品"
+      },
+      "aptitude": {
+        "comprehension": 52,
+        "bone": 50,
+        "soul": 58,
+        "mindset": 66,
+        "luck": 50
+      },
+      "personality": "重情",
+      "personalGoal": "安稳行医济世",
+      "craftRank": {
+        "alchemy": 1,
+        "forging": 0,
+        "array": 0,
+        "talisman": 0
+      },
+      "knownMethods": [
+        "method_basic_fire"
+      ],
+      "hasAlchemyFire": true,
+      "hasCompletedFirstAlchemy": true,
+      "hasWonFirstArena": false,
+      "unlockedArenaRematch": false,
+      "equippedWeapon": {
+        "id": "wpn_alchemy_seal_01",
+        "templateId": "weapon_iron_sword",
+        "name": "丹堂控火阵印",
+        "tier": "凡阶",
+        "quality": "中品",
+        "iconPath": "assets/weapons/seal_t02_004.png",
+        "durability": 36,
+        "maxDurability": 36,
+        "attackBonus": 4,
+        "defenseBonus": 6
+      },
+      "pouchPills": {},
+      "pouchTalismans": 0,
+      "binding": {
+        "bound": true,
+        "bindingId": "bind_0_departed",
+        "boundAtTick": 0,
+        "secrecyIntact": true
+      },
+      "currentActivity": null,
+      "injuries": [],
+      "notes": [
+        "已正式退宗：停收新私令，仍保留经历与保密约束"
+      ]
+    },
+    {
+      "id": "member_10",
+      "name": "陆宁竹",
+      "role": "disciple",
+      "status": "active",
+      "portraitId": "righteous_003",
+      "originRegionId": "zhongzhou",
+      "background": "炉坊兼武馆学徒出身，自幼跟着走方丹师烧火辨药，也学过半套剑架。",
+      "ageYears": 21,
+      "lifespanYears": 428,
+      "realm": "炼气",
+      "realmLayer": 1,
+      "cultivation": 60,
+      "cultivationCap": 150,
+      "foundation": 6,
+      "caveSupplyPerRound": 9,
+      "meridianCapPerRound": 8,
+      "manualRatePerRound": 8,
+      "hp": 84,
+      "maxHp": 84,
+      "qi": 68,
+      "maxQi": 68,
+      "pillToxicity": 0,
+      "spiritRoot": {
+        "elements": [
+          "火",
+          "木"
+        ],
+        "grade": "凡品"
+      },
+      "aptitude": {
+        "comprehension": 70,
+        "bone": 55,
+        "soul": 52,
+        "mindset": 67,
+        "luck": 52
+      },
+      "personality": "冷静",
+      "personalGoal": "立志先炼成一炉入阶丹，也在同境试剑台上闯出名声",
+      "craftRank": {
+        "alchemy": 1,
+        "forging": 0,
+        "array": 0,
+        "talisman": 0
+      },
+      "knownMethods": [
+        "method_basic_fire",
+        "method_basic_sword"
+      ],
+      "hasAlchemyFire": true,
+      "hasCompletedFirstAlchemy": false,
+      "hasWonFirstArena": false,
+      "unlockedArenaRematch": false,
+      "equippedWeapon": {
+        "id": "wpn_12",
+        "templateId": "weapon_iron_sword",
+        "name": "随身青铁剑",
+        "tier": "凡阶",
+        "quality": "下品",
+        "iconPath": "assets/weapons/sword_t01_002.png",
+        "durability": 30,
+        "maxDurability": 30,
+        "attackBonus": 6,
+        "defenseBonus": 2
+      },
+      "pouchPills": {},
+      "pouchTalismans": 0,
+      "binding": {
+        "bound": true,
+        "bindingId": "bind_11",
+        "boundAtTick": 0,
+        "secrecyIntact": true
+      },
+      "currentActivity": {
+        "kind": "idle_cultivate",
+        "missionId": "mission_13",
+        "startedTick": 1,
+        "resolveAtTick": 3,
+        "summary": "闭关行功：入门固本"
+      },
+      "injuries": [],
+      "notes": [
+        "第 1 届以「外门正式席」自愿入门"
+      ]
+    }
+  ],
+  "recruitment": {
+    "id": "recruit_gen_1",
+    "generation": 1,
+    "regionId": "zhongzhou",
+    "totalSeats": 2,
+    "remainingSeats": 1,
+    "openedAtTick": 0,
+    "candidates": [
+      {
+        "id": "cand_1_1",
+        "sessionId": "recruit_gen_1",
+        "name": "陆宁竹",
+        "portraitId": "righteous_003",
+        "originRegionId": "zhongzhou",
+        "background": "炉坊兼武馆学徒出身，自幼跟着走方丹师烧火辨药，也学过半套剑架。",
+        "ageYears": 21,
+        "lifespanYears": 428,
+        "realm": "炼气",
+        "realmLayer": 1,
+        "cultivation": 60,
+        "spiritRoot": {
+          "elements": [
+            "火",
+            "木"
+          ],
+          "grade": "凡品"
+        },
+        "aptitude": {
+          "comprehension": 70,
+          "bone": 55,
+          "soul": 52,
+          "mindset": 67,
+          "luck": 52
+        },
+        "personality": "冷静",
+        "personalGoal": "立志先炼成一炉入阶丹，也在同境试剑台上闯出名声",
+        "craftRank": {
+          "alchemy": 1,
+          "forging": 0,
+          "array": 0,
+          "talisman": 0
+        },
+        "knownMethods": [
+          "method_basic_fire",
+          "method_basic_sword"
+        ],
+        "hasAlchemyFire": true,
+        "hasSwordStance": true,
+        "caveSupplyPerRound": 9,
+        "meridianCapPerRound": 8,
+        "manualRatePerRound": 8,
+        "requirement": {
+          "minSeatTier": "outer",
+          "label": "外门正式席位"
+        },
+        "auditioned": true,
+        "outcome": "accepted",
+        "decisionReason": "应「外门正式席」之约，愿拜入青蘅山庄门下。",
+        "joinedMemberId": "member_10"
+      },
+      {
+        "id": "cand_1_2",
+        "sessionId": "recruit_gen_1",
+        "name": "陆清安",
+        "portraitId": "righteous_004",
+        "originRegionId": "zhongzhou",
+        "background": "边城镖局少年，常年握铁剑守夜，身手利落但尚未正式引气入室。",
+        "ageYears": 17,
+        "lifespanYears": 540,
+        "realm": "炼气",
+        "realmLayer": 2,
+        "cultivation": 51,
+        "spiritRoot": {
+          "elements": [
+            "金"
+          ],
+          "grade": "凡品"
+        },
+        "aptitude": {
+          "comprehension": 55,
+          "bone": 63,
+          "soul": 69,
+          "mindset": 69,
+          "luck": 60
+        },
+        "personality": "谨慎",
+        "personalGoal": "求同境对手磨剑，不甘终身困在乡里演武场",
+        "craftRank": {
+          "alchemy": 0,
+          "forging": 0,
+          "array": 0,
+          "talisman": 0
+        },
+        "knownMethods": [
+          "method_basic_sword"
+        ],
+        "hasAlchemyFire": false,
+        "hasSwordStance": true,
+        "caveSupplyPerRound": 9,
+        "meridianCapPerRound": 8,
+        "manualRatePerRound": 8,
+        "requirement": {
+          "minSeatTier": "sword_pavilion",
+          "label": "试剑台练剑席（需有切磋同境之机）"
+        },
+        "auditioned": false,
+        "outcome": "pending",
+        "decisionReason": null,
+        "joinedMemberId": null
+      },
+      {
+        "id": "cand_1_3",
+        "sessionId": "recruit_gen_1",
+        "name": "林微尘",
+        "portraitId": "righteous_004",
+        "originRegionId": "zhongzhou",
+        "background": "南路药铺坐堂学徒，能辨三味药性苏醒先后，非真传丹堂不愿轻拜山门。",
+        "ageYears": 19,
+        "lifespanYears": 494,
+        "realm": "炼气",
+        "realmLayer": 1,
+        "cultivation": 63,
+        "spiritRoot": {
+          "elements": [
+            "木",
+            "水"
+          ],
+          "grade": "凡品"
+        },
+        "aptitude": {
+          "comprehension": 61,
+          "bone": 61,
+          "soul": 66,
+          "mindset": 67,
+          "luck": 65
+        },
+        "personality": "专研",
+        "personalGoal": "想找一座肯真教炼丹手法的丹堂安身传艺",
+        "craftRank": {
+          "alchemy": 1,
+          "forging": 0,
+          "array": 0,
+          "talisman": 0
+        },
+        "knownMethods": [
+          "method_basic_fire"
+        ],
+        "hasAlchemyFire": true,
+        "hasSwordStance": false,
+        "caveSupplyPerRound": 9,
+        "meridianCapPerRound": 8,
+        "manualRatePerRound": 8,
+        "requirement": {
+          "minSeatTier": "alchemy_hall",
+          "label": "丹堂师承席（立志专修丹道）"
+        },
+        "auditioned": false,
+        "outcome": "pending",
+        "decisionReason": null,
+        "joinedMemberId": null
+      },
+      {
+        "id": "cand_1_4",
+        "sessionId": "recruit_gen_1",
+        "name": "许宁",
+        "portraitId": "mortal_005",
+        "originRegionId": "zhongzhou",
+        "background": "坊市采药兼修炉灶的散学青年，性情沉稳，对名门大派并不盲从。",
+        "ageYears": 22,
+        "lifespanYears": 452,
+        "realm": "炼气",
+        "realmLayer": 1,
+        "cultivation": 73,
+        "spiritRoot": {
+          "elements": [
+            "土"
+          ],
+          "grade": "凡品"
+        },
+        "aptitude": {
+          "comprehension": 50,
+          "bone": 69,
+          "soul": 52,
+          "mindset": 58,
+          "luck": 47
+        },
+        "personality": "冷静",
+        "personalGoal": "寻一处安稳山门，靠踏实手艺挣得长生资粮",
+        "craftRank": {
+          "alchemy": 1,
+          "forging": 0,
+          "array": 0,
+          "talisman": 0
+        },
+        "knownMethods": [
+          "method_basic_fire"
+        ],
+        "hasAlchemyFire": true,
+        "hasSwordStance": false,
+        "caveSupplyPerRound": 9,
+        "meridianCapPerRound": 8,
+        "manualRatePerRound": 8,
+        "requirement": {
+          "minSeatTier": "outer",
+          "label": "外门正式席位"
+        },
+        "auditioned": false,
+        "outcome": "pending",
+        "decisionReason": null,
+        "joinedMemberId": null
+      }
+    ]
+  },
+  "inventory": {
+    "furnaces": 1,
+    "herbs": {
+      "herb_ningling": 12,
+      "herb_huiqi": 6,
+      "herb_humai": 4
+    },
+    "pills": {
+      "pill_ningling_1_low": 1
+    },
+    "talismans": {
+      "talisman_escape": 2
+    },
+    "weapons": [
+      {
+        "id": "wpn_vault_sword_01",
+        "templateId": "weapon_iron_sword",
+        "name": "凡阶铁剑",
+        "tier": "凡阶",
+        "quality": "下品",
+        "iconPath": "assets/weapons/sword_t01_001.png",
+        "durability": 30,
+        "maxDurability": 30,
+        "attackBonus": 6,
+        "defenseBonus": 2
+      }
+    ],
+    "spiritStones": {
+      "low": 120,
+      "mid": 0,
+      "high": 0,
+      "supreme": 0
+    }
+  },
+  "arenaOpponents": [
+    {
+      "id": "opp_arena_01",
+      "name": "周墨",
+      "title": "试剑台外门守擂弟子",
+      "portraitId": "righteous_013",
+      "realm": "炼气",
+      "realmLayer": 1,
+      "powerScore": 90,
+      "maxHp": 74,
+      "attack": 17,
+      "defense": 6,
+      "evasion": 46,
+      "knownMethod": "青松试剑势",
+      "available": true
+    },
+    {
+      "id": "opp_arena_02",
+      "name": "顾长风",
+      "title": "复赛挑战席擂主",
+      "portraitId": "righteous_014",
+      "realm": "炼气",
+      "realmLayer": 3,
+      "powerScore": 103,
+      "maxHp": 90,
+      "attack": 22,
+      "defense": 9,
+      "evasion": 50,
+      "knownMethod": "青莲回锋诀（残）",
+      "available": true
+    }
+  ],
+  "missions": [
+    {
+      "id": "mission_13",
+      "commandId": "auto-induction:member_10",
+      "targetType": "daily_cultivate",
+      "title": "入门固本",
+      "description": "初入山门，先在分配洞府静心吐纳三轮，稳住气海运转。",
+      "source": "auto_daily",
+      "recipientId": "member_10",
+      "issuedAtTick": 0,
+      "deadlineTick": 6,
+      "status": "accepted",
+      "decisionReason": "新入山门即受秘传启蒙，当即欣然照行。",
+      "primaryReward": {
+        "slot": "primary",
+        "kind": "cultivation_rounds",
+        "label": "三轮修为固本（24 缕）",
+        "rounds": 3,
+        "daoyuanCost": 0
+      },
+      "primarySettled": false,
+      "hiddenSettled": false,
+      "hiddenReleased": false,
+      "settledAtTick": null,
+      "relatedFactIds": [
+        "fact_7"
+      ]
+    }
+  ],
+  "reservations": [],
+  "ledger": [],
+  "facts": [
+    {
+      "id": "fact_1",
+      "seq": 1,
+      "tick": 0,
+      "type": "world.founded",
+      "visibility": "public",
+      "recipientId": null,
+      "actorIds": [
+        "member_master",
+        "member_alchemy_elder",
+        "member_recruit_elder",
+        "member_senior_disciple"
+      ],
+      "causeIds": [],
+      "publicSummary": "青蘅山庄开山立宗，宗主宋昭舟率诸位长老门人整顿洞府与丹堂，首届招贤名帖已发往中州。",
+      "privateSummary": null,
+      "systemSummary": "青蘅山庄开山立宗，宗主宋昭舟率诸位长老门人整顿洞府与丹堂，首届招贤名帖已发往中州。",
+      "cueTier": "routine"
+    },
+    {
+      "id": "fact_2",
+      "seq": 2,
+      "tick": 0,
+      "type": "system.advanced",
+      "visibility": "system_only",
+      "recipientId": null,
+      "actorIds": [],
+      "causeIds": [
+        "fact_1"
+      ],
+      "publicSummary": null,
+      "privateSummary": null,
+      "systemSummary": "【叮！宗门系统已接入青蘅山庄】全宗在籍 4 人秘密绑定完毕（1 名旧人已退宗停令）。初始可用道源 24，道统根基 0。",
+      "cueTier": "routine"
+    },
+    {
+      "id": "fact_3",
+      "seq": 3,
+      "tick": 0,
+      "type": "recruitment.auditioned",
+      "visibility": "public",
+      "recipientId": null,
+      "actorIds": [
+        "member_recruit_elder"
+      ],
+      "causeIds": [],
+      "publicSummary": "山门试艺核验了「陆宁竹」既有根底：凡品火木灵根，已会引火运炉、熟演青松剑势。",
+      "privateSummary": null,
+      "systemSummary": "试艺揭露「陆宁竹」先天与已有本领（仅显露未改动数值）。未入门前仍只见公开邀帖。",
+      "cueTier": "routine"
+    },
+    {
+      "id": "fact_4",
+      "seq": 4,
+      "tick": 0,
+      "type": "recruitment.invited",
+      "visibility": "public",
+      "recipientId": null,
+      "actorIds": [
+        "member_recruit_elder"
+      ],
+      "causeIds": [],
+      "publicSummary": "宗门以「外门正式席」向 陆宁竹 发出正式入门帖。",
+      "privateSummary": null,
+      "systemSummary": "向未入门候选 陆宁竹 发出公开邀请（外门正式席）；此时尚未建立任何系统绑定。",
+      "cueTier": "routine"
+    },
+    {
+      "id": "fact_5",
+      "seq": 5,
+      "tick": 0,
+      "type": "member.joined",
+      "visibility": "host_private",
+      "recipientId": "member_10",
+      "actorIds": [
+        "member_10"
+      ],
+      "causeIds": [
+        "fact_4"
+      ],
+      "publicSummary": "陆宁竹 接下「外门正式席」拜帖，行拜师礼正式入宗。",
+      "privateSummary": "【叮！系统绑定已成立】陆宁竹，你已正式入籍青蘅山庄。此声提示仅你本人可见，不可向师长同门泄露半分。",
+      "systemSummary": "陆宁竹 正式入宗，入宗当刻即已建立唯一秘密绑定 (bind_11)。",
+      "cueTier": "notable"
+    },
+    {
+      "id": "fact_6",
+      "seq": 6,
+      "tick": 0,
+      "type": "member.joined",
+      "visibility": "public",
+      "recipientId": null,
+      "actorIds": [
+        "member_10"
+      ],
+      "causeIds": [
+        "fact_4"
+      ],
+      "publicSummary": "陆宁竹 正式拜入青蘅山庄（外门正式席），获分入门洞府与铭牌。",
+      "privateSummary": null,
+      "systemSummary": "公开纪事已登记 陆宁竹 入宗礼成。",
+      "cueTier": "routine"
+    },
+    {
+      "id": "fact_7",
+      "seq": 7,
+      "tick": 0,
+      "type": "mission.issued",
+      "visibility": "host_private",
+      "recipientId": "member_10",
+      "actorIds": [
+        "member_10"
+      ],
+      "missionId": "mission_13",
+      "causeIds": [
+        "fact_5"
+      ],
+      "publicSummary": null,
+      "privateSummary": "【叮！系统发布任务「入门固本」】初入山门，先在分配洞府静心吐纳三轮，稳住气海运转。 奖励：三轮修为固本（24 缕）。",
+      "systemSummary": "新人 陆宁竹 入门瞬间已获发首道私密入门令「入门固本」。",
+      "cueTier": "notable"
+    }
+  ],
+  "battleFacts": {},
+  "alchemyFacts": {},
+  "heritages": [],
+  "standingBounties": [],
+  "receipts": {
+    "ev-aud": {
+      "commandId": "ev-aud",
+      "tick": 0,
+      "ok": true,
+      "message": "陆宁竹 试艺完成。",
+      "factIds": [
+        "fact_3"
+      ]
+    },
+    "ev-inv": {
+      "commandId": "ev-inv",
+      "tick": 0,
+      "ok": true,
+      "message": "陆宁竹 已自愿入宗并完成秘密绑定。",
+      "memberId": "member_10",
+      "factIds": [
+        "fact_4",
+        "fact_5",
+        "fact_6",
+        "fact_7"
+      ]
+    }
+  },
+  "nextFactSeq": 8,
+  "nextEntitySeq": 14,
+  "rngAttemptCounters": {}
+}

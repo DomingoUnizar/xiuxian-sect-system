@@ -1,0 +1,33 @@
+{
+  "environment": {
+    "nodeVersion": "v24.22.0",
+    "platform": "win32 10.0.26300",
+    "cpuModel": "Intel(R) Core(TM) i9-14900HX",
+    "activeMembersCount": 6
+  },
+  "ticksSimulated": 5760,
+  "sampleCount": 15,
+  "samplesMs": [
+    12.68,
+    10.46,
+    12.62,
+    10.43,
+    11.28,
+    10.02,
+    8.82,
+    9.41,
+    8.52,
+    8.28,
+    8.34,
+    8.76,
+    9.46,
+    9.07,
+    8.76
+  ],
+  "p50Ms": 9.41,
+  "p95Ms": 12.68,
+  "budgetMs": 2000,
+  "passedBudget": true,
+  "deterministicHashAllEqual": true,
+  "finalStateHash": "73ddc839752b8212b4d2276c337b01573e5d16a46763bbd04229d2986e794304"
+}

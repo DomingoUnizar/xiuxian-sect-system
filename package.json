@@ -1,0 +1,37 @@
+{
+  "name": "xiuzhen-sect-system",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4179 --strictPort",
+    "typecheck": "vue-tsc --noEmit",
+    "test:unit": "vitest run",
+    "test:e2e": "playwright test",
+    "test": "npm.cmd run typecheck && npm.cmd run test:unit && npm.cmd run build",
+    "evidence:m1": "tsx tests/scripts/generate-m1-evidence.ts",
+    "evidence:m2": "tsx tests/scripts/generate-m2-evidence.ts",
+    "validate:drops": "node scripts/validate-drops.mjs"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "dexie": "^4.0.11",
+    "pure-rand": "^6.1.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^26.6.6",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "fake-indexeddb": "^6.0.0",
+    "fast-check": "^3.23.2",
+    "subset-font": "^2.9.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3",
+    "vite": "^6.2.2",
+    "vitest": "^3.0.9",
+    "vue-tsc": "^2.2.8"
+  }
+}

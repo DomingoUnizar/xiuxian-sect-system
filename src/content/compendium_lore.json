@@ -1,0 +1,802 @@
+[
+  {
+    "id": "lore_001",
+    "kind": "weapon",
+    "subType": "sword",
+    "name": "青松剑",
+    "tier": "凡阶",
+    "lore": "松纹铁所铸，剑身薄而韧，出鞘有松风之声，宜初学者试手，久用不折。"
+  },
+  {
+    "id": "lore_002",
+    "kind": "weapon",
+    "subType": "sword",
+    "name": "断云锋",
+    "tier": "玄阶",
+    "lore": "剑脊开双槽，斩落时云气自分，曾随一名筑基修士行过北荒古道，锋口微卷而不失其利。"
+  },
+  {
+    "id": "lore_003",
+    "kind": "weapon",
+    "subType": "saber",
+    "name": "柴门刀",
+    "tier": "凡阶",
+    "lore": "刀身厚重，无甚华饰，樵夫与山民常佩，劈柴断木极顺手，刃口钝了磨一磨又可用。"
+  },
+  {
+    "id": "lore_004",
+    "kind": "weapon",
+    "subType": "saber",
+    "name": "赤霞斩",
+    "tier": "地阶",
+    "lore": "以赤铁淬霞光三百日而成，刀背如烧，出鞘时霞纹流转，一斩之下草木皆焦。"
+  },
+  {
+    "id": "lore_005",
+    "kind": "weapon",
+    "subType": "polearm",
+    "name": "铁脊枪",
+    "tier": "凡阶",
+    "lore": "枪杆以老柘木为心，外裹铁脊，挺刺沉稳，山门守夜弟子多持此物巡道。"
+  },
+  {
+    "id": "lore_006",
+    "kind": "weapon",
+    "subType": "polearm",
+    "name": "千嶂戟",
+    "tier": "天阶",
+    "lore": "戟头分三锋，重而不滞，相传曾立于千嶂关前，一戟扫开乱石半壁，至今锋口无缺。"
+  },
+  {
+    "id": "lore_007",
+    "kind": "weapon",
+    "subType": "axe",
+    "name": "裂石斧",
+    "tier": "玄阶",
+    "lore": "斧面阔三指，背厚如砖，专破坚甲厚壳，挥动需臂力相衬，否则反伤自身。"
+  },
+  {
+    "id": "lore_008",
+    "kind": "weapon",
+    "subType": "axe",
+    "name": "断岳斧",
+    "tier": "地阶",
+    "lore": "以玄铁整块锻成，斧刃薄如月牙，落处山石应声而裂，唯柄易折，须常换。"
+  },
+  {
+    "id": "lore_009",
+    "kind": "weapon",
+    "subType": "bow",
+    "name": "桑木弓",
+    "tier": "凡阶",
+    "lore": "桑木为胎，牛筋为弦，寻常猎户所用，百步之内尚能中的，逾百步则力散。"
+  },
+  {
+    "id": "lore_010",
+    "kind": "weapon",
+    "subType": "bow",
+    "name": "撼星弓",
+    "tier": "天阶",
+    "lore": "弓身以千年柘木与寒铁合成，拉满如抱月，箭去带啸，曾射落夜空中一点流光。"
+  },
+  {
+    "id": "lore_011",
+    "kind": "weapon",
+    "subType": "staff",
+    "name": "竹节杖",
+    "tier": "凡阶",
+    "lore": "取老竹九节，火烤去湿，轻而有韧性，行脚修士多持以探路，亦可挡野犬。"
+  },
+  {
+    "id": "lore_012",
+    "kind": "weapon",
+    "subType": "staff",
+    "name": "沉香杖",
+    "tier": "地阶",
+    "lore": "沉香木为体，杖头嵌一丸温玉，握之掌心微暖，久持可定浮气，杖身隐有暗纹。"
+  },
+  {
+    "id": "lore_013",
+    "kind": "weapon",
+    "subType": "fan",
+    "name": "折风扇",
+    "tier": "玄阶",
+    "lore": "扇骨十六根，皆以寒竹削成，展开时生凉风，可拂散毒烟，合拢可作短匕。"
+  },
+  {
+    "id": "lore_014",
+    "kind": "weapon",
+    "subType": "fan",
+    "name": "素羽扇",
+    "tier": "天阶",
+    "lore": "扇面以灵禽尾羽缀成，色白如雪，一扇风起，二扇云开，三扇则持者力竭，非深厚修为不可轻用。"
+  },
+  {
+    "id": "lore_015",
+    "kind": "weapon",
+    "subType": "gauntlet",
+    "name": "玄铁手",
+    "tier": "玄阶",
+    "lore": "五指皆以玄铁片缀连，掌心垫软革，抓握刀锋不伤，亦可硬接一记拳风。"
+  },
+  {
+    "id": "lore_016",
+    "kind": "weapon",
+    "subType": "gauntlet",
+    "name": "搏虎臂",
+    "tier": "地阶",
+    "lore": "臂甲自肘至腕，覆鳞三十六片，猎虎时曾以之挡过一扑，鳞上留三道深痕。"
+  },
+  {
+    "id": "lore_017",
+    "kind": "weapon",
+    "subType": "bell",
+    "name": "醒神铃",
+    "tier": "玄阶",
+    "lore": "铃身小如鸡子，摇之清越，可惊散昏沉神识，夜行遇雾，闻声便不至于迷路。"
+  },
+  {
+    "id": "lore_018",
+    "kind": "weapon",
+    "subType": "bell",
+    "name": "九幽钟",
+    "tier": "帝器",
+    "lore": "钟高九尺，纹如深渊回旋，一击之下百兽伏地，声歇而余韵三日不散，为镇宗之器。"
+  },
+  {
+    "id": "lore_019",
+    "kind": "weapon",
+    "subType": "mirror",
+    "name": "照骨镜",
+    "tier": "地阶",
+    "lore": "镜面青灰，照人不显形容，唯见骨节脉络，伤在何处一目了然，医者奉为至宝。"
+  },
+  {
+    "id": "lore_020",
+    "kind": "weapon",
+    "subType": "mirror",
+    "name": "澄心镜",
+    "tier": "天阶",
+    "lore": "镜背铸八卦纹，持之静坐，心中杂念自现于镜面，散尽则镜明如秋水，照物无影。"
+  },
+  {
+    "id": "lore_021",
+    "kind": "weapon",
+    "subType": "seal",
+    "name": "镇山印",
+    "tier": "玄阶",
+    "lore": "印方三寸，钮作小山形，盖于符纸之上可镇一处地脉，重压之下邪祟难越。"
+  },
+  {
+    "id": "lore_022",
+    "kind": "weapon",
+    "subType": "seal",
+    "name": "山河大印",
+    "tier": "帝器",
+    "lore": "印面刻九条水脉，重逾千钧，一落如山岳压顶，非大修士不能提起，落处十里地气皆伏。"
+  },
+  {
+    "id": "lore_023",
+    "kind": "weapon",
+    "subType": "instrument",
+    "name": "七弦琴",
+    "tier": "地阶",
+    "lore": "桐木为面，冰弦七根，指落则音清而远，抚之可安躁气，弦断一根则音散。"
+  },
+  {
+    "id": "lore_024",
+    "kind": "weapon",
+    "subType": "instrument",
+    "name": "玉笛",
+    "tier": "天阶",
+    "lore": "白玉琢成，孔距合律，吹之如春水过石，一曲毕，听者心神俱静，久吹则唇寒。"
+  },
+  {
+    "id": "lore_025",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "凝灵丹",
+    "tier": "凡阶",
+    "lore": "凡炉所出，色青如豆，服之暖腹，可补一日吐纳之耗，多服则积浊于脉。"
+  },
+  {
+    "id": "lore_026",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "护脉丹",
+    "tier": "玄阶",
+    "lore": "色赤纹深，入口先苦后甘，能护经脉不裂，重伤者服之可保三日不恶，忌与寒药同服。"
+  },
+  {
+    "id": "lore_027",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "洗髓丹",
+    "tier": "地阶",
+    "lore": "丹成九转，色白如脂，服后骨节微响，浊气自毛孔散出，须静室三日，勿见风。"
+  },
+  {
+    "id": "lore_028",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "还元丹",
+    "tier": "天阶",
+    "lore": "一丹如珠，映光见内有云气旋走，垂危者服之可续一线生机，药力过猛，须量体而用。"
+  },
+  {
+    "id": "lore_029",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "辟谷丸",
+    "tier": "凡阶",
+    "lore": "以五谷与茯苓合炼，一枚可抵一日之食，行脚者常备，久服则胃口渐弱。"
+  },
+  {
+    "id": "lore_030",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "清心丸",
+    "tier": "玄阶",
+    "lore": "色如新雪，气凉微辛，含之可压心火，走火入魔之初服一枚，尚能自持。"
+  },
+  {
+    "id": "lore_031",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "破障丹",
+    "tier": "地阶",
+    "lore": "服之如撞钟，识海一震，卡在关口者可借势冲一冲，然成者十之一二。"
+  },
+  {
+    "id": "lore_032",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "九转金丹",
+    "tier": "天阶",
+    "lore": "炉火九昼夜不熄方得一枚，色若熔金，纹作龙鳞，服之换骨，世间存者不过三。"
+  },
+  {
+    "id": "lore_033",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "止血散",
+    "tier": "凡阶",
+    "lore": "其实为散不为丹，白瓶盛之，撒于创口立止，山行采药者腰间常系一瓶。"
+  },
+  {
+    "id": "lore_034",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "续骨膏",
+    "tier": "玄阶",
+    "lore": "膏色乌黑，摊于布上贴骨伤处，三日一换，断骨可续，唯阴雨时隐隐作痛。"
+  },
+  {
+    "id": "lore_035",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "定魂丹",
+    "tier": "地阶",
+    "lore": "魂惊者服之，一炷香内神思归位，面色由青转红，然过服则终日昏沉。"
+  },
+  {
+    "id": "lore_036",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "驱虫丸",
+    "tier": "凡阶",
+    "lore": "药丸如豆，气辛烈，佩于衣内可避山蚊毒虫，入瘴地则须含于舌下。"
+  },
+  {
+    "id": "lore_037",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "明目丹",
+    "tier": "玄阶",
+    "lore": "服后眼白微凉，夜行可见十余步，然此药伤肝，一月不可过三枚，慎之。"
+  },
+  {
+    "id": "lore_038",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "化毒丹",
+    "tier": "地阶",
+    "lore": "色碧，入口化津，解草木蛇虫之毒，唯对金石之毒无效，服者须先辨其源。"
+  },
+  {
+    "id": "lore_039",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "驻颜丹",
+    "tier": "天阶",
+    "lore": "丹色粉白，香如桃花，服之容颜缓老，然十年只可一丸，多服反损气血。"
+  },
+  {
+    "id": "lore_040",
+    "kind": "pill",
+    "subType": "pill",
+    "name": "养神丹",
+    "tier": "玄阶",
+    "lore": "以夜交藤与远志合炼，睡前一丸，梦少而晨起清明，久服成习则难断。"
+  },
+  {
+    "id": "lore_041",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "凝灵草",
+    "tier": "凡阶",
+    "lore": "生于阴坡石缝，叶背有细霜，日出前采者灵气最足，过午则散，晒干可入凡炉。"
+  },
+  {
+    "id": "lore_042",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "回气草",
+    "tier": "凡阶",
+    "lore": "茎紫叶圆，贴地而生，嚼之微甘，可缓一日劳累，深涧背阴处最易寻见。"
+  },
+  {
+    "id": "lore_043",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "护脉草",
+    "tier": "玄阶",
+    "lore": "根如人指，色黄而韧，与赤芍同煎可护经脉，误食其叶则胸闷半日，须辨叶。"
+  },
+  {
+    "id": "lore_044",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "紫芝",
+    "tier": "地阶",
+    "lore": "生于古木朽根，伞盖紫黑，边缘一圈金线者为上，采时须留三分根，来年方再生。"
+  },
+  {
+    "id": "lore_045",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "玉髓花",
+    "tier": "地阶",
+    "lore": "花瓣半透如凝脂，夜开昼合，花心含水一滴，日出即坠，采者须在天未亮时守候。"
+  },
+  {
+    "id": "lore_046",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "月见草",
+    "tier": "凡阶",
+    "lore": "叶细如柳，入夜开小白花，气淡，煎汤可安眠，多饮则晨起头沉，山民常晒干存之。"
+  },
+  {
+    "id": "lore_047",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "铁骨藤",
+    "tier": "玄阶",
+    "lore": "藤身乌黑，断之见白丝，韧性极强，可绞绳亦可入药，煎服能壮筋骨，唯味苦涩。"
+  },
+  {
+    "id": "lore_048",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "雪参",
+    "tier": "天阶",
+    "lore": "生于雪线之上，根须如银，十年长一寸，服之补气而不过燥，采时需以雪覆根。"
+  },
+  {
+    "id": "lore_049",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "赤霞果",
+    "tier": "玄阶",
+    "lore": "秋熟时果皮如霞，酸甜多汁，食之暖胃，核可入药，然多食则生内热。"
+  },
+  {
+    "id": "lore_050",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "幽兰",
+    "tier": "地阶",
+    "lore": "生于深谷背阴，叶细而长，花开三瓣，色淡青，香远而清，移栽则三年不开。"
+  },
+  {
+    "id": "lore_051",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "石乳芝",
+    "tier": "地阶",
+    "lore": "附于洞壁石乳之侧，形如耳，色灰白，百年方成一枚，采之须以竹刀轻取。"
+  },
+  {
+    "id": "lore_052",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "忘忧草",
+    "tier": "凡阶",
+    "lore": "丛生路旁，花小而黄，揉碎其叶嗅之，心绪稍平，然久嗅则神思迟钝。"
+  },
+  {
+    "id": "lore_053",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "龙须藤",
+    "tier": "天阶",
+    "lore": "藤须细长如髯，攀崖而生，色青中带金，煎汤可续筋骨，百株之中不过一二。"
+  },
+  {
+    "id": "lore_054",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "断肠花",
+    "tier": "玄阶",
+    "lore": "花色极艳，红白相间，汁液沾唇即麻，山民见之皆绕行，入药须以甘草制之。"
+  },
+  {
+    "id": "lore_055",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "九叶灵芝",
+    "tier": "天阶",
+    "lore": "一茎九叶，叶面有云纹，生于千年古松之下，服之可固本，然百年难遇一枚。"
+  },
+  {
+    "id": "lore_056",
+    "kind": "herb",
+    "subType": "herb",
+    "name": "阴魄菇",
+    "tier": "地阶",
+    "lore": "生于阴湿腐木，伞面青黑，夜有微光，可安魂却不可生食，须以姜汁煮透。"
+  },
+  {
+    "id": "lore_057",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "引火起炉诀",
+    "tier": "凡阶",
+    "lore": "入门控火之法，讲的是先温炉、后引气，九息一提，三十息一压，凡炉可稳。"
+  },
+  {
+    "id": "lore_058",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "青松试剑势",
+    "tier": "凡阶",
+    "lore": "外门剑架，起手如松立，收势如松垂，进退有据，最合初学之人打根基。"
+  },
+  {
+    "id": "lore_059",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "分火提清法",
+    "tier": "玄阶",
+    "lore": "以一念分二火，武火逼浊、文火养清，交替九次，丹色自正，最考耐性。"
+  },
+  {
+    "id": "lore_060",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "青莲回锋诀",
+    "tier": "玄阶",
+    "lore": "挡下先手，顺势回锋，如莲瓣反卷，专破贪进之势，习者须先稳下盘再练。"
+  },
+  {
+    "id": "lore_061",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "定息篇",
+    "tier": "凡阶",
+    "lore": "教人把一口气分作九段，缓入缓出，行住坐卧皆可练，久之心自不浮。"
+  },
+  {
+    "id": "lore_062",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "巡山纪要",
+    "tier": "玄阶",
+    "lore": "记古道险处、兽迹常出之地、雾起时辰，条条皆从实走中得来，非闭门可编。"
+  },
+  {
+    "id": "lore_063",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "药性辨略",
+    "tier": "玄阶",
+    "lore": "分草木金石四类，各记性味与相忌，凡三百余条，丹堂弟子人手一册，抄本甚多。"
+  },
+  {
+    "id": "lore_064",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "铸锋录",
+    "tier": "地阶",
+    "lore": "论剑刃厚薄与淬火之数，言锋不可过薄，薄则易折，亦不可过厚，厚则难入。"
+  },
+  {
+    "id": "lore_065",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "周天引",
+    "tier": "凡阶",
+    "lore": "导引行气之图，绘十二段，每段配呼吸之数，晨起行一遍，周身微热而神清。"
+  },
+  {
+    "id": "lore_066",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "剑气初解",
+    "tier": "玄阶",
+    "lore": "讲剑未出而意先至，气随腕转，不必用力，初学者多不解，练过千遍方有得。"
+  },
+  {
+    "id": "lore_067",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "丹炉火候图",
+    "tier": "地阶",
+    "lore": "以二十四色标炉温之变，色由青转白为足，转赤为过，观色知火，不必伸手。"
+  },
+  {
+    "id": "lore_068",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "古阵残解",
+    "tier": "地阶",
+    "lore": "所存不过三十七页，多已漫漶，可辨者只余阵眼、引气、闭合三段，然颇切实用。"
+  },
+  {
+    "id": "lore_069",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "御风篇",
+    "tier": "天阶",
+    "lore": "讲借风不逆风，起落皆随风势，练成者踏叶可渡丈许，然耗气甚巨，不可轻用。"
+  },
+  {
+    "id": "lore_070",
+    "kind": "manual",
+    "subType": "manual",
+    "name": "心印九章",
+    "tier": "天阶",
+    "lore": "不载招式，只论心念起伏，九章各破一执，读之枯涩，悟者如拨云见月。"
+  },
+  {
+    "id": "lore_071",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "遁符",
+    "tier": "凡阶",
+    "lore": "朱砂画就，贴在腿上，捏碎即行，可遁十丈，符纸一碎便无用，故只备一张。"
+  },
+  {
+    "id": "lore_072",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "火符",
+    "tier": "凡阶",
+    "lore": "符纸薄而脆，掷出即燃，火不过三尺，可点湿柴，亦可惊退野物，雨天则失效。"
+  },
+  {
+    "id": "lore_073",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "镇宅符",
+    "tier": "玄阶",
+    "lore": "贴于门楣，镇一方小宅，夜里有异响则符角微卷，须重画一张，不可叠贴。"
+  },
+  {
+    "id": "lore_074",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "匿形符",
+    "tier": "玄阶",
+    "lore": "含于舌下，气息自敛，寻常耳目难察，然一动便有破绽，只宜静立片刻。"
+  },
+  {
+    "id": "lore_075",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "金光符",
+    "tier": "地阶",
+    "lore": "画时须一气呵成，用时金光罩身，可挡刀兵三击，光散之后符即成灰。"
+  },
+  {
+    "id": "lore_076",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "雷符",
+    "tier": "地阶",
+    "lore": "符纹如蛇走，掷地引雷，声震数里，可破阴邪，然近身亦伤己，须退三步。"
+  },
+  {
+    "id": "lore_077",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "净水符",
+    "tier": "凡阶",
+    "lore": "投入浊水，片刻澄清，可解轻度秽气，符力只及一桶，多投无用，水沸则失效。"
+  },
+  {
+    "id": "lore_078",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "寻踪符",
+    "tier": "玄阶",
+    "lore": "以所寻之物的一缕气息为引，符纸自燃成灰，灰落处即其所向，逾三日则不准。"
+  },
+  {
+    "id": "lore_079",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "护身符",
+    "tier": "地阶",
+    "lore": "贴身佩戴，遇险自亮，可代主人受一击，符碎人安，一张只救一回，不可再补。"
+  },
+  {
+    "id": "lore_080",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "定身符",
+    "tier": "玄阶",
+    "lore": "贴于人身，四肢暂僵，不过十息，力大者可挣开，故只用于拿人而不用于伤。"
+  },
+  {
+    "id": "lore_081",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "引路符",
+    "tier": "凡阶",
+    "lore": "焚于岔口，灰烟偏向生路，雾中山行最合用，然只指方向，不辨吉凶。"
+  },
+  {
+    "id": "lore_082",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "封禁符",
+    "tier": "地阶",
+    "lore": "三道一方，贴于洞口或门缝，压住内里气息，符角一翘便须重画，不可将就。"
+  },
+  {
+    "id": "lore_083",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "替身符",
+    "tier": "天阶",
+    "lore": "以本人一滴血画成，遇死劫可代一命，符化人形而真身远遁，十年只得一张。"
+  },
+  {
+    "id": "lore_084",
+    "kind": "talisman",
+    "subType": "talisman",
+    "name": "传音符",
+    "tier": "凡阶",
+    "lore": "两符一对，一符焚则另一符自鸣，可传三言两语，隔山亦应，然只可单向。"
+  },
+  {
+    "id": "lore_085",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "寒鸦",
+    "tier": "凡阶",
+    "lore": "栖于北岭枯木，羽黑而杂白霜，成群则噪，遇人则散，其羽可入药，性凉。"
+  },
+  {
+    "id": "lore_086",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "青纹蛇",
+    "tier": "凡阶",
+    "lore": "长不过三尺，背有青纹，无毒而性怯，多在石缝晒太阳，捕鼠甚勤，山民不伤之。"
+  },
+  {
+    "id": "lore_087",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "玄甲犀",
+    "tier": "地阶",
+    "lore": "皮厚如甲，刀剑难入，独鼻端一处软肉可破，怒时冲撞，碗口粗的树应声而断。"
+  },
+  {
+    "id": "lore_088",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "赤羽雀",
+    "tier": "玄阶",
+    "lore": "尾羽赤红，飞时如火点，性烈，护巢极凶，其羽可制符笔，然取之不易。"
+  },
+  {
+    "id": "lore_089",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "石背熊",
+    "tier": "玄阶",
+    "lore": "背覆石壳，行走如磨石相擦，力大而缓，冬前囤食，遇人则先立而起，再扑。"
+  },
+  {
+    "id": "lore_090",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "白额虎",
+    "tier": "地阶",
+    "lore": "额有白纹，夜行无声，据一山之径，猎户避其道，其骨可入药，其皮可御寒。"
+  },
+  {
+    "id": "lore_091",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "涧水猿",
+    "tier": "玄阶",
+    "lore": "居深涧石壁，善攀援，性狡，喜夺行人包裹，掷石相扰，却不伤人，逐之则散。"
+  },
+  {
+    "id": "lore_092",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "火鼠",
+    "tier": "凡阶",
+    "lore": "穴居暖石之下，毛赤如火，夜出觅食，咬物成癖，其毛可引火，捕之须用湿布。"
+  },
+  {
+    "id": "lore_093",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "云纹鹿",
+    "tier": "玄阶",
+    "lore": "角上有云纹，行于高山草甸，性温，见人不避，其角每年一脱，脱角可入药。"
+  },
+  {
+    "id": "lore_094",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "铁喙鹰",
+    "tier": "地阶",
+    "lore": "喙如铁钩，翼展丈余，盘旋而不落，专啄蛇虫，亦袭落单行人，须结伴而行。"
+  },
+  {
+    "id": "lore_095",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "夜枭",
+    "tier": "凡阶",
+    "lore": "昼伏夜出，目大而圆，鸣声如婴啼，山民闻之不喜，然捕鼠甚效，故多不驱。"
+  },
+  {
+    "id": "lore_096",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "墨鳞鲤",
+    "tier": "凡阶",
+    "lore": "生于山泉深潭，鳞黑如墨，不过尺许，行动迟缓，肉可食，胆可明目。"
+  },
+  {
+    "id": "lore_097",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "双头豺",
+    "tier": "玄阶",
+    "lore": "两头共生，一前一后，行走时互相观望，群起而猎，然两头意见不合，常自乱。"
+  },
+  {
+    "id": "lore_098",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "山魈",
+    "tier": "地阶",
+    "lore": "高逾丈，面赤而笑，夜行林间，善模仿人声，遇之勿应，应则随人至家。"
+  },
+  {
+    "id": "lore_099",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "青鸾",
+    "tier": "天阶",
+    "lore": "羽青而尾长，飞时带风，栖于千仞之崖，百年一现，见者以为祥，其羽可制扇。"
+  },
+  {
+    "id": "lore_100",
+    "kind": "beast",
+    "subType": "beast",
+    "name": "墨麒麟",
+    "tier": "天阶",
+    "lore": "独角墨鳞，步不沾尘，出则百兽俯首，相传守一脉地气，非大乱不出，出则山岳震动。"
+  }
+]

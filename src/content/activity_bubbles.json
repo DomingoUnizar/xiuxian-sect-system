@@ -1,0 +1,660 @@
+[
+  {
+    "id": "act_bub_001",
+    "activity": "idle_cultivate",
+    "personality": "any",
+    "publicBubble": "吐浊纳清，先把这一周天气息行满。",
+    "secretHostBubble": "心里那声刚点破一处关窍，周天立时顺畅。"
+  },
+  {
+    "id": "act_bub_002",
+    "activity": "idle_cultivate",
+    "personality": "any",
+    "publicBubble": "灵气入脉，须得一息一息沉进丹田。",
+    "secretHostBubble": "方才吐纳才毕，无形气机便落进了经脉。"
+  },
+  {
+    "id": "act_bub_003",
+    "activity": "idle_cultivate",
+    "personality": "any",
+    "publicBubble": "静坐凝神，莫让外声扰了气机流转。",
+    "secretHostBubble": "心里那道督促又在数息，催我再行三周天。"
+  },
+  {
+    "id": "act_bub_004",
+    "activity": "idle_cultivate",
+    "personality": "any",
+    "publicBubble": "收摄心神，先将今早聚来的灵气化开。",
+    "secretHostBubble": "修为又实了一分，只不知暗处是谁在提点。"
+  },
+  {
+    "id": "act_bub_005",
+    "activity": "idle_cultivate",
+    "personality": "any",
+    "publicBubble": "经脉顺了三分，再行一转便能收功。",
+    "secretHostBubble": "它只催我按步吐纳，从不逼我强行冲关。"
+  },
+  {
+    "id": "act_bub_006",
+    "activity": "idle_cultivate",
+    "personality": "sect_master",
+    "publicBubble": "调匀玄息，宗门重担更须稳固根基。",
+    "secretHostBubble": "我为一宗之主，偏偏打坐时还得听那声点拨。"
+  },
+  {
+    "id": "act_bub_007",
+    "activity": "idle_cultivate",
+    "personality": "sect_master",
+    "publicBubble": "行气如水，不争一朝一夕之快。",
+    "secretHostBubble": "那声音点出的灵气归元诀，竟比旧谱还精微。"
+  },
+  {
+    "id": "act_bub_008",
+    "activity": "idle_cultivate",
+    "personality": "sect_master",
+    "publicBubble": "静坐三刻，灵海波澜比昨夜更平了。",
+    "secretHostBubble": "暗处这位前辈督促得紧，连我息口偏半分都知。"
+  },
+  {
+    "id": "act_bub_009",
+    "activity": "idle_cultivate",
+    "personality": "elder",
+    "publicBubble": "年纪长了，吐纳更讲究绵长不断。",
+    "secretHostBubble": "私密那声指出的滞涩处，竟卡了我十几年。"
+  },
+  {
+    "id": "act_bub_010",
+    "activity": "idle_cultivate",
+    "personality": "elder",
+    "publicBubble": "早课打坐先暖四肢，再温百会丹田。",
+    "secretHostBubble": "这声暗语替我省下半甲子苦修，却说不得。"
+  },
+  {
+    "id": "act_bub_011",
+    "activity": "idle_cultivate",
+    "personality": "elder",
+    "publicBubble": "灵气过关时别急，稳住心神再推。",
+    "secretHostBubble": "它说的沉气法门与先师口诀暗合，真叫人奇。"
+  },
+  {
+    "id": "act_bub_012",
+    "activity": "idle_cultivate",
+    "personality": "谨慎",
+    "publicBubble": "经脉未扩宽前，万不敢贪吸灵气。",
+    "secretHostBubble": "心里那声叮嘱收束气机，正合我稳扎的性子。"
+  },
+  {
+    "id": "act_bub_013",
+    "activity": "idle_cultivate",
+    "personality": "谨慎",
+    "publicBubble": "每一转周天都数清呼吸，莫留隐患。",
+    "secretHostBubble": "它提醒我左脉尚虚，我便只引七成灵气。"
+  },
+  {
+    "id": "act_bub_014",
+    "activity": "idle_cultivate",
+    "personality": "谨慎",
+    "publicBubble": "行功切忌急躁，宁慢一息莫损毫厘。",
+    "secretHostBubble": "这暗中督促从不叫我冒险，倒让我安心打坐。"
+  },
+  {
+    "id": "act_bub_015",
+    "activity": "idle_cultivate",
+    "personality": "好战",
+    "publicBubble": "把灵气多蓄几缕，出手才够分量。",
+    "secretHostBubble": "那声许我攒足这层修为再试剑，手都热了。"
+  },
+  {
+    "id": "act_bub_016",
+    "activity": "idle_cultivate",
+    "personality": "好战",
+    "publicBubble": "静坐虽闷，真气充盈了剑才够快。",
+    "secretHostBubble": "心里那句催我再撑一柱香，我咬牙行完。"
+  },
+  {
+    "id": "act_bub_017",
+    "activity": "idle_cultivate",
+    "personality": "好战",
+    "publicBubble": "气血与灵气合在一处，筋骨愈发紧实。",
+    "secretHostBubble": "暗处那声说我再炼十缕便可破层，痛快。"
+  },
+  {
+    "id": "act_bub_018",
+    "activity": "idle_cultivate",
+    "personality": "重利",
+    "publicBubble": "洞府灵气稀薄，半缕也不得白白散了。",
+    "secretHostBubble": "它说今日吐纳圆满还有一缕厚赏，值了。"
+  },
+  {
+    "id": "act_bub_019",
+    "activity": "idle_cultivate",
+    "personality": "重利",
+    "publicBubble": "能多炼化一分灵气，便省下一枚灵丹。",
+    "secretHostBubble": "心里那声让我专心行功，赏赐自会落进丹田。"
+  },
+  {
+    "id": "act_bub_020",
+    "activity": "idle_cultivate",
+    "personality": "重利",
+    "publicBubble": "盘坐这一时辰，抵得上苦攒数日灵石。",
+    "secretHostBubble": "没花半块灵石便多得暗助修为，真划算。"
+  },
+  {
+    "id": "act_bub_021",
+    "activity": "idle_cultivate",
+    "personality": "重情",
+    "publicBubble": "自己修为跟上了，日后才护得住同门。",
+    "secretHostBubble": "那声催我勤修莫怠，我便早晚各多行一转。"
+  },
+  {
+    "id": "act_bub_022",
+    "activity": "idle_cultivate",
+    "personality": "重情",
+    "publicBubble": "调顺内息后，还得替小师弟讲讲窍门。",
+    "secretHostBubble": "这份偷学来的行气火候，却偏不能明着教人。"
+  },
+  {
+    "id": "act_bub_023",
+    "activity": "idle_cultivate",
+    "personality": "重情",
+    "publicBubble": "灵气聚得愈稳，守山门便愈有底气。",
+    "secretHostBubble": "心里那声似在照看大家，我只管听话用功。"
+  },
+  {
+    "id": "act_bub_024",
+    "activity": "idle_cultivate",
+    "personality": "专研",
+    "publicBubble": "换了半息呼吸节奏，灵气入脉快了些。",
+    "secretHostBubble": "私密点破的那条微脉，比旧诀精妙十倍。"
+  },
+  {
+    "id": "act_bub_025",
+    "activity": "idle_cultivate",
+    "personality": "专研",
+    "publicBubble": "丹田气旋的转速，还得再琢磨几遍。",
+    "secretHostBubble": "它指的观想之法闻所未闻，一试却即刻灵验。"
+  },
+  {
+    "id": "act_bub_026",
+    "activity": "idle_cultivate",
+    "personality": "专研",
+    "publicBubble": "清浊分流再练一遍，经脉壁更通透了。",
+    "secretHostBubble": "每一息该落何处穴窍，这声音算得丝毫不差。"
+  },
+  {
+    "id": "act_bub_027",
+    "activity": "idle_cultivate",
+    "personality": "野心",
+    "publicBubble": "同门都歇了，我偏多打两个周天。",
+    "secretHostBubble": "它许我破关后另赐护身遁符，这台阶我必踏。"
+  },
+  {
+    "id": "act_bub_028",
+    "activity": "idle_cultivate",
+    "personality": "野心",
+    "publicBubble": "修为高出一层，说话分量自然不同。",
+    "secretHostBubble": "暗处有这等机缘相助，今岁必抢个头名。"
+  },
+  {
+    "id": "act_bub_029",
+    "activity": "idle_cultivate",
+    "personality": "野心",
+    "publicBubble": "这一层瓶颈已在松动，今晚再催一把。",
+    "secretHostBubble": "那声许诺十轮修为近在眼前，岂肯停手。"
+  },
+  {
+    "id": "act_bub_030",
+    "activity": "idle_cultivate",
+    "personality": "冷静",
+    "publicBubble": "吸三呼三，心境如水，杂念自消。",
+    "secretHostBubble": "修为无声涨了三缕，神色却半点不敢露。"
+  },
+  {
+    "id": "act_bub_031",
+    "activity": "idle_cultivate",
+    "personality": "冷静",
+    "publicBubble": "灵力运转平顺无波，这层根基稳了。",
+    "secretHostBubble": "暗处虽有低语督促，我只管按理调匀息脉。"
+  },
+  {
+    "id": "act_bub_032",
+    "activity": "idle_cultivate",
+    "personality": "冷静",
+    "publicBubble": "破层水到渠成，无须强冲经脉。",
+    "secretHostBubble": "它越是催得急，我越要守住灵台清明。"
+  },
+  {
+    "id": "act_bub_033",
+    "activity": "idle_cultivate",
+    "personality": "any",
+    "publicBubble": "抱元守一，趁日暖风清再炼几缕灵气。",
+    "secretHostBubble": "心里那股暗流汇入丹田，浑身轻快不少。"
+  },
+  {
+    "id": "act_bub_034",
+    "activity": "idle_cultivate",
+    "personality": "any",
+    "publicBubble": "收功前先绕周天三圈，免得气血浮动。",
+    "secretHostBubble": "今日这轮吐纳全照私密叮嘱走，果真不虚。"
+  },
+  {
+    "id": "act_bub_035",
+    "activity": "alchemy",
+    "personality": "any",
+    "publicBubble": "文火温炉先去草木杂气，莫急着封盖。",
+    "secretHostBubble": "心里那声点出早一息下药，炉香立时纯正。"
+  },
+  {
+    "id": "act_bub_036",
+    "activity": "alchemy",
+    "personality": "any",
+    "publicBubble": "丹药快成雏形了，再盯十息炉温便稳。",
+    "secretHostBubble": "它说这炉成丹便有厚赏，手心可不敢抖。"
+  },
+  {
+    "id": "act_bub_037",
+    "activity": "alchemy",
+    "personality": "专研",
+    "publicBubble": "分火提清最重收尾那三息，偏一丝即焦。",
+    "secretHostBubble": "暗处指点的火候口诀，比炉房旧谱更精准。"
+  },
+  {
+    "id": "act_bub_038",
+    "activity": "alchemy",
+    "personality": "谨慎",
+    "publicBubble": "药液尚有残浊，压低火舌再滤一遍。",
+    "secretHostBubble": "它嘱咐今日切忌贪快炸炉，我只管稳火。"
+  },
+  {
+    "id": "act_bub_039",
+    "activity": "alchemy",
+    "personality": "elder",
+    "publicBubble": "温养丹胚如待初生，火气过旺便伤药性。",
+    "secretHostBubble": "炼丹三十年，竟还是第一次被暗语指正火路。"
+  },
+  {
+    "id": "act_bub_040",
+    "activity": "alchemy",
+    "personality": "冷静",
+    "publicBubble": "药香入鼻已清，只待最后一转凝丹成丸。",
+    "secretHostBubble": "炉底微颤也在它预料之中，正好顺势收火。"
+  },
+  {
+    "id": "act_bub_041",
+    "activity": "alchemy",
+    "personality": "重利",
+    "publicBubble": "这一炉成色不俗，入库必是上品丹丸。",
+    "secretHostBubble": "若能一举成丹，暗处许下的修为少不了。"
+  },
+  {
+    "id": "act_bub_042",
+    "activity": "alchemy",
+    "personality": "重情",
+    "publicBubble": "把炉火稳住，这批护脉丹早晚用得着。",
+    "secretHostBubble": "心里那声督促成丹渡人，我也想多出几枚。"
+  },
+  {
+    "id": "act_bub_043",
+    "activity": "alchemy",
+    "personality": "野心",
+    "publicBubble": "这炉护脉丹非成不可，谁也别来掀帘。",
+    "secretHostBubble": "它说成丹后还有额外造化，我全神守着。"
+  },
+  {
+    "id": "act_bub_044",
+    "activity": "alchemy",
+    "personality": "好战",
+    "publicBubble": "照看炉火竟比舞剑还费神，手心全热了。",
+    "secretHostBubble": "忍住性子守完这三刻文火，便去领赏练剑。"
+  },
+  {
+    "id": "act_bub_045",
+    "activity": "forging",
+    "personality": "any",
+    "publicBubble": "趁炉火匀净，将潮纹玉徐徐淬入胚心。",
+    "secretHostBubble": "暗处传来落锤节奏，每一记都震在水纹上。"
+  },
+  {
+    "id": "act_bub_046",
+    "activity": "forging",
+    "personality": "专研",
+    "publicBubble": "接锋蓄水纹得一笔刻成，断纹便不蓄气。",
+    "secretHostBubble": "这道水火交济的纹路，竟是心里那声教的。"
+  },
+  {
+    "id": "act_bub_047",
+    "activity": "forging",
+    "personality": "谨慎",
+    "publicBubble": "锻坯退火莫图快，冷热骤变最易暗裂。",
+    "secretHostBubble": "它叮嘱淬水三息即提，果然保住灵纹完整。"
+  },
+  {
+    "id": "act_bub_048",
+    "activity": "forging",
+    "personality": "冷静",
+    "publicBubble": "玉脉水意已透进剑脊，只欠最后一锻定型。",
+    "secretHostBubble": "按那声说的收火角度落锤，丝毫未走样。"
+  },
+  {
+    "id": "act_bub_049",
+    "activity": "forging",
+    "personality": "elder",
+    "publicBubble": "温脉炉胆讲求柔火稳温，纹路须顺灵气。",
+    "secretHostBubble": "这炼器法与丹道暗通，难怪暗处专门嘱托。"
+  },
+  {
+    "id": "act_bub_050",
+    "activity": "forging",
+    "personality": "好战",
+    "publicBubble": "剑格蓄潮一成，日后接战便多一分胜算。",
+    "secretHostBubble": "它许诺此剑同门佩戴胜战还有额外造化。"
+  },
+  {
+    "id": "act_bub_051",
+    "activity": "forging",
+    "personality": "重情",
+    "publicBubble": "仔细打磨剑锋与炉胆，交与同门才放心。",
+    "secretHostBubble": "照着心里那道指点铸成，定能护住同门。"
+  },
+  {
+    "id": "act_bub_052",
+    "activity": "forging",
+    "personality": "野心",
+    "publicBubble": "今日器堂必出精品，叫山门上下开眼。",
+    "secretHostBubble": "此器若成，不单掌得新技，赏赐更重。"
+  },
+  {
+    "id": "act_bub_053",
+    "activity": "arena",
+    "personality": "any",
+    "publicBubble": "站在试剑台上，先瞧清对手步法破绽。",
+    "secretHostBubble": "心里那声点醒留三分气力换招，受用极了。"
+  },
+  {
+    "id": "act_bub_054",
+    "activity": "arena",
+    "personality": "好战",
+    "publicBubble": "同境切磋不必留手，尽管递剑过来吧！",
+    "secretHostBubble": "赢下这场便有遁符修为赐下，打个痛快！"
+  },
+  {
+    "id": "act_bub_055",
+    "activity": "arena",
+    "personality": "冷静",
+    "publicBubble": "对手剑势虽猛，下盘移步却略慢半拍。",
+    "secretHostBubble": "它让我先接三招再反递，果然稳占上风。"
+  },
+  {
+    "id": "act_bub_056",
+    "activity": "arena",
+    "personality": "谨慎",
+    "publicBubble": "护住心脉左肋，切莫在变招时露空当。",
+    "secretHostBubble": "私密叮嘱对手暗藏劈刺，我早早备好了步。"
+  },
+  {
+    "id": "act_bub_057",
+    "activity": "arena",
+    "personality": "野心",
+    "publicBubble": "这一场擂台头名，我必堂堂正正拿下。",
+    "secretHostBubble": "那声许诺胜出即有丰厚赏赐，绝不手软。"
+  },
+  {
+    "id": "act_bub_058",
+    "activity": "arena",
+    "personality": "重情",
+    "publicBubble": "同门试剑彼此磨砺，点到为止最重情义。",
+    "secretHostBubble": "心里只叫我打起精神，胜了护好收势。"
+  },
+  {
+    "id": "act_bub_059",
+    "activity": "arena",
+    "personality": "专研",
+    "publicBubble": "刚才那一记横削还不够顺，再拆一遍招。",
+    "secretHostBubble": "它刚拆解完剑尖偏斜原因，再试一次。"
+  },
+  {
+    "id": "act_bub_060",
+    "activity": "arena",
+    "personality": "重利",
+    "publicBubble": "试剑台胜了长脸，赏赐也绝不会少。",
+    "secretHostBubble": "算盘打得准，全力拼赢这局回报最厚。"
+  },
+  {
+    "id": "act_bub_061",
+    "activity": "arena",
+    "personality": "elder",
+    "publicBubble": "上台先看站位与护阵光幕，稳住剑势。",
+    "secretHostBubble": "私密嘱托保我护住后辈周全，眼都不敢眨。"
+  },
+  {
+    "id": "act_bub_062",
+    "activity": "arena",
+    "personality": "any",
+    "publicBubble": "握稳手中兵器，风吹衣角便该动身了。",
+    "secretHostBubble": "听得心底那声稳了心神，剑意反而更凝。"
+  },
+  {
+    "id": "act_bub_063",
+    "activity": "beast_expedition",
+    "personality": "any",
+    "publicBubble": "轻摇铜铃听泉响，随灵兽去寻玉髓花。",
+    "secretHostBubble": "心里教的那段御兽铃韵，灵兽听得极其驯顺。"
+  },
+  {
+    "id": "act_bub_064",
+    "activity": "beast_expedition",
+    "personality": "专研",
+    "publicBubble": "泉水寒凉处才生潮纹玉，照着兽迹找去。",
+    "secretHostBubble": "它给的循铃感应法门真管用，花香越来越近。"
+  },
+  {
+    "id": "act_bub_065",
+    "activity": "beast_expedition",
+    "personality": "重情",
+    "publicBubble": "小家伙走慢些，前面的岩缝湿滑当心。",
+    "secretHostBubble": "暗处这法诀让灵兽灵性大开，跟我也亲近。"
+  },
+  {
+    "id": "act_bub_066",
+    "activity": "beast_expedition",
+    "personality": "谨慎",
+    "publicBubble": "先让灵兽嗅清草木气息，再动手采摘。",
+    "secretHostBubble": "它提前示警崖下碎石松动，正好绕开采露。"
+  },
+  {
+    "id": "act_bub_067",
+    "activity": "beast_expedition",
+    "personality": "冷静",
+    "publicBubble": "带露玉髓花须趁晨气未散完整掘起根须。",
+    "secretHostBubble": "照那声说的手法连泥带露收好，灵气半分不跑。"
+  },
+  {
+    "id": "act_bub_068",
+    "activity": "beast_expedition",
+    "personality": "重利",
+    "publicBubble": "灵兽这回嗅出不少好料，够开好几炉丹了。",
+    "secretHostBubble": "携兽采归不仅宗门添宝，我也能领一笔赏。"
+  },
+  {
+    "id": "act_bub_069",
+    "activity": "expedition",
+    "personality": "any",
+    "publicBubble": "行经寒鸦山口，紧握兵刃留意林间动静。",
+    "secretHostBubble": "护身遁符贴身收妥，真有凶险保命要紧。"
+  },
+  {
+    "id": "act_bub_070",
+    "activity": "expedition",
+    "personality": "好战",
+    "publicBubble": "前方若有妖兽拦路，正好试我新磨之锋！",
+    "secretHostBubble": "那声催我闯过险境历练，赏赐已备在前面。"
+  },
+  {
+    "id": "act_bub_071",
+    "activity": "expedition",
+    "personality": "谨慎",
+    "publicBubble": "踩实山道碎石再落脚，遁符捏在左袖。",
+    "secretHostBubble": "它暗中点出兽踪方向，我早绕去上风口伏待。"
+  },
+  {
+    "id": "act_bub_072",
+    "activity": "expedition",
+    "personality": "冷静",
+    "publicBubble": "山外灵草虽好，也得辨清四周无伏后再采。",
+    "secretHostBubble": "听得心里那句提点避开暗壑，采完便撤。"
+  },
+  {
+    "id": "act_bub_073",
+    "activity": "expedition",
+    "personality": "重情",
+    "publicBubble": "多带几株回气草回去，药庐长老正等着用。",
+    "secretHostBubble": "它要我平平安安把药材背回山门，我省得。"
+  },
+  {
+    "id": "act_bub_074",
+    "activity": "expedition",
+    "personality": "野心",
+    "publicBubble": "温室长不出真本事，山外锋芒才最磨人。",
+    "secretHostBubble": "这趟历练熬下来，修为定能甩开同辈一截。"
+  },
+  {
+    "id": "act_bub_075",
+    "activity": "recover",
+    "personality": "any",
+    "publicBubble": "静室避风，先引暖气顺一顺受损经脉。",
+    "secretHostBubble": "心里那声教我放慢呼吸养伤，疼意果然消减。"
+  },
+  {
+    "id": "act_bub_076",
+    "activity": "recover",
+    "personality": "谨慎",
+    "publicBubble": "伤未全愈前不敢强运灵力，缓息养神要紧。",
+    "secretHostBubble": "它叮嘱服丹后静卧两刻，我一点都不敢动。"
+  },
+  {
+    "id": "act_bub_077",
+    "activity": "recover",
+    "personality": "好战",
+    "publicBubble": "这点皮外挫伤算不得什么，调匀气息就好。",
+    "secretHostBubble": "等养好了经脉再上试剑台，这回非赢回来。"
+  },
+  {
+    "id": "act_bub_078",
+    "activity": "recover",
+    "personality": "冷静",
+    "publicBubble": "药力正化入滞脉，趁着微暖再顺理一遍。",
+    "secretHostBubble": "多亏那声暗中指点及时催符，才没伤到本源。"
+  },
+  {
+    "id": "act_bub_079",
+    "activity": "recover",
+    "personality": "重情",
+    "publicBubble": "早点把伤养好，才好替门里继续搭把手。",
+    "secretHostBubble": "暗处这番安抚心神的法子，比药膏还受用。"
+  },
+  {
+    "id": "act_bub_080",
+    "activity": "recover",
+    "personality": "any",
+    "publicBubble": "泉边幽静，正好敛气养脉把旧伤压下去。",
+    "secretHostBubble": "伤势渐平，心里那句又提醒我记牢教训。"
+  },
+  {
+    "id": "act_bub_081",
+    "activity": "study_method",
+    "personality": "any",
+    "publicBubble": "细读师门玉简，把每一转行气路线记牢。",
+    "secretHostBubble": "心里那声点出其中两句真意，豁然开朗！"
+  },
+  {
+    "id": "act_bub_082",
+    "activity": "study_method",
+    "personality": "专研",
+    "publicBubble": "古谱留白处必有关窍，再比对前人批注。",
+    "secretHostBubble": "暗处那番拆解直指秘法核心，少走十年弯路。"
+  },
+  {
+    "id": "act_bub_083",
+    "activity": "study_method",
+    "personality": "谨慎",
+    "publicBubble": "心法尚未全通前，切莫胡乱上身试炼。",
+    "secretHostBubble": "它逐字叮嘱行气忌讳，我默默铭记于心。"
+  },
+  {
+    "id": "act_bub_084",
+    "activity": "study_method",
+    "personality": "elder",
+    "publicBubble": "重温先贤旧谱，常能生出几分新感悟。",
+    "secretHostBubble": "连这卷秘法的来历它都一清二楚，真非寻常。"
+  },
+  {
+    "id": "act_bub_085",
+    "activity": "study_method",
+    "personality": "野心",
+    "publicBubble": "多参透一门秘法，手上底牌便硬实一分。",
+    "secretHostBubble": "它说悟透此法还有额外赏赐，务必攻下！"
+  },
+  {
+    "id": "act_bub_086",
+    "activity": "study_method",
+    "personality": "冷静",
+    "publicBubble": "屏息静阅玉简，将经脉法决印在脑中。",
+    "secretHostBubble": "暗中点破这处诀窍，真是一语惊醒梦中人。"
+  },
+  {
+    "id": "act_bub_087",
+    "activity": "breakthrough",
+    "personality": "any",
+    "publicBubble": "九层圆满气海已涨，今夜尝试冲开大关！",
+    "secretHostBubble": "心里那声助我收束真元，成败全看这一搏！"
+  },
+  {
+    "id": "act_bub_088",
+    "activity": "breakthrough",
+    "personality": "elder",
+    "publicBubble": "苦修数十载待今日破境，心神务必沉定。",
+    "secretHostBubble": "它帮我理顺闭关最后一处死穴，这关能过！"
+  },
+  {
+    "id": "act_bub_089",
+    "activity": "breakthrough",
+    "personality": "谨慎",
+    "publicBubble": "聚气合脉最重稳妥，护脉药力已备妥。",
+    "secretHostBubble": "有私密法诀照看脉络，心头反倒踏实许多。"
+  },
+  {
+    "id": "act_bub_090",
+    "activity": "breakthrough",
+    "personality": "好战",
+    "publicBubble": "瓶颈堵了我这么久，今日一气冲开它！",
+    "secretHostBubble": "那声许诺破境重赏已在前，何惜一拼！"
+  },
+  {
+    "id": "act_bub_091",
+    "activity": "breakthrough",
+    "personality": "冷静",
+    "publicBubble": "气走四脉灵海凝液，只差最后一线合关。",
+    "secretHostBubble": "照那道声指点的节点轻催灵元，关窍松动了！"
+  },
+  {
+    "id": "act_bub_092",
+    "activity": "breakthrough",
+    "personality": "专研",
+    "publicBubble": "前人合道行气真诀果真妙绝，正在聚凝。",
+    "secretHostBubble": "暗处点出的收束转折闻所未闻，恰能借力！"
+  },
+  {
+    "id": "act_bub_093",
+    "activity": "breakthrough",
+    "personality": "重情",
+    "publicBubble": "破入新大境后，便更能护住山门上下。",
+    "secretHostBubble": "记着暗处那声叮嘱守住识海，绝不走火。"
+  },
+  {
+    "id": "act_bub_094",
+    "activity": "breakthrough",
+    "personality": "野心",
+    "publicBubble": "只要破进下一大境，宗门眼界大不相同！",
+    "secretHostBubble": "跨过此坎不仅寿元倍增，重赏也紧跟落地！"
+  }
+]

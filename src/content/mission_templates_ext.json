@@ -1,0 +1,362 @@
+[
+  {
+    "id": "mis_ext_001",
+    "category": "alchemy",
+    "title": "地火凝碧丹",
+    "systemToast": "【叮】丹房地火正稳，限今日午时前炼成一炉碧纹丹，成丹六枚即算交付。",
+    "hostInnerAccept": "地火难得这样稳，我接了这炉，也算不辜负丹堂一场辛苦。",
+    "hostInnerDecline": "昨夜炼护脉丹伤了元气，火候未足，这炉我先缓一缓。",
+    "publicSummary": "丹房地火转稳，当值弟子守炉一昼夜，碧纹丹成六枚，尽数入库。"
+  },
+  {
+    "id": "mis_ext_002",
+    "category": "alchemy",
+    "title": "分火提清诀",
+    "systemToast": "【叮】三阶丹炉浊气难去，以分火提清之法再炼一炉，验你火候。",
+    "hostInnerAccept": "分火提清我练了半月，正好借这炉验证，接了吧。",
+    "hostInnerDecline": "这几日心神浮，提清最耗神识，还是等调匀了再开炉。",
+    "publicSummary": "丹堂弟子以分火提清之法重炼一炉，浊气尽去，药香清正，长老许其入二阶。"
+  },
+  {
+    "id": "mis_ext_003",
+    "category": "alchemy",
+    "title": "守炉至三更",
+    "systemToast": "【叮】新炉初开，火性未驯，今夜守到三更，勿令炉温骤落。",
+    "hostInnerAccept": "守炉是苦差，可火候就是这么磨出来的，我守。",
+    "hostInnerDecline": "今日连开两炉，眼皮都沉，硬守怕要坏事，明日再来。",
+    "publicSummary": "新炉头一遭点火，弟子自请守夜至三更，炉温未落，出丹齐整。"
+  },
+  {
+    "id": "mis_ext_004",
+    "category": "alchemy",
+    "title": "百草炼脉丹",
+    "systemToast": "【叮】库中百草已足，按旧方炼一炉脉丹，供门中伤者取用。",
+    "hostInnerAccept": "门中几位师弟正缺这味药，我炼一炉，也算尽了本分。",
+    "hostInnerDecline": "百草里少一味主药，勉强开炉只会废料，还是等采齐。",
+    "publicSummary": "药库百草齐备，弟子依方炼成脉丹一炉，分送养伤同门，无一人短缺。"
+  },
+  {
+    "id": "mis_ext_005",
+    "category": "alchemy",
+    "title": "青玉洗炉",
+    "systemToast": "【叮】旧炉积垢三分，以青玉砂洗炉一整日，炉净方可再用。",
+    "hostInnerAccept": "炉净丹才纯，这活虽琐碎，却是根本，我认了。",
+    "hostInnerDecline": "手上旧伤未合，搓砂费力，等结了痂再来洗。",
+    "publicSummary": "丹堂旧炉积垢，弟子以青玉砂擦洗一日，炉壁复见本色，翌日开炉顺利。"
+  },
+  {
+    "id": "mis_ext_006",
+    "category": "alchemy",
+    "title": "试炼寒露丹",
+    "systemToast": "【叮】寒露将至，采露炼一炉寒露丹，成三枚便可交差。",
+    "hostInnerAccept": "寒露一年只这几日，错过了要等来年，我今夜就去。",
+    "hostInnerDecline": "寒露未降，炉里差一味凉性，赶早也是白费柴火。",
+    "publicSummary": "寒露初降，弟子连夜采露三盏，炼成寒露丹三枚，成色清透，丹堂记功一次。"
+  },
+  {
+    "id": "mis_ext_007",
+    "category": "alchemy",
+    "title": "双炉并炼",
+    "systemToast": "【叮】两炉同开，须以一念分神照看，火候齐稳方算过关。",
+    "hostInnerAccept": "双炉并炼最考心神，正好试试我这几日的长进。",
+    "hostInnerDecline": "分神之术我还没摸透，两炉齐废不值，先练单炉。",
+    "publicSummary": "弟子同开两炉，一念分神照看，左右火候俱稳，双双成丹，观者称奇。"
+  },
+  {
+    "id": "mis_ext_008",
+    "category": "alchemy",
+    "title": "丹渣再提",
+    "systemToast": "【叮】三炉丹渣弃之可惜，再提一次清，能得残丹十余枚。",
+    "hostInnerAccept": "丹渣里还有余性，扔了可惜，我慢慢提一遍。",
+    "hostInnerDecline": "提清要静，今日殿里议事嘈杂，改到夜里再说。",
+    "publicSummary": "丹房积存丹渣，弟子以慢火再提，得残丹十数枚，尽数充入药库。"
+  },
+  {
+    "id": "mis_ext_009",
+    "category": "combat",
+    "title": "同境试剑三合",
+    "systemToast": "【叮】试剑台已备木剑，与同境弟子交手三合，点到即止。",
+    "hostInnerAccept": "三合不长，正好看看我这一剑收得稳不稳。",
+    "hostInnerDecline": "右肩还带着旧伤，抬剑就疼，等养好再上台。",
+    "publicSummary": "试剑台上两名同境弟子交手三合，剑势相抵，各退一步，台下掌声不小。"
+  },
+  {
+    "id": "mis_ext_010",
+    "category": "combat",
+    "title": "守擂一炷香",
+    "systemToast": "【叮】今日擂台空悬，守满一炷香不失位，便记你一功。",
+    "hostInnerAccept": "守擂最磨人，可也最能长胆气，我上。",
+    "hostInnerDecline": "昨夜没睡稳，脚下发飘，守擂只会丢人，缓一日。",
+    "publicSummary": "擂台无人接榜，弟子自请守擂，一炷香内连退三人，衣角未乱。"
+  },
+  {
+    "id": "mis_ext_011",
+    "category": "combat",
+    "title": "破招演武",
+    "systemToast": "【叮】演武场缺一名破招手，任人出招三十式，逐一拆解。",
+    "hostInnerAccept": "拆招最见根基，三十式我接得住，正想试试。",
+    "hostInnerDecline": "这几日腕子发紧，硬拆容易伤筋，还是让别人上。",
+    "publicSummary": "演武场上弟子为破招手，三十式来招逐一见解，无一式落空，同门喝彩。"
+  },
+  {
+    "id": "mis_ext_012",
+    "category": "combat",
+    "title": "护剑三日",
+    "systemToast": "【叮】剑冢新剑未定锋，须人日夜看护三日，勿令他人触碰。",
+    "hostInnerAccept": "看剑是老差事，三日不挪步，我做得来。",
+    "hostInnerDecline": "我这几日要陪师弟换药，分身不开，还是另派人。",
+    "publicSummary": "剑冢新铸之剑尚未定锋，弟子自请看护三日，剑身无损，如期交付。"
+  },
+  {
+    "id": "mis_ext_013",
+    "category": "combat",
+    "title": "以剑破阵",
+    "systemToast": "【叮】后山旧阵残存三处，以剑势破之，验你锋芒与眼力。",
+    "hostInnerAccept": "旧阵残而不散，破它比打人痛快，我接了。",
+    "hostInnerDecline": "眼力还差一分，看不清阵眼就动手，只会白费气力。",
+    "publicSummary": "后山旧阵三处，弟子以剑势逐一破开，阵纹散尽，未见余患。"
+  },
+  {
+    "id": "mis_ext_014",
+    "category": "combat",
+    "title": "切磋复盘",
+    "systemToast": "【叮】今日败了一场，须写一份复盘交予演武堂，写明失手之处。",
+    "hostInnerAccept": "输了就该认，写明白哪里错了，下次才不重犯。",
+    "hostInnerDecline": "心里还堵着那口气，写出来难免偏颇，容我静一夜。",
+    "publicSummary": "演武堂收到一份手书复盘，自陈失手三处，条理清楚，长老阅后点头。"
+  },
+  {
+    "id": "mis_ext_015",
+    "category": "combat",
+    "title": "夜巡武库",
+    "systemToast": "【叮】武库夜里换防，巡三圈，记下刀枪数目，不得有误。",
+    "hostInnerAccept": "点数是死功夫，可武库最怕疏漏，我巡就是。",
+    "hostInnerDecline": "今夜要守炉，两头跑必定误事，武库另请人巡。",
+    "publicSummary": "武库夜换防，弟子连巡三圈，刀枪甲械数目与册相符，一件未短。"
+  },
+  {
+    "id": "mis_ext_016",
+    "category": "combat",
+    "title": "空手夺刃",
+    "systemToast": "【叮】以空手对木刃，练胆练眼，十招之内不被击中即算过关。",
+    "hostInnerAccept": "空手对刃最练眼，十招我未必全躲得开，倒想试试。",
+    "hostInnerDecline": "手上新伤刚结痂，再磕一回怕要裂，等几日。",
+    "publicSummary": "演武场上弟子空手对木刃，十招之内仅中一招，收势沉稳，同门称其胆大。"
+  },
+  {
+    "id": "mis_ext_017",
+    "category": "herb",
+    "title": "后山采凝灵",
+    "systemToast": "【叮】后山阴坡凝灵草已熟，采三十株，根须完整者方计入数。",
+    "hostInnerAccept": "凝灵草就在后山，路我熟，三十株不算多。",
+    "hostInnerDecline": "雨后坡滑，采草容易连根拔断，等土干一干。",
+    "publicSummary": "后山阴坡凝灵草成熟，弟子采回三十株，根须完好，尽数入药库。"
+  },
+  {
+    "id": "mis_ext_018",
+    "category": "herb",
+    "title": "药圃除草",
+    "systemToast": "【叮】药圃杂草压了苗，须连根清除三畦，勿伤灵药根茎。",
+    "hostInnerAccept": "除草看着轻，其实最考手稳，我去慢慢弄。",
+    "hostInnerDecline": "今晨刚挑完水，腰还直不起来，歇半日再下圃。",
+    "publicSummary": "药圃三畦杂草丛生，弟子俯身连根拔除，灵药一株未损，圃面清爽。"
+  },
+  {
+    "id": "mis_ext_019",
+    "category": "herb",
+    "title": "崖壁取露",
+    "systemToast": "【叮】西崖石乳每夜凝露，取三盏，天亮前送回丹房。",
+    "hostInnerAccept": "西崖我攀过几回，夜里有露，正好取三盏。",
+    "hostInnerDecline": "夜里风大，崖壁湿滑，一个人上去太险，等结伴。",
+    "publicSummary": "西崖石壁夜凝清露，弟子攀崖取回三盏，天亮前入丹房，一滴未洒。"
+  },
+  {
+    "id": "mis_ext_020",
+    "category": "herb",
+    "title": "辨药三百味",
+    "systemToast": "【叮】药库新到三百味药材，逐一辨明性味，录成一册。",
+    "hostInnerAccept": "辨药是慢功，可认得越全，日后开方越稳，我认。",
+    "hostInnerDecline": "这几日鼻子不通，气味辨不准，写错了反害人。",
+    "publicSummary": "药库新到药材三百味，弟子逐一分拣辨明，录成性味册一册，交丹堂存用。"
+  },
+  {
+    "id": "mis_ext_021",
+    "category": "herb",
+    "title": "移栽护脉草",
+    "systemToast": "【叮】护脉草根密，须分株移栽两畦，浇透定根水。",
+    "hostInnerAccept": "护脉草分株要趁春，晚了根就缠死，我今日就动手。",
+    "hostInnerDecline": "天还冷，移下去活不成，等暖几日再分株。",
+    "publicSummary": "药圃护脉草过密，弟子分株移栽两畦，浇足定根水，半月后尽数转青。"
+  },
+  {
+    "id": "mis_ext_022",
+    "category": "herb",
+    "title": "晒药三日",
+    "systemToast": "【叮】新采药材含水太重，摊晒三日，每日翻两遍，勿使霉变。",
+    "hostInnerAccept": "晒药最怕变天，我盯着云色翻晒，三日就过去。",
+    "hostInnerDecline": "今日云厚，晒出去怕要回潮，等晴稳了再摊。",
+    "publicSummary": "药圃新采药材含水过重，弟子摊晒三日，日日翻拣，入仓时干爽无霉。"
+  },
+  {
+    "id": "mis_ext_023",
+    "category": "herb",
+    "title": "深涧寻回气",
+    "systemToast": "【叮】回气草只生深涧背阴处，下涧采二十株，勿惊水兽。",
+    "hostInnerAccept": "回气草难找，可门中伤员正等它，我下涧走一趟。",
+    "hostInnerDecline": "涧水还凉，腿上有旧寒，泡久了要犯，等天暖。",
+    "publicSummary": "深涧背阴处回气草成片，弟子下涧采得二十株，水兽未惊，全须而归。"
+  },
+  {
+    "id": "mis_ext_024",
+    "category": "herb",
+    "title": "药库翻晒",
+    "systemToast": "【叮】药库底层受潮，把存药全部翻出晾晒，重新封坛。",
+    "hostInnerAccept": "受潮的药不翻，整库都要废，这活拖不得。",
+    "hostInnerDecline": "库房太闷，我进去半日就头晕，得分两趟做。",
+    "publicSummary": "药库底层返潮，弟子将存药尽数翻出晾晒，重新封坛，药性未失。"
+  },
+  {
+    "id": "mis_ext_025",
+    "category": "heritage",
+    "title": "抄录残卷",
+    "systemToast": "【叮】阁中残卷缺页，按现存字迹抄录一份，勿改一字。",
+    "hostInnerAccept": "抄书最忌自作聪明，只照着写，我做得来。",
+    "hostInnerDecline": "腕子这几日发酸，抄到半卷就要抖，缓两日。",
+    "publicSummary": "藏经阁残卷缺页，弟子依原迹抄录一份，字句未改，交阁中存档。"
+  },
+  {
+    "id": "mis_ext_026",
+    "category": "heritage",
+    "title": "参悟旧谱",
+    "systemToast": "【叮】旧谱第七节晦涩，静坐参悟三日，写下心得一页。",
+    "hostInnerAccept": "那一节我读了三遍都没通，正好借这三日沉下去。",
+    "hostInnerDecline": "心里杂事太多，坐不住，参出来也是空话，等静了。",
+    "publicSummary": "弟子闭门参悟旧谱三日，写下心得一页，虽尚有未通之处，条理已明。"
+  },
+  {
+    "id": "mis_ext_027",
+    "category": "heritage",
+    "title": "补碑拓片",
+    "systemToast": "【叮】前殿碑文漫漶，以薄纸拓一份完整的，存进石匣。",
+    "hostInnerAccept": "碑上字一年淡一分，再不拓就没了，我今日就办。",
+    "hostInnerDecline": "今日风大，纸一上去就掀，拓不出好字，等无风。",
+    "publicSummary": "前殿碑文日渐漫漶，弟子以薄纸精拓一份，字口清晰，收入石匣保存。"
+  },
+  {
+    "id": "mis_ext_028",
+    "category": "heritage",
+    "title": "校勘丹方",
+    "systemToast": "【叮】三份丹方互有出入，逐一校勘，标出可疑之处待长老核。",
+    "hostInnerAccept": "方子差一味就要出人命，我校细些，心里才安。",
+    "hostInnerDecline": "我见识还浅，辨不出哪份对，硬校只会添乱。",
+    "publicSummary": "三份丹方字句互异，弟子逐条校勘，标出可疑七处，送长老复核。"
+  },
+  {
+    "id": "mis_ext_029",
+    "category": "heritage",
+    "title": "守阁一夜",
+    "systemToast": "【叮】藏经阁今夜无人值守，你去守一夜，闭阁落锁后方可离。",
+    "hostInnerAccept": "守阁清静，正好带一卷书去读，一夜不长。",
+    "hostInnerDecline": "今夜丹房要收火，两头都放不下，还是换人守。",
+    "publicSummary": "藏经阁夜间无人，弟子自请守阁一夜，闭阁落锁，卷册无一散失。"
+  },
+  {
+    "id": "mis_ext_030",
+    "category": "heritage",
+    "title": "整理旧档",
+    "systemToast": "【叮】阁中旧档乱了次序，按年月重排，编一份简目。",
+    "hostInnerAccept": "旧档乱成这样，找一卷要半日，我理一理也好。",
+    "hostInnerDecline": "这几日眼睛发花，看小字就疼，等好些再做。",
+    "publicSummary": "藏经阁旧档次序散乱，弟子按年月重排，编成简目一卷，取阅称便。"
+  },
+  {
+    "id": "mis_ext_031",
+    "category": "heritage",
+    "title": "问经长老",
+    "systemToast": "【叮】你有一处经义存疑，备好三问，往丹堂向长老请教。",
+    "hostInnerAccept": "疑问搁久了就成疙瘩，备好三问去请教，才算诚心。",
+    "hostInnerDecline": "长老这几日忙，贸然去问只会添乱，等问安时再说。",
+    "publicSummary": "弟子持三问往丹堂请教，长老逐一解答，末了赞其问得切实。"
+  },
+  {
+    "id": "mis_ext_032",
+    "category": "heritage",
+    "title": "抄经百遍",
+    "systemToast": "【叮】静心抄经百遍，一日十遍，十日抄完，字迹须端正。",
+    "hostInnerAccept": "抄经能定心，我近来心浮，正好借此收一收。",
+    "hostInnerDecline": "手上有伤，握笔就抖，抄出来不成样子，等好了。",
+    "publicSummary": "弟子闭门抄经，十日满百遍，字迹端正，末页自记心得数行。"
+  },
+  {
+    "id": "mis_ext_033",
+    "category": "expedition",
+    "title": "古道巡山",
+    "systemToast": "【叮】北面古道三日无人巡，你去走一趟，记下兽迹与路况。",
+    "hostInnerAccept": "古道我熟，三日走一趟不算远，顺便看看旧哨。",
+    "hostInnerDecline": "腿伤才合，走山路怕要复发，等结实用再去。",
+    "publicSummary": "北面古道三日未巡，弟子往还一趟，记下兽迹七处、塌方两处，报与巡山堂。"
+  },
+  {
+    "id": "mis_ext_034",
+    "category": "expedition",
+    "title": "除岭南妖",
+    "systemToast": "【叮】岭南有低阶妖物扰了药农，你去清一遍，勿伤无辜。",
+    "hostInnerAccept": "扰人的妖物不能留，可也不能乱杀，我去看看。",
+    "hostInnerDecline": "我符箓带得少，遇上了未必压得住，等备齐再去。",
+    "publicSummary": "岭南低阶妖物扰及药农，弟子前往清理，逐退三头，药农得以安生。"
+  },
+  {
+    "id": "mis_ext_035",
+    "category": "expedition",
+    "title": "寒鸦岭探路",
+    "systemToast": "【叮】寒鸦岭新出一道裂隙，你去探明深浅，画一张简图回来。",
+    "hostInnerAccept": "裂隙不明就有人敢闯，早晚出事，我去探清楚。",
+    "hostInnerDecline": "岭上风硬，我衣裳太薄，冻僵了画不成图，等备衣。",
+    "publicSummary": "寒鸦岭新裂一道石隙，弟子深入探明，绘成简图一张，标注险处三处。"
+  },
+  {
+    "id": "mis_ext_036",
+    "category": "expedition",
+    "title": "界碑重立",
+    "systemToast": "【叮】西界碑被山洪冲倒，寻回原石，扶正重立，记明方位。",
+    "hostInnerAccept": "界碑倒了，外人就敢越界采药，我去扶正。",
+    "hostInnerDecline": "原石太重，我一个人抬不动，得叫两个人帮手。",
+    "publicSummary": "西界碑为山洪冲倒，弟子寻回原石，扶正重立，方位与旧图相合。"
+  },
+  {
+    "id": "mis_ext_037",
+    "category": "expedition",
+    "title": "夜守烽台",
+    "systemToast": "【叮】北烽台今夜无人，你去守到天明，见异动即燃薪示警。",
+    "hostInnerAccept": "烽台一空，北边就没人看着，我去守一夜。",
+    "hostInnerDecline": "今夜风寒，我咳嗽还没好，守一夜怕要加重。",
+    "publicSummary": "北烽台夜间空缺，弟子自请守至天明，整夜无事，薪柴未动。"
+  },
+  {
+    "id": "mis_ext_038",
+    "category": "expedition",
+    "title": "护药农过岭",
+    "systemToast": "【叮】山南药农要过岭交货，你随行护送一程，送到界碑为止。",
+    "hostInnerAccept": "药农一年的收成都在担子里，送一程不算什么。",
+    "hostInnerDecline": "我今日当值丹房，走不开，护送另请同门。",
+    "publicSummary": "山南药农负药过岭，弟子随行护送，送至界碑，货物与人俱安。"
+  },
+  {
+    "id": "mis_ext_039",
+    "category": "expedition",
+    "title": "清理塌方",
+    "systemToast": "【叮】东栈道塌了半丈，清出通路，堆石于崖侧，勿堵水路。",
+    "hostInnerAccept": "栈道断了，采药的就上不去，清开才安心。",
+    "hostInnerDecline": "今日雨还没停，清完又要塌，等雨住再动。",
+    "publicSummary": "东栈道塌陷半丈，弟子冒雨清出通路，碎石堆于崖侧，水路未堵。"
+  },
+  {
+    "id": "mis_ext_040",
+    "category": "expedition",
+    "title": "古洞封符",
+    "systemToast": "【叮】西麓古洞有旧符失效，补上封符三道，切勿擅入洞中。",
+    "hostInnerAccept": "旧符失效最易出事，补上三道，也算尽一份心。",
+    "hostInnerDecline": "封符要新朱砂，库里正好用完了，等采买回来。",
+    "publicSummary": "西麓古洞旧符失效，弟子补上封符三道，洞口复封，未敢擅入。"
+  }
+]

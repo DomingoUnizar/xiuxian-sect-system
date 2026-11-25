@@ -1,0 +1,63 @@
+{
+  "seed": 20261123,
+  "fromTick": 1,
+  "toTick": 73,
+  "membersAfter": [
+    {
+      "id": "member_master",
+      "name": "宋昭舟",
+      "status": "active",
+      "cultivation": 644,
+      "realmLayer": 3,
+      "powerScore": 198
+    },
+    {
+      "id": "member_alchemy_elder",
+      "name": "江玄月",
+      "status": "active",
+      "cultivation": 512,
+      "realmLayer": 9,
+      "powerScore": 110
+    },
+    {
+      "id": "member_recruit_elder",
+      "name": "沈清月",
+      "status": "active",
+      "cultivation": 430,
+      "realmLayer": 9,
+      "powerScore": 113
+    },
+    {
+      "id": "member_senior_disciple",
+      "name": "顾衍远",
+      "status": "active",
+      "cultivation": 406,
+      "realmLayer": 9,
+      "powerScore": 110
+    },
+    {
+      "id": "member_departed_01",
+      "name": "许玄",
+      "status": "departed",
+      "cultivation": 78,
+      "realmLayer": 2,
+      "powerScore": 96
+    },
+    {
+      "id": "member_10",
+      "name": "陆宁竹",
+      "status": "active",
+      "cultivation": 372,
+      "realmLayer": 8,
+      "powerScore": 108
+    }
+  ],
+  "autoMissionsCompleted": 1,
+  "factsGenerated": 20,
+  "daoyuanAvailable": 24,
+  "herbsAfter": {
+    "herb_ningling": 12,
+    "herb_huiqi": 6,
+    "herb_humai": 4
+  }
+}

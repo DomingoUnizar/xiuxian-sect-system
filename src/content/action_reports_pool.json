@@ -1,0 +1,482 @@
+[
+  {
+    "id": "rep_001",
+    "scene": "alchemy_step",
+    "tag": "warmup",
+    "shortReport": "{actor}引火入炉，火舌贴壁转了三圈，炉温缓缓升到三成。"
+  },
+  {
+    "id": "rep_002",
+    "scene": "alchemy_step",
+    "tag": "warmup",
+    "shortReport": "{actor}先温炉底，再添两块炭，火色由黄转青，算是起了头。"
+  },
+  {
+    "id": "rep_003",
+    "scene": "alchemy_step",
+    "tag": "warmup",
+    "shortReport": "{actor}守着炉口调息，一口气分作九段送入，炉火才稳下来。"
+  },
+  {
+    "id": "rep_004",
+    "scene": "alchemy_step",
+    "tag": "warmup",
+    "shortReport": "{actor}把{item}投入炉中，药气初起，尚带着生涩的水味。"
+  },
+  {
+    "id": "rep_005",
+    "scene": "alchemy_step",
+    "tag": "warmup",
+    "shortReport": "{actor}与{peer}轮流看火，一人扇风，一人记温，半炷香才起头。"
+  },
+  {
+    "id": "rep_006",
+    "scene": "alchemy_step",
+    "tag": "purify",
+    "shortReport": "{actor}提清一遍，浮浊自炉面撇去，药汤清了一分。"
+  },
+  {
+    "id": "rep_007",
+    "scene": "alchemy_step",
+    "tag": "purify",
+    "shortReport": "{actor}以慢火逼出杂质，炉中起了细沫，撇净后药香转正。"
+  },
+  {
+    "id": "rep_008",
+    "scene": "alchemy_step",
+    "tag": "purify",
+    "shortReport": "{actor}连提两遍清，{item}的涩味去了大半，色也透亮起来。"
+  },
+  {
+    "id": "rep_009",
+    "scene": "alchemy_step",
+    "tag": "purify",
+    "shortReport": "{actor}捏着时辰提清，早一息则浊未去，晚一息则香已散。"
+  },
+  {
+    "id": "rep_010",
+    "scene": "alchemy_step",
+    "tag": "purify",
+    "shortReport": "{actor}撤去武火，以文火养了一刻，浊气才尽数沉底。"
+  },
+  {
+    "id": "rep_011",
+    "scene": "alchemy_step",
+    "tag": "purify",
+    "shortReport": "{peer}在旁递布，{actor}一勺一勺撇沫，炉面终于见清。"
+  },
+  {
+    "id": "rep_012",
+    "scene": "alchemy_step",
+    "tag": "purify",
+    "shortReport": "{actor}洗过{item}再入炉，水色不复浑浊，药性也纯了。"
+  },
+  {
+    "id": "rep_013",
+    "scene": "alchemy_step",
+    "tag": "purify",
+    "shortReport": "{actor}提清到第三遍，炉里只余一线清苦的香气。"
+  },
+  {
+    "id": "rep_014",
+    "scene": "alchemy_step",
+    "tag": "success",
+    "shortReport": "{actor}揭炉，{item}已成六枚，色正纹匀，一炉皆成。"
+  },
+  {
+    "id": "rep_015",
+    "scene": "alchemy_step",
+    "tag": "success",
+    "shortReport": "{actor}收火候得正好，丹丸滚圆，落在瓷盘里清脆有声。"
+  },
+  {
+    "id": "rep_016",
+    "scene": "alchemy_step",
+    "tag": "success",
+    "shortReport": "{actor}成丹满炉，{peer}数了一遍，一枚未碎，尽数入瓶。"
+  },
+  {
+    "id": "rep_017",
+    "scene": "alchemy_step",
+    "tag": "success",
+    "shortReport": "{actor}守到天光，揭盖见丹色如霞，连长老都点了点头。"
+  },
+  {
+    "id": "rep_018",
+    "scene": "alchemy_step",
+    "tag": "fail",
+    "shortReport": "{actor}火大了一线，{item}裂作两半，一炉只余焦气。"
+  },
+  {
+    "id": "rep_019",
+    "scene": "alchemy_step",
+    "tag": "fail",
+    "shortReport": "{actor}揭炉太早，药气未合，凝成的丸一触即碎。"
+  },
+  {
+    "id": "rep_020",
+    "scene": "alchemy_step",
+    "tag": "fail",
+    "shortReport": "{actor}忘了第二次提清，炉底结了一层黑垢，白费了药材。"
+  },
+  {
+    "id": "rep_021",
+    "scene": "alchemy_step",
+    "tag": "fail",
+    "shortReport": "{actor}与{peer}说话分神，炉温骤落，整炉废了。"
+  },
+  {
+    "id": "rep_022",
+    "scene": "arena_clash",
+    "tag": "warmup",
+    "shortReport": "{actor}系紧护腕，在台边空挥三剑，把筋骨活动开。"
+  },
+  {
+    "id": "rep_023",
+    "scene": "arena_clash",
+    "tag": "warmup",
+    "shortReport": "{actor}踏了踏沙地，试了两步起势，才提剑上台。"
+  },
+  {
+    "id": "rep_024",
+    "scene": "arena_clash",
+    "tag": "warmup",
+    "shortReport": "{peer}递来木剑，{actor}接在手里掂了掂，先试了试分量。"
+  },
+  {
+    "id": "rep_025",
+    "scene": "arena_clash",
+    "tag": "success",
+    "shortReport": "{actor}一剑压住{peer}的剑脊，顺势上挑，胜负已定。"
+  },
+  {
+    "id": "rep_026",
+    "scene": "arena_clash",
+    "tag": "success",
+    "shortReport": "{actor}连退三步，忽然回锋，{peer}的木剑脱手飞出。"
+  },
+  {
+    "id": "rep_027",
+    "scene": "arena_clash",
+    "tag": "success",
+    "shortReport": "{actor}守到{peer}力竭，一记横撩轻轻搭在肩头，点到即止。"
+  },
+  {
+    "id": "rep_028",
+    "scene": "arena_clash",
+    "tag": "fail",
+    "shortReport": "{actor}起手太急，剑势散了，被{peer}一格便退到台边。"
+  },
+  {
+    "id": "rep_029",
+    "scene": "arena_clash",
+    "tag": "fail",
+    "shortReport": "{actor}脚下沙滑，一步踏空，没等出手就先输了半招。"
+  },
+  {
+    "id": "rep_030",
+    "scene": "arena_clash",
+    "tag": "fail",
+    "shortReport": "{actor}硬接了一记，虎口发麻，木剑差点脱手。"
+  },
+  {
+    "id": "rep_031",
+    "scene": "arena_clash",
+    "tag": "clash",
+    "shortReport": "{actor}与{peer}的木剑相撞，一声脆响，两人各退半步。"
+  },
+  {
+    "id": "rep_032",
+    "scene": "arena_clash",
+    "tag": "clash",
+    "shortReport": "{actor}剑走斜锋，{peer}横剑来挡，火星在台心迸开。"
+  },
+  {
+    "id": "rep_033",
+    "scene": "arena_clash",
+    "tag": "clash",
+    "shortReport": "{actor}抢了先手，{peer}不退反进，两剑绞在一处。"
+  },
+  {
+    "id": "rep_034",
+    "scene": "arena_clash",
+    "tag": "clash",
+    "shortReport": "{peer}一剑劈下，{actor}举剑相迎，剑身都被压弯了。"
+  },
+  {
+    "id": "rep_035",
+    "scene": "arena_clash",
+    "tag": "clash",
+    "shortReport": "{actor}连出三剑，{peer}一一挡回，台下喝彩声渐起。"
+  },
+  {
+    "id": "rep_036",
+    "scene": "arena_clash",
+    "tag": "clash",
+    "shortReport": "{actor}绕台半圈，突然欺身而进，与{peer}撞了个正着。"
+  },
+  {
+    "id": "rep_037",
+    "scene": "arena_clash",
+    "tag": "dodge",
+    "shortReport": "{actor}侧身让过一剑，衣角被削去半寸，人却站稳了。"
+  },
+  {
+    "id": "rep_038",
+    "scene": "arena_clash",
+    "tag": "dodge",
+    "shortReport": "{actor}后仰避锋，脚跟擦着台边，硬是没落下台去。"
+  },
+  {
+    "id": "rep_039",
+    "scene": "arena_clash",
+    "tag": "dodge",
+    "shortReport": "{peer}一剑刺来，{actor}贴着剑身滑开半步，反手就是一撩。"
+  },
+  {
+    "id": "rep_040",
+    "scene": "arena_clash",
+    "tag": "dodge",
+    "shortReport": "{actor}不格不挡，只退了一步，让{peer}的剑锋落了空。"
+  },
+  {
+    "id": "rep_041",
+    "scene": "arena_clash",
+    "tag": "dodge",
+    "shortReport": "{actor}矮身从剑下穿过，起身时已在{peer}背后。"
+  },
+  {
+    "id": "rep_042",
+    "scene": "arena_clash",
+    "tag": "dodge",
+    "shortReport": "{actor}连避三剑，退到台角才停，呼吸虽乱，阵脚未散。"
+  },
+  {
+    "id": "rep_043",
+    "scene": "arena_clash",
+    "tag": "talisman_save",
+    "shortReport": "{actor}见势不好，捏碎一枚护身符，剑锋在身前三寸停住。"
+  },
+  {
+    "id": "rep_044",
+    "scene": "arena_clash",
+    "tag": "talisman_save",
+    "shortReport": "{peer}这一剑太重，{actor}燃了符纸，光气一挡，人才退出圈外。"
+  },
+  {
+    "id": "rep_045",
+    "scene": "arena_clash",
+    "tag": "talisman_save",
+    "shortReport": "{actor}退无可退，取出{item}一扬，白烟漫开，趁隙脱身。"
+  },
+  {
+    "id": "rep_046",
+    "scene": "arena_clash",
+    "tag": "rescue",
+    "shortReport": "{peer}被逼到台边，{actor}收剑上前，一把将人拉了回来。"
+  },
+  {
+    "id": "rep_047",
+    "scene": "arena_clash",
+    "tag": "rescue",
+    "shortReport": "{peer}踉跄欲倒，{actor}弃剑扶住，这一场就作和。"
+  },
+  {
+    "id": "rep_048",
+    "scene": "arena_clash",
+    "tag": "rescue",
+    "shortReport": "{actor}见{peer}气息不稳，主动退了三步，抱拳认平。"
+  },
+  {
+    "id": "rep_049",
+    "scene": "arena_clash",
+    "tag": "rescue",
+    "shortReport": "{peer}剑势收不住，{actor}横臂挡了一下，两人都跌坐在地。"
+  },
+  {
+    "id": "rep_050",
+    "scene": "wild_encounter",
+    "tag": "warmup",
+    "shortReport": "{actor}在岭口停了停，听了一阵风声，才踏入林间小径。"
+  },
+  {
+    "id": "rep_051",
+    "scene": "wild_encounter",
+    "tag": "warmup",
+    "shortReport": "{actor}紧了紧绑腿，把{item}挂在腰间，沿兽迹慢慢摸过去。"
+  },
+  {
+    "id": "rep_052",
+    "scene": "wild_encounter",
+    "tag": "purify",
+    "shortReport": "{actor}以清水洗过{item}上的泥，香气才透出来。"
+  },
+  {
+    "id": "rep_053",
+    "scene": "wild_encounter",
+    "tag": "purify",
+    "shortReport": "{actor}寻到一处浊泉，撒下净粉，水色渐渐转清。"
+  },
+  {
+    "id": "rep_054",
+    "scene": "wild_encounter",
+    "tag": "success",
+    "shortReport": "{actor}循着兽迹摸到巢边，一举拿下，未惊动四周。"
+  },
+  {
+    "id": "rep_055",
+    "scene": "wild_encounter",
+    "tag": "success",
+    "shortReport": "{actor}在崖下寻见{item}，连根起出，根须一根未断。"
+  },
+  {
+    "id": "rep_056",
+    "scene": "wild_encounter",
+    "tag": "success",
+    "shortReport": "{actor}把那头低阶妖物逐出药田，药农连声道谢。"
+  },
+  {
+    "id": "rep_057",
+    "scene": "wild_encounter",
+    "tag": "fail",
+    "shortReport": "{actor}一脚踏空，滚下半坡，{item}撒了一地。"
+  },
+  {
+    "id": "rep_058",
+    "scene": "wild_encounter",
+    "tag": "fail",
+    "shortReport": "{actor}追得太急，反被那头畜生撞翻在地，狼狈起身。"
+  },
+  {
+    "id": "rep_059",
+    "scene": "wild_encounter",
+    "tag": "fail",
+    "shortReport": "{actor}在雾里绕了半日，回到原处，什么也没寻着。"
+  },
+  {
+    "id": "rep_060",
+    "scene": "wild_encounter",
+    "tag": "clash",
+    "shortReport": "{actor}与那畜生撞个正着，兵器一递，血溅在草叶上。"
+  },
+  {
+    "id": "rep_061",
+    "scene": "wild_encounter",
+    "tag": "clash",
+    "shortReport": "{actor}横剑去挡，兽爪落下，震得手臂发麻。"
+  },
+  {
+    "id": "rep_062",
+    "scene": "wild_encounter",
+    "tag": "clash",
+    "shortReport": "{peer}从侧翼欺上，{actor}正面迎击，把那兽夹在中间。"
+  },
+  {
+    "id": "rep_063",
+    "scene": "wild_encounter",
+    "tag": "clash",
+    "shortReport": "{actor}的{item}砍在兽背上，崩出一道白痕，兽却未退。"
+  },
+  {
+    "id": "rep_064",
+    "scene": "wild_encounter",
+    "tag": "dodge",
+    "shortReport": "{actor}侧身一闪，兽爪擦着肩头过去，衣裳裂开一道口子。"
+  },
+  {
+    "id": "rep_065",
+    "scene": "wild_encounter",
+    "tag": "dodge",
+    "shortReport": "{actor}就地一滚，避开了那口獠牙，起身时已在树后。"
+  },
+  {
+    "id": "rep_066",
+    "scene": "wild_encounter",
+    "tag": "dodge",
+    "shortReport": "{actor}退到石壁前，见无路可退，反从兽腹下钻了过去。"
+  },
+  {
+    "id": "rep_067",
+    "scene": "wild_encounter",
+    "tag": "dodge",
+    "shortReport": "{actor}借树干一荡，让那兽扑空，撞在树根上。"
+  },
+  {
+    "id": "rep_068",
+    "scene": "wild_encounter",
+    "tag": "talisman_save",
+    "shortReport": "{actor}见那兽扑来，急燃遁符，人影一晃已退到十步外。"
+  },
+  {
+    "id": "rep_069",
+    "scene": "wild_encounter",
+    "tag": "talisman_save",
+    "shortReport": "{actor}被围在中间，捏碎{item}，白烟一爆，兽群自乱。"
+  },
+  {
+    "id": "rep_070",
+    "scene": "wild_encounter",
+    "tag": "talisman_save",
+    "shortReport": "{actor}的退路被断，符纸贴地引雷，震得那兽退了三丈。"
+  },
+  {
+    "id": "rep_071",
+    "scene": "wild_encounter",
+    "tag": "talisman_save",
+    "shortReport": "{actor}护身符应声而碎，替他挡下了那口獠牙。"
+  },
+  {
+    "id": "rep_072",
+    "scene": "wild_encounter",
+    "tag": "talisman_save",
+    "shortReport": "{peer}陷在泥里，{actor}扬出一张符，光气把兽逼开。"
+  },
+  {
+    "id": "rep_073",
+    "scene": "wild_encounter",
+    "tag": "talisman_save",
+    "shortReport": "{actor}力竭之际燃了最后一张符，勉强撑到同门赶到。"
+  },
+  {
+    "id": "rep_074",
+    "scene": "wild_encounter",
+    "tag": "talisman_save",
+    "shortReport": "{actor}被兽爪扫中，替身符化了人形，真身倒在丈外。"
+  },
+  {
+    "id": "rep_075",
+    "scene": "wild_encounter",
+    "tag": "rescue",
+    "shortReport": "{peer}被兽逼到崖边，{actor}一把拽住后领，将人拖了回来。"
+  },
+  {
+    "id": "rep_076",
+    "scene": "wild_encounter",
+    "tag": "rescue",
+    "shortReport": "{actor}见{peer}伤重，背起人就走，一路撒下拦兽的符灰。"
+  },
+  {
+    "id": "rep_077",
+    "scene": "wild_encounter",
+    "tag": "rescue",
+    "shortReport": "{peer}腿被咬住，{actor}举{item}猛击兽首，硬是撬开了口。"
+  },
+  {
+    "id": "rep_078",
+    "scene": "wild_encounter",
+    "tag": "rescue",
+    "shortReport": "{actor}替{peer}挡了一爪，肩上见血，却先把人推出圈外。"
+  },
+  {
+    "id": "rep_079",
+    "scene": "wild_encounter",
+    "tag": "rescue",
+    "shortReport": "{actor}把最后半瓶止血散按在{peer}伤口上，自己守在道口。"
+  },
+  {
+    "id": "rep_080",
+    "scene": "wild_encounter",
+    "tag": "rescue",
+    "shortReport": "{peer}力竭倒地，{actor}横剑当胸，把人护在身后，直到兽退。"
+  }
+]

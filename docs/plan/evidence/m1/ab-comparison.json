@@ -1,0 +1,166 @@
+{
+  "seed": 20261123,
+  "startHash": "2bca9eeca25f869088cea78dbcb4eb992bf448a667a9498b3d01a3fc9fd1f2ee",
+  "commonInputsHash": "0a692502ef9f9588e03f22e34ab651a8ef098623d0444c67f5db68696a80e189",
+  "maskedMatch": true,
+  "rulesVersion": "m1-rules-1.0.0",
+  "contentVersion": "m1-content-1.0.0",
+  "rngVersion": "pure-rand-xoroshiro128plus-v1",
+  "endTick": 9,
+  "hostId": "member_10",
+  "hostName": "陆宁竹",
+  "branchA": {
+    "targetType": "first_alchemy",
+    "missionId": "mission_14",
+    "missionStatus": "completed",
+    "alchemyFacts": [
+      {
+        "id": "alc_16",
+        "tick": 5,
+        "actorId": "member_10",
+        "recipeId": "recipe_ningling",
+        "recipeName": "凝灵丹方",
+        "usedMethodId": "method_basic_fire",
+        "seedRef": "20261123:alchemy:alchemy:member_10:recipe_ningling:0",
+        "furnaceTempStart": 6,
+        "furnaceTempEnd": 7,
+        "impurityRemoved": 2,
+        "potency": 12,
+        "success": true,
+        "pillTier": 1,
+        "pillQuality": "中品",
+        "pillToxicity": 1,
+        "destination": "sect_vault",
+        "destinationNote": "已封瓶存入宗门丹库（库中现存 一阶中品凝灵丹 1 枚），可供门人疗伤或冲关服用。",
+        "shortReport": "陆宁竹 驾驭凡炉依「凝灵丹方」成丹一枚（一阶中品凝灵丹），已封瓶存入宗门丹库（库中现存 一阶中品凝灵丹 1 枚），可供门人疗伤或冲关服用。",
+        "detailedReport": "【辨药】核验主辅药材药性苏醒先后，投凝灵草×2、回气草×1入炉。\n【行火】炉温由 6 调至 7，去浮浊 2 缕。\n【合药分丹】药力凝为一丸「一阶中品凝灵丹」（中品，含轻微丹毒 1 点）。\n【去向】已封瓶存入宗门丹库（库中现存 一阶中品凝灵丹 1 枚），可供门人疗伤或冲关服用。"
+      }
+    ],
+    "pillsInVault": {
+      "pill_ningling_1_low": 1,
+      "pill_ningling_1_mid": 1
+    },
+    "herbsAfter": {
+      "herb_ningling": 10,
+      "herb_huiqi": 5,
+      "herb_humai": 4
+    },
+    "rewardGrantDelta": 80,
+    "hostCultivationAfter": 188,
+    "hostPowerAfter": 102,
+    "unlockedFollowups": [
+      "followup_alchemy_humai",
+      "followup_heritage_fenhuo"
+    ]
+  },
+  "branchB": {
+    "targetType": "first_arena_win",
+    "missionId": "mission_14",
+    "missionStatus": "completed",
+    "battleFacts": [
+      {
+        "id": "bat_16",
+        "tick": 5,
+        "mode": "arena_duel",
+        "actorIds": [
+          "member_10"
+        ],
+        "contextAtStart": {
+          "hostPower": 99,
+          "opponentPower": 90,
+          "hostHp": 84,
+          "opponentHp": 74,
+          "weaponUsed": "随身青铁剑",
+          "environment": "宗门试剑台（同境切磋，禁私下致命）"
+        },
+        "seedRef": "20261123:combat:battle:member_10:opp_arena_01:arena_duel:0",
+        "ruleVersion": "m1-rules-1.0.0",
+        "causes": [
+          "双方纸面战力：陆宁竹 (99) 对阵 周墨 (90)",
+          "佩戴「随身青铁剑」（炼气催动凡阶法器发挥 50% 威能）"
+        ],
+        "turns": [
+          {
+            "turn": 1,
+            "actorName": "陆宁竹",
+            "action": "青松试剑势",
+            "detail": "陆宁竹 借「青松试剑势」抢拍递出（准度 58 ≥ 闪避 46），压破对手护势。",
+            "damage": 22,
+            "targetRemainingHp": 52
+          },
+          {
+            "turn": 1,
+            "actorName": "周墨",
+            "action": "青松试剑势",
+            "detail": "周墨 催动「青松试剑势」反扑，震伤 陆宁竹 气血 10 点。",
+            "damage": 10,
+            "targetRemainingHp": 74
+          },
+          {
+            "turn": 2,
+            "actorName": "陆宁竹",
+            "action": "青松试剑势",
+            "detail": "陆宁竹 借「青松试剑势」抢拍递出（准度 60 ≥ 闪避 46），压破对手护势。",
+            "damage": 24,
+            "targetRemainingHp": 28
+          },
+          {
+            "turn": 2,
+            "actorName": "周墨",
+            "action": "青松试剑势",
+            "detail": "周墨 催动「青松试剑势」反扑，震伤 陆宁竹 气血 7 点。",
+            "damage": 7,
+            "targetRemainingHp": 67
+          },
+          {
+            "turn": 3,
+            "actorName": "陆宁竹",
+            "action": "青松试剑势",
+            "detail": "陆宁竹 借「青松试剑势」抢拍递出（准度 56 ≥ 闪避 46），压破对手护势。",
+            "damage": 22,
+            "targetRemainingHp": 6
+          },
+          {
+            "turn": 3,
+            "actorName": "周墨",
+            "action": "青松试剑势",
+            "detail": "周墨 催动「青松试剑势」反扑，震伤 陆宁竹 气血 7 点。",
+            "damage": 7,
+            "targetRemainingHp": 60
+          },
+          {
+            "turn": 4,
+            "actorName": "陆宁竹",
+            "action": "青松试剑势",
+            "detail": "陆宁竹 借「青松试剑势」抢拍递出（准度 56 ≥ 闪避 46），压破对手护势。",
+            "damage": 22,
+            "targetRemainingHp": 0
+          }
+        ],
+        "outcome": "win",
+        "deltas": {
+          "hostHpDelta": -24,
+          "durabilityDelta": 0,
+          "talismanConsumed": 0,
+          "weaponProtected": false
+        },
+        "afterEffectIds": [],
+        "shortReport": "陆宁竹 登临试剑台迎战 周墨，数合交锋后占住先手赢下此局（剩余气血 60/84），获准晋入下一场复赛/挑战席位。",
+        "detailedReport": "【战前】双方纸面战力：陆宁竹 (99) 对阵 周墨 (90)；佩戴「随身青铁剑」（炼气催动凡阶法器发挥 50% 威能）。\n第1合｜陆宁竹 借「青松试剑势」抢拍递出（准度 58 ≥ 闪避 46），压破对手护势。\n第1合｜周墨 催动「青松试剑势」反扑，震伤 陆宁竹 气血 10 点。\n第2合｜陆宁竹 借「青松试剑势」抢拍递出（准度 60 ≥ 闪避 46），压破对手护势。\n第2合｜周墨 催动「青松试剑势」反扑，震伤 陆宁竹 气血 7 点。\n第3合｜陆宁竹 借「青松试剑势」抢拍递出（准度 56 ≥ 闪避 46），压破对手护势。\n第3合｜周墨 催动「青松试剑势」反扑，震伤 陆宁竹 气血 7 点。\n第4合｜陆宁竹 借「青松试剑势」抢拍递出（准度 56 ≥ 闪避 46），压破对手护势。\n【结局】陆宁竹 登临试剑台迎战 周墨，数合交锋后占住先手赢下此局（剩余气血 60/84），获准晋入下一场复赛/挑战席位。"
+      }
+    ],
+    "sectReputationAfter": 12,
+    "herbsAfter": {
+      "herb_ningling": 12,
+      "herb_huiqi": 6,
+      "herb_humai": 4
+    },
+    "rewardGrantDelta": 80,
+    "hostCultivationAfter": 188,
+    "hostPowerAfter": 102,
+    "unlockedFollowups": [
+      "followup_arena_rematch",
+      "followup_wild_expedition"
+    ]
+  }
+}

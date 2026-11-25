@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "bub_001",
+    "zone": "gate",
+    "personality": "any",
+    "publicBubble": "山门石阶又扫了一遍，还是落叶子。",
+    "secretHostBubble": "才扫完一遍，心里那句又催我练桩，不肯消停。"
+  },
+  {
+    "id": "bub_002",
+    "zone": "gate",
+    "personality": "谨慎",
+    "publicBubble": "腰牌挂在左，别挂右，规矩记牢。",
+    "secretHostBubble": "昨夜它就报了我今日该做的事，半点不敢耽误。"
+  },
+  {
+    "id": "bub_003",
+    "zone": "gate",
+    "personality": "sect_master",
+    "publicBubble": "来的人多了，山门就热闹了。",
+    "secretHostBubble": "这神秘督促倒比我这个宗主还操心本门传承。"
+  },
+  {
+    "id": "bub_004",
+    "zone": "gate",
+    "personality": "elder",
+    "publicBubble": "验骨龄的手，别抖。",
+    "secretHostBubble": "私密那声叮嘱说得在理，只不知它究竟是何来路。"
+  },
+  {
+    "id": "bub_005",
+    "zone": "gate",
+    "personality": "好战",
+    "publicBubble": "新来的，敢不敢先与我过一招？",
+    "secretHostBubble": "那声音许我一场同境试剑，赢了还有赏，手都痒了。"
+  },
+  {
+    "id": "bub_006",
+    "zone": "gate",
+    "personality": "any",
+    "publicBubble": "黄昏了，把灯笼点上。",
+    "secretHostBubble": "入夜还得按它说的吐纳一百息，这日子倒也踏实。"
+  },
+  {
+    "id": "bub_007",
+    "zone": "gate",
+    "personality": "重情",
+    "publicBubble": "那位小师弟的包袱，我替他提着。",
+    "secretHostBubble": "私密那声说他今夜会来，我半信半疑，倒也有些盼。"
+  },
+  {
+    "id": "bub_008",
+    "zone": "hall",
+    "personality": "sect_master",
+    "publicBubble": "香炉三炷，够撑到日落。",
+    "secretHostBubble": "它连我该传哪一手都记得清楚，倒像替我掌着宗门。"
+  },
+  {
+    "id": "bub_009",
+    "zone": "hall",
+    "personality": "elder",
+    "publicBubble": "碑上的名，别刻歪了。",
+    "secretHostBubble": "私密那声要我夜里整理旧谱，我只得偷偷用功。"
+  },
+  {
+    "id": "bub_010",
+    "zone": "hall",
+    "personality": "重利",
+    "publicBubble": "这个月的供奉，账要对得上。",
+    "secretHostBubble": "它说这月账目清了便有一份赏，我倒要算仔细些。"
+  },
+  {
+    "id": "bub_011",
+    "zone": "hall",
+    "personality": "冷静",
+    "publicBubble": "茶凉了，换一壶，师长要来了。",
+    "secretHostBubble": "修为长了三分，偏偏一个字也解释不得，只好装作平常。"
+  },
+  {
+    "id": "bub_012",
+    "zone": "hall",
+    "personality": "野心",
+    "publicBubble": "这主殿的位置，迟早要有人坐稳。",
+    "secretHostBubble": "它许我赢了这一场便赐护身遁符，这样的好事哪里找。"
+  },
+  {
+    "id": "bub_013",
+    "zone": "hall",
+    "personality": "any",
+    "publicBubble": "阶前的青砖，又裂了一角。",
+    "secretHostBubble": "心里那句催语不紧不慢，倒比我自己还上心。"
+  },
+  {
+    "id": "bub_014",
+    "zone": "hall",
+    "personality": "专研",
+    "publicBubble": "这卷旧仪注，抄漏了两字。",
+    "secretHostBubble": "私密指点比阁中典籍还准，真不知是哪位前辈在提点。"
+  },
+  {
+    "id": "bub_015",
+    "zone": "alchemy",
+    "personality": "专研",
+    "publicBubble": "火候再压三分，别让药气跑了。",
+    "secretHostBubble": "它说这一炉能成，成了便赐我一缕修为，我信了。"
+  },
+  {
+    "id": "bub_016",
+    "zone": "alchemy",
+    "personality": "谨慎",
+    "publicBubble": "药庐的门，插上门闩。",
+    "secretHostBubble": "私密嘱咐要我守炉到三更，这事不好与师父明说。"
+  },
+  {
+    "id": "bub_017",
+    "zone": "alchemy",
+    "personality": "冷静",
+    "publicBubble": "这一炉废了，倒掉重来。",
+    "secretHostBubble": "它说错在第三息的呼吸，我再试一遍，偏不信邪。"
+  },
+  {
+    "id": "bub_018",
+    "zone": "alchemy",
+    "personality": "any",
+    "publicBubble": "丹灰扫净，明日还要用炉。",
+    "secretHostBubble": "心里那句话，比炉火还催人。"
+  },
+  {
+    "id": "bub_019",
+    "zone": "alchemy",
+    "personality": "重利",
+    "publicBubble": "药庐的份例，多分我一勺。",
+    "secretHostBubble": "它说明早有一炉好丹可成，赏格不小，熬这一夜也值。"
+  },
+  {
+    "id": "bub_020",
+    "zone": "alchemy",
+    "personality": "好战",
+    "publicBubble": "药渣别倒，后山那几条狗要吃。",
+    "secretHostBubble": "它催我今夜再开一炉，师父就在门外，我不好声张。"
+  },
+  {
+    "id": "bub_021",
+    "zone": "alchemy",
+    "personality": "elder",
+    "publicBubble": "三十年的火，我也没摸透。",
+    "secretHostBubble": "私密指引比我这三十年还准，究竟是谁在指路。"
+  },
+  {
+    "id": "bub_022",
+    "zone": "alchemy",
+    "personality": "重情",
+    "publicBubble": "师弟烫了手，我这有药膏。",
+    "secretHostBubble": "叮声催我快回炉边，我抹完这药膏就去。"
+  },
+  {
+    "id": "bub_023",
+    "zone": "arena",
+    "personality": "好战",
+    "publicBubble": "剑再抬高半寸，破你的左肋。",
+    "secretHostBubble": "它昨夜就说这一招会赢，赢了赐修为，我半信半疑。"
+  },
+  {
+    "id": "bub_024",
+    "zone": "arena",
+    "personality": "冷静",
+    "publicBubble": "你气息乱了，先退半步。",
+    "secretHostBubble": "私密叮嘱要我同境试一场，不许藏拙，可真要赢也难。"
+  },
+  {
+    "id": "bub_025",
+    "zone": "arena",
+    "personality": "any",
+    "publicBubble": "剑架的第三格，空了一把。",
+    "secretHostBubble": "心里那句话，催我今夜去后山练一遍剑。"
+  },
+  {
+    "id": "bub_026",
+    "zone": "arena",
+    "personality": "谨慎",
+    "publicBubble": "点到为止，别伤同门。",
+    "secretHostBubble": "它说对面藏了一手杀招，只叫我稳着打，我记下了。"
+  },
+  {
+    "id": "bub_027",
+    "zone": "arena",
+    "personality": "野心",
+    "publicBubble": "这一场，我要赢得干净。",
+    "secretHostBubble": "那声叮说赢这一场自有赏赐，我心跳得太快。"
+  },
+  {
+    "id": "bub_028",
+    "zone": "arena",
+    "personality": "重情",
+    "publicBubble": "输了也别丧气，明日再来。",
+    "secretHostBubble": "它让我明日再约他一场，我倒有些不忍。"
+  },
+  {
+    "id": "bub_029",
+    "zone": "arena",
+    "personality": "elder",
+    "publicBubble": "木剑的裂口，都换新的。",
+    "secretHostBubble": "私密那句指点，正落在我今日要教的剑上。"
+  },
+  {
+    "id": "bub_030",
+    "zone": "heritage",
+    "personality": "专研",
+    "publicBubble": "第三层的灯，油快尽了。",
+    "secretHostBubble": "它要我把那卷旧谱研透，研成了自有好处。"
+  },
+  {
+    "id": "bub_031",
+    "zone": "heritage",
+    "personality": "谨慎",
+    "publicBubble": "翻书前净手，别污了页子。",
+    "secretHostBubble": "那声叮报出一部传承手法的名字，我记了一夜。"
+  },
+  {
+    "id": "bub_032",
+    "zone": "heritage",
+    "personality": "冷静",
+    "publicBubble": "这一页虫蛀了，抄一份。",
+    "secretHostBubble": "私密嘱咐说今夜三更抄完，抄完了有赏。"
+  },
+  {
+    "id": "bub_033",
+    "zone": "heritage",
+    "personality": "any",
+    "publicBubble": "阁里的风，总把书页吹乱。",
+    "secretHostBubble": "心里那句话，比穿堂风还钻缝。"
+  },
+  {
+    "id": "bub_034",
+    "zone": "heritage",
+    "personality": "elder",
+    "publicBubble": "书要还，看完就归架。",
+    "secretHostBubble": "它指的那一卷，我守了三十年，倒被它先认出来。"
+  },
+  {
+    "id": "bub_035",
+    "zone": "heritage",
+    "personality": "重利",
+    "publicBubble": "抄书换灵石，一页三块。",
+    "secretHostBubble": "那声叮说这抄本值百块灵石，这活我接了。"
+  },
+  {
+    "id": "bub_036",
+    "zone": "heritage",
+    "personality": "重情",
+    "publicBubble": "师弟要的这本，我替他寻到了。",
+    "secretHostBubble": "它说抄完了有赏，我正好替师弟多抄一份。"
+  },
+  {
+    "id": "bub_037",
+    "zone": "pass",
+    "personality": "谨慎",
+    "publicBubble": "山口的风紧，绳子再系一道。",
+    "secretHostBubble": "私密所嘱让我今夜独自过岭巡一遍，我不敢声张。"
+  },
+  {
+    "id": "bub_038",
+    "zone": "pass",
+    "personality": "好战",
+    "publicBubble": "有妖气，先报三声。",
+    "secretHostBubble": "它说那兽今夜必来，斩了有重赏，我先磨刀。"
+  },
+  {
+    "id": "bub_039",
+    "zone": "pass",
+    "personality": "any",
+    "publicBubble": "寒鸦落了满树，兆头不好。",
+    "secretHostBubble": "心里那句话，比这满树的鸦叫还急。"
+  },
+  {
+    "id": "bub_040",
+    "zone": "pass",
+    "personality": "冷静",
+    "publicBubble": "火堆别熄，后半夜更冷。",
+    "secretHostBubble": "它要我守到天亮，说是山外有动静，我不敢误。"
+  },
+  {
+    "id": "bub_041",
+    "zone": "pass",
+    "personality": "重利",
+    "publicBubble": "过往行商验清路引，便可放行。",
+    "secretHostBubble": "那声叮说这趟巡山完了有赏，可得盯紧些。"
+  },
+  {
+    "id": "bub_042",
+    "zone": "pass",
+    "personality": "elder",
+    "publicBubble": "这道山口，我守了二十年。",
+    "secretHostBubble": "私密所言竟知道后山那条小径，它比我还要熟这一带。"
+  },
+  {
+    "id": "bub_043",
+    "zone": "pass",
+    "personality": "重情",
+    "publicBubble": "受伤的猎户，抬进哨棚。",
+    "secretHostBubble": "它催我先回山口，我抬完这人再去。"
+  },
+  {
+    "id": "bub_044",
+    "zone": "spring",
+    "personality": "冷静",
+    "publicBubble": "泉水三更最凉，别泡太久。",
+    "secretHostBubble": "私密叮嘱要我入水七息，说是固本，我照着做了。"
+  },
+  {
+    "id": "bub_045",
+    "zone": "spring",
+    "personality": "专研",
+    "publicBubble": "泉边那块苔，晒干能入药。",
+    "secretHostBubble": "它说这苔里含着东西，能入药，我刮了半宿。"
+  },
+  {
+    "id": "bub_046",
+    "zone": "spring",
+    "personality": "谨慎",
+    "publicBubble": "静室的门，别让外人进。",
+    "secretHostBubble": "那声叮说到此为止，我却还想再多问一句。"
+  },
+  {
+    "id": "bub_047",
+    "zone": "spring",
+    "personality": "any",
+    "publicBubble": "水汽起来，对面都看不清。",
+    "secretHostBubble": "心里那句话，也在雾里，听不真切。"
+  },
+  {
+    "id": "bub_048",
+    "zone": "spring",
+    "personality": "重情",
+    "publicBubble": "师姐泡泉，我替她守门。",
+    "secretHostBubble": "它催我快回静室吐纳，我先替她把这道门守完。"
+  },
+  {
+    "id": "bub_049",
+    "zone": "spring",
+    "personality": "sect_master",
+    "publicBubble": "静室的香，换一种淡的。",
+    "secretHostBubble": "私密那声说本门旧规矩比我清楚，倒像它才是长辈。"
+  },
+  {
+    "id": "bub_050",
+    "zone": "spring",
+    "personality": "好战",
+    "publicBubble": "泡完这泉，我再练一遍。",
+    "secretHostBubble": "它说泡这一泉能长三分力气，我不嫌多。"
+  },
+  {
+    "id": "bub_051",
+    "zone": "gate",
+    "personality": "any",
+    "publicBubble": "山门的灯笼，今日换新纸。",
+    "secretHostBubble": "心里那句又催我早课，天没亮就醒了。"
+  },
+  {
+    "id": "bub_052",
+    "zone": "gate",
+    "personality": "谨慎",
+    "publicBubble": "腰牌收好，别让风吹跑了。",
+    "secretHostBubble": "它昨夜已报了我今日该练的桩法，半点不敢耽搁。"
+  },
+  {
+    "id": "bub_053",
+    "zone": "gate",
+    "personality": "sect_master",
+    "publicBubble": "匾上的灰，叫人擦一擦。",
+    "secretHostBubble": "这声叮嘱比我这个宗主还清楚门中旧事，来路真怪。"
+  },
+  {
+    "id": "bub_054",
+    "zone": "gate",
+    "personality": "elder",
+    "publicBubble": "验骨龄的手，稳住些。",
+    "secretHostBubble": "私密那声说这孩子根骨可造，我只装作不知。"
+  },
+  {
+    "id": "bub_055",
+    "zone": "gate",
+    "personality": "好战",
+    "publicBubble": "新来的，先与我过一招。",
+    "secretHostBubble": "它许我一场同境试剑，赢了还有赏，手心都热了。"
+  },
+  {
+    "id": "bub_056",
+    "zone": "gate",
+    "personality": "重情",
+    "publicBubble": "那孩子的包袱，我替他提。",
+    "secretHostBubble": "那声叮嘱说他今夜会到，我半信半疑，倒有些盼。"
+  },
+  {
+    "id": "bub_057",
+    "zone": "gate",
+    "personality": "重利",
+    "publicBubble": "入门的束脩，一笔笔记清。",
+    "secretHostBubble": "它说这月账清了便有一份赏，我算得比谁都细。"
+  },
+  {
+    "id": "bub_058",
+    "zone": "gate",
+    "personality": "冷静",
+    "publicBubble": "晨钟三响，门就该开了。",
+    "secretHostBubble": "修为莫名长了三分，我一个字也解释不得，只好不言。"
+  },
+  {
+    "id": "bub_059",
+    "zone": "gate",
+    "personality": "野心",
+    "publicBubble": "这守门的位置，也未必久坐。",
+    "secretHostBubble": "它许我连胜三场便赐遁符，这样的好事哪里寻。"
+  },
+  {
+    "id": "bub_060",
+    "zone": "gate",
+    "personality": "专研",
+    "publicBubble": "门规石刻，缺了一角。",
+    "secretHostBubble": "私密指点比石刻还准，真不知是哪位前辈在提点。"
+  },
+  {
+    "id": "bub_061",
+    "zone": "gate",
+    "personality": "any",
+    "publicBubble": "晨露未干，石阶微润，稳步上山。",
+    "secretHostBubble": "心里那道督促不紧不慢，倒比我自己还上心。"
+  },
+  {
+    "id": "bub_062",
+    "zone": "gate",
+    "personality": "谨慎",
+    "publicBubble": "来客登记，籍贯要写全。",
+    "secretHostBubble": "它要我留意来客袖口，我照做了，也没敢问缘由。"
+  },
+  {
+    "id": "bub_063",
+    "zone": "gate",
+    "personality": "elder",
+    "publicBubble": "火把添油，夜里还有人来。",
+    "secretHostBubble": "那声叮嘱叫我今夜守在阶前，我竟真有些期待。"
+  },
+  {
+    "id": "bub_064",
+    "zone": "gate",
+    "personality": "好战",
+    "publicBubble": "石狮底座，正好试拳。",
+    "secretHostBubble": "它说我筋骨还差一分火候，便许我再练三十息。"
+  },
+  {
+    "id": "bub_065",
+    "zone": "gate",
+    "personality": "重情",
+    "publicBubble": "远来的散修，先给一碗热汤。",
+    "secretHostBubble": "心里那声说他一路辛苦，我便多添了半勺。"
+  },
+  {
+    "id": "bub_066",
+    "zone": "gate",
+    "personality": "sect_master",
+    "publicBubble": "山门要静，人心才定。",
+    "secretHostBubble": "它连我该见哪一位客都算得准，倒叫我心里发毛。"
+  },
+  {
+    "id": "bub_067",
+    "zone": "hall",
+    "personality": "sect_master",
+    "publicBubble": "香炉三炷，够到日落。",
+    "secretHostBubble": "它连我今日该传哪一手都记得清楚，真怪。"
+  },
+  {
+    "id": "bub_068",
+    "zone": "hall",
+    "personality": "elder",
+    "publicBubble": "碑上的名，别刻歪了。",
+    "secretHostBubble": "私密那声要我夜里整理旧谱，我只得偷偷用功。"
+  },
+  {
+    "id": "bub_069",
+    "zone": "hall",
+    "personality": "重利",
+    "publicBubble": "本月供奉，账要平。",
+    "secretHostBubble": "它说账目清了便有一份赏，我自要算仔细些。"
+  },
+  {
+    "id": "bub_070",
+    "zone": "hall",
+    "personality": "冷静",
+    "publicBubble": "茶凉了，换一壶新的。",
+    "secretHostBubble": "修为渐长，偏一个字也说不出口，只好装作无事。"
+  },
+  {
+    "id": "bub_071",
+    "zone": "hall",
+    "personality": "野心",
+    "publicBubble": "这主殿的位子，迟早有人坐稳。",
+    "secretHostBubble": "它许我这一场赢了便赐护身符，我岂能不争。"
+  },
+  {
+    "id": "bub_072",
+    "zone": "hall",
+    "personality": "any",
+    "publicBubble": "阶前青砖，又裂了一角。",
+    "secretHostBubble": "心里那句催语不急，倒比我还惦记修行。"
+  },
+  {
+    "id": "bub_073",
+    "zone": "hall",
+    "personality": "专研",
+    "publicBubble": "这卷旧仪注，抄漏两字。",
+    "secretHostBubble": "私密指点比阁里典籍还细，究竟是哪位前辈。"
+  },
+  {
+    "id": "bub_074",
+    "zone": "hall",
+    "personality": "谨慎",
+    "publicBubble": "殿门关上，莫让风灌进来。",
+    "secretHostBubble": "它嘱咐我今夜守灯到三更，这事不好与师父明说。"
+  },
+  {
+    "id": "bub_075",
+    "zone": "hall",
+    "personality": "好战",
+    "publicBubble": "议事完了，去演武场。",
+    "secretHostBubble": "那声叮嘱允我每日一场切磋，赢了自有赏，痛快。"
+  },
+  {
+    "id": "bub_076",
+    "zone": "hall",
+    "personality": "elder",
+    "publicBubble": "蒲团摆正，师长要讲道。",
+    "secretHostBubble": "它昨夜提点的一句，正合今日要讲的经义，奇了。"
+  },
+  {
+    "id": "bub_077",
+    "zone": "hall",
+    "personality": "重情",
+    "publicBubble": "师弟的伤，我给他送药。",
+    "secretHostBubble": "心里那声说他三日后能下床，我便安了心。"
+  },
+  {
+    "id": "bub_078",
+    "zone": "hall",
+    "personality": "重利",
+    "publicBubble": "库房的册子，本月对两遍。",
+    "secretHostBubble": "它说对清了便赐我一枚丹，我连夜核了三遍。"
+  },
+  {
+    "id": "bub_079",
+    "zone": "hall",
+    "personality": "冷静",
+    "publicBubble": "灯油添满，省得夜里摸黑。",
+    "secretHostBubble": "修为涨得无声无息，我连个由头都编不出来。"
+  },
+  {
+    "id": "bub_080",
+    "zone": "hall",
+    "personality": "sect_master",
+    "publicBubble": "宗门纪事，谁来执笔。",
+    "secretHostBubble": "它连纪事该记哪一笔都替我理好，倒像我欠它人情。"
+  },
+  {
+    "id": "bub_081",
+    "zone": "hall",
+    "personality": "野心",
+    "publicBubble": "长老的位置，总得有人补上。",
+    "secretHostBubble": "它许我办成三桩差事便有机会，我记在心里。"
+  },
+  {
+    "id": "bub_082",
+    "zone": "hall",
+    "personality": "any",
+    "publicBubble": "廊下的灯笼，天黑就点。",
+    "secretHostBubble": "心里那声不催不促，我却一日不敢落下。"
+  },
+  {
+    "id": "bub_083",
+    "zone": "alchemy",
+    "personality": "专研",
+    "publicBubble": "火候再压三分，别跑药气。",
+    "secretHostBubble": "它说这一炉能成，成了便赐一缕修为，我信了。"
+  },
+  {
+    "id": "bub_084",
+    "zone": "alchemy",
+    "personality": "谨慎",
+    "publicBubble": "丹房的门，插上门闩。",
+    "secretHostBubble": "私密嘱咐要我守炉到三更，这事不好与师父明说。"
+  },
+  {
+    "id": "bub_085",
+    "zone": "alchemy",
+    "personality": "冷静",
+    "publicBubble": "这炉废了，倒掉重来。",
+    "secretHostBubble": "它说错在第三息的呼吸，我偏要再试一遍。"
+  },
+  {
+    "id": "bub_086",
+    "zone": "alchemy",
+    "personality": "any",
+    "publicBubble": "丹灰扫净，明日还要用炉。",
+    "secretHostBubble": "心里那句话，比炉火还催人。"
+  },
+  {
+    "id": "bub_087",
+    "zone": "alchemy",
+    "personality": "重利",
+    "publicBubble": "这批药材，够开两炉。",
+    "secretHostBubble": "它许我成丹便分我一成，我倒要算算值不值。"
+  },
+  {
+    "id": "bub_088",
+    "zone": "alchemy",
+    "personality": "好战",
+    "publicBubble": "丹药备好，明日上台。",
+    "secretHostBubble": "那声叮嘱说上台前服一枚可稳脉，我半信半疑。"
+  },
+  {
+    "id": "bub_089",
+    "zone": "alchemy",
+    "personality": "重情",
+    "publicBubble": "师弟体虚，这丹留给他。",
+    "secretHostBubble": "心里那声说他受得住，我便多炼了一炉。"
+  },
+  {
+    "id": "bub_090",
+    "zone": "alchemy",
+    "personality": "sect_master",
+    "publicBubble": "丹堂的柴，够烧几日。",
+    "secretHostBubble": "它连我丹房几时缺水都算得准，真叫人费解。"
+  },
+  {
+    "id": "bub_091",
+    "zone": "alchemy",
+    "personality": "elder",
+    "publicBubble": "称药的手，稳住。",
+    "secretHostBubble": "私密那声说这味药少一钱，我掂了掂，果然轻。"
+  },
+  {
+    "id": "bub_092",
+    "zone": "alchemy",
+    "personality": "野心",
+    "publicBubble": "丹堂的位置，也该换人坐。",
+    "secretHostBubble": "它许我炼成一枚上品便有机会，这口气我咽得下。"
+  },
+  {
+    "id": "bub_093",
+    "zone": "alchemy",
+    "personality": "专研",
+    "publicBubble": "药碾子磨钝了，换一副。",
+    "secretHostBubble": "它提点的炮制次序与旧谱不同，我试着倒成了。"
+  },
+  {
+    "id": "bub_094",
+    "zone": "alchemy",
+    "personality": "谨慎",
+    "publicBubble": "瓷瓶封口，别漏了气。",
+    "secretHostBubble": "它嘱咐我把成丹分瓶装，我便一枚一枚封好。"
+  },
+  {
+    "id": "bub_095",
+    "zone": "alchemy",
+    "personality": "any",
+    "publicBubble": "地火弱了，添两块炭。",
+    "secretHostBubble": "心里那道督促又在数息，我便跟着缓了呼吸。"
+  },
+  {
+    "id": "bub_096",
+    "zone": "alchemy",
+    "personality": "冷静",
+    "publicBubble": "药渣留下，尚有用处。",
+    "secretHostBubble": "它说药渣可再提一次清，我倒没想过这一步。"
+  },
+  {
+    "id": "bub_097",
+    "zone": "alchemy",
+    "personality": "重利",
+    "publicBubble": "丹价涨了，别贱卖。",
+    "secretHostBubble": "它说这批留着有用，我犹豫了半日，还是听它的。"
+  },
+  {
+    "id": "bub_098",
+    "zone": "alchemy",
+    "personality": "elder",
+    "publicBubble": "炉盖别掀，气泄了就废。",
+    "secretHostBubble": "私密指点说再等十息，我手心全是汗，到底忍住了。"
+  },
+  {
+    "id": "bub_099",
+    "zone": "arena",
+    "personality": "好战",
+    "publicBubble": "木剑备好，谁来先试。",
+    "secretHostBubble": "那声允我今日连战三场，赢了还有赏，血都热了。"
+  },
+  {
+    "id": "bub_100",
+    "zone": "arena",
+    "personality": "冷静",
+    "publicBubble": "点到为止，别伤筋骨。",
+    "secretHostBubble": "它说今日这一场要留半分力，我便留了半分。"
+  },
+  {
+    "id": "bub_101",
+    "zone": "arena",
+    "personality": "谨慎",
+    "publicBubble": "护腕系紧，剑柄握稳。",
+    "secretHostBubble": "私密嘱咐说今日对手走左路，我记下便是。"
+  },
+  {
+    "id": "bub_102",
+    "zone": "arena",
+    "personality": "好战",
+    "publicBubble": "台下别吵，看剑势。",
+    "secretHostBubble": "心里那句说这一招还能快半分，我试了，果然。"
+  },
+  {
+    "id": "bub_103",
+    "zone": "arena",
+    "personality": "any",
+    "publicBubble": "擂鼓三下，就该停手。",
+    "secretHostBubble": "它不催我赢，只催我稳住呼吸，倒比赢更要紧。"
+  },
+  {
+    "id": "bub_104",
+    "zone": "arena",
+    "personality": "重情",
+    "publicBubble": "师弟输了，别笑他。",
+    "secretHostBubble": "那声叮嘱说他明日还会来，我便多留了一招。"
+  },
+  {
+    "id": "bub_105",
+    "zone": "arena",
+    "personality": "sect_master",
+    "publicBubble": "试剑台是磨性子的地方。",
+    "secretHostBubble": "它连我该点谁上台都算得清，倒像我欠它一个答案。"
+  },
+  {
+    "id": "bub_106",
+    "zone": "arena",
+    "personality": "野心",
+    "publicBubble": "赢一场，就有人记住你。",
+    "secretHostBubble": "它许我连胜便赐一枚护脉丹，这买卖我愿做。"
+  },
+  {
+    "id": "bub_107",
+    "zone": "arena",
+    "personality": "专研",
+    "publicBubble": "这一剑的收势，不对。",
+    "secretHostBubble": "私密指点说收剑要留三分余地，我琢磨了半宿。"
+  },
+  {
+    "id": "bub_108",
+    "zone": "arena",
+    "personality": "重利",
+    "publicBubble": "赢了有赏，输了没有。",
+    "secretHostBubble": "它说今日赢了赏加一倍，我便多练了两个时辰。"
+  },
+  {
+    "id": "bub_109",
+    "zone": "arena",
+    "personality": "elder",
+    "publicBubble": "护心镜戴好，再上台。",
+    "secretHostBubble": "那声叮嘱说我今日不宜逞强，我便收了几分锋。"
+  },
+  {
+    "id": "bub_110",
+    "zone": "arena",
+    "personality": "冷静",
+    "publicBubble": "沙地踩滑，脚下留神。",
+    "secretHostBubble": "心里那句说我步法虚浮，我回头又走了三十遍。"
+  },
+  {
+    "id": "bub_111",
+    "zone": "arena",
+    "personality": "any",
+    "publicBubble": "剑架上的木剑，收一收。",
+    "secretHostBubble": "它说我这把剑该换了，我只笑了笑，没敢应。"
+  },
+  {
+    "id": "bub_112",
+    "zone": "arena",
+    "personality": "好战",
+    "publicBubble": "同境交手，才见真章。",
+    "secretHostBubble": "它允我以战养战，这话正合我意，何乐不为。"
+  },
+  {
+    "id": "bub_113",
+    "zone": "arena",
+    "personality": "重情",
+    "publicBubble": "台上的事，台下别提。",
+    "secretHostBubble": "那声叮嘱说别记恨对手，我本也没往心里去。"
+  },
+  {
+    "id": "bub_114",
+    "zone": "arena",
+    "personality": "谨慎",
+    "publicBubble": "认输也要认得干脆。",
+    "secretHostBubble": "它说今日退一步不丢人，我照着做了，心里倒松。"
+  },
+  {
+    "id": "bub_115",
+    "zone": "heritage",
+    "personality": "专研",
+    "publicBubble": "这卷残页，缺了后半。",
+    "secretHostBubble": "私密指点说缺的那半在别处，我记下了，不敢外传。"
+  },
+  {
+    "id": "bub_116",
+    "zone": "heritage",
+    "personality": "谨慎",
+    "publicBubble": "阁里的灯，只用油灯。",
+    "secretHostBubble": "它嘱咐我抄完便原样放回，我连折角都不敢留。"
+  },
+  {
+    "id": "bub_117",
+    "zone": "heritage",
+    "personality": "冷静",
+    "publicBubble": "木梯第三阶，松了。",
+    "secretHostBubble": "心里那句说今日能悟通一节，我半信半疑地翻开了。"
+  },
+  {
+    "id": "bub_118",
+    "zone": "heritage",
+    "personality": "elder",
+    "publicBubble": "借阅的册子，按期归还。",
+    "secretHostBubble": "私密那声要我细看第七页，果然有一行小注。"
+  },
+  {
+    "id": "bub_119",
+    "zone": "heritage",
+    "personality": "专研",
+    "publicBubble": "拓片晒过，该收进匣。",
+    "secretHostBubble": "它提点的碑文读法与师门所传不同，我试了，通了。"
+  },
+  {
+    "id": "bub_120",
+    "zone": "heritage",
+    "personality": "any",
+    "publicBubble": "书阁的灰，一日不扫就厚。",
+    "secretHostBubble": "心里那道督促又催我读经，我只好把灯挑亮些。"
+  },
+  {
+    "id": "bub_121",
+    "zone": "heritage",
+    "personality": "sect_master",
+    "publicBubble": "传功的次序，不能乱。",
+    "secretHostBubble": "它连我该先教哪一卷都排好了，倒像替我掌着阁。"
+  },
+  {
+    "id": "bub_122",
+    "zone": "heritage",
+    "personality": "野心",
+    "publicBubble": "读懂这一卷，才谈得上争。",
+    "secretHostBubble": "它许我参透一节便赐修为，这话我听着受用。"
+  },
+  {
+    "id": "bub_123",
+    "zone": "heritage",
+    "personality": "重情",
+    "publicBubble": "师弟要借的谱，我替他找。",
+    "secretHostBubble": "那声叮嘱说他要的那卷在西架，我去翻了，真有。"
+  },
+  {
+    "id": "bub_124",
+    "zone": "heritage",
+    "personality": "重利",
+    "publicBubble": "孤本只许在阁中抄。",
+    "secretHostBubble": "它说不许外传，我便收了心思，一个字也没抄。"
+  },
+  {
+    "id": "bub_125",
+    "zone": "heritage",
+    "personality": "谨慎",
+    "publicBubble": "火烛别靠近书架。",
+    "secretHostBubble": "它昨夜提醒我提防虫蛀，我翻遍了三架书。"
+  },
+  {
+    "id": "bub_126",
+    "zone": "heritage",
+    "personality": "专研",
+    "publicBubble": "这印，盖得偏了半寸。",
+    "secretHostBubble": "私密指点说印泥要薄，我试了一回，果然清整。"
+  },
+  {
+    "id": "bub_127",
+    "zone": "heritage",
+    "personality": "冷静",
+    "publicBubble": "窗纸破了，透风。",
+    "secretHostBubble": "心里那句说静坐时风会扰神，我便先把窗糊好。"
+  },
+  {
+    "id": "bub_128",
+    "zone": "heritage",
+    "personality": "elder",
+    "publicBubble": "旧谱不许带出此门。",
+    "secretHostBubble": "私密那声说这卷可参，我读到天亮，眼都酸了。"
+  },
+  {
+    "id": "bub_129",
+    "zone": "heritage",
+    "personality": "any",
+    "publicBubble": "抄录的墨，磨得浓些。",
+    "secretHostBubble": "它说今日抄的这页日后有用，我便抄得格外端正。"
+  },
+  {
+    "id": "bub_130",
+    "zone": "heritage",
+    "personality": "好战",
+    "publicBubble": "经义读多了，手都硬了。",
+    "secretHostBubble": "它说读一卷，便去台上试一招，我倒觉得有理。"
+  },
+  {
+    "id": "bub_131",
+    "zone": "pass",
+    "personality": "谨慎",
+    "publicBubble": "巡山的绳子，再紧一扣。",
+    "secretHostBubble": "私密嘱咐说今日雾重，走慢些，我便系了两道。"
+  },
+  {
+    "id": "bub_132",
+    "zone": "pass",
+    "personality": "好战",
+    "publicBubble": "兽迹新，还没走远。",
+    "secretHostBubble": "那声叮嘱说山道有妖踪，我手心发痒，正想会一会。"
+  },
+  {
+    "id": "bub_133",
+    "zone": "pass",
+    "personality": "冷静",
+    "publicBubble": "界碑歪了，扶正它。",
+    "secretHostBubble": "它说这碑下埋着旧物，我看了半日，什么也没敢挖。"
+  },
+  {
+    "id": "bub_134",
+    "zone": "pass",
+    "personality": "any",
+    "publicBubble": "雾起了，火把举高些。",
+    "secretHostBubble": "心里那道督促催我今日走完这一段，我便没歇脚。"
+  },
+  {
+    "id": "bub_135",
+    "zone": "pass",
+    "personality": "elder",
+    "publicBubble": "哨位上的人，别打盹。",
+    "secretHostBubble": "私密那声说今夜有客过岭，我守到三更，果然有人。"
+  },
+  {
+    "id": "bub_136",
+    "zone": "pass",
+    "personality": "重情",
+    "publicBubble": "同行的师弟，脚步慢，等等他。",
+    "secretHostBubble": "它说他会掉队，我放慢了些，倒真在岔口等到。"
+  },
+  {
+    "id": "bub_137",
+    "zone": "pass",
+    "personality": "重利",
+    "publicBubble": "山货过岭的脚钱，谈了半日。",
+    "secretHostBubble": "它说今日这趟不划算，我算了算，还是推了。"
+  },
+  {
+    "id": "bub_138",
+    "zone": "pass",
+    "personality": "野心",
+    "publicBubble": "这条古道，日后该归我巡。",
+    "secretHostBubble": "它许我巡满百日便有一份机缘，这路我走得值。"
+  },
+  {
+    "id": "bub_139",
+    "zone": "pass",
+    "personality": "专研",
+    "publicBubble": "栈道的木，朽了三根。",
+    "secretHostBubble": "私密指点说该换右边那根，我摸了摸，果然是空的。"
+  },
+  {
+    "id": "bub_140",
+    "zone": "pass",
+    "personality": "好战",
+    "publicBubble": "前面岔口，有东西。",
+    "secretHostBubble": "它说那物不过一阶，我笑了一声，倒也不算失望。"
+  },
+  {
+    "id": "bub_141",
+    "zone": "pass",
+    "personality": "谨慎",
+    "publicBubble": "脚印太深，不像是人。",
+    "secretHostBubble": "它昨夜提醒我别独自深入，我便在路口停了。"
+  },
+  {
+    "id": "bub_142",
+    "zone": "pass",
+    "personality": "冷静",
+    "publicBubble": "山涧水流急，从石桥绕行更稳。",
+    "secretHostBubble": "心里那句说绕远反快，我半信半疑，果然省了时辰。"
+  },
+  {
+    "id": "bub_143",
+    "zone": "pass",
+    "personality": "any",
+    "publicBubble": "崩石堵了路，叫人清。",
+    "secretHostBubble": "它说不必急，待日头高些再清，我便歇了口气。"
+  },
+  {
+    "id": "bub_144",
+    "zone": "pass",
+    "personality": "重情",
+    "publicBubble": "夜哨冷，带壶热酒。",
+    "secretHostBubble": "那声叮嘱说今夜无事，我倒有些过意不去。"
+  },
+  {
+    "id": "bub_145",
+    "zone": "pass",
+    "personality": "elder",
+    "publicBubble": "烽火台的柴，备足。",
+    "secretHostBubble": "私密那声说北边有动静，我添了三捆柴，没敢声张。"
+  },
+  {
+    "id": "bub_146",
+    "zone": "spring",
+    "personality": "重情",
+    "publicBubble": "挑水的担子，我来。",
+    "secretHostBubble": "心里那句说泉水今日最旺，我便多挑了两趟。"
+  },
+  {
+    "id": "bub_147",
+    "zone": "spring",
+    "personality": "专研",
+    "publicBubble": "泉眼的石，该洗一洗。",
+    "secretHostBubble": "私密指点说泉底有细砂，我下去摸了一回，真有。"
+  },
+  {
+    "id": "bub_148",
+    "zone": "spring",
+    "personality": "any",
+    "publicBubble": "水渠漏了，拿泥堵上。",
+    "secretHostBubble": "它说不必堵死，留一线水自会润旁田，我照做了。"
+  },
+  {
+    "id": "bub_149",
+    "zone": "spring",
+    "personality": "谨慎",
+    "publicBubble": "灵田的水，别漫过埂。",
+    "secretHostBubble": "它提醒我今日水位会涨，我守在渠边看了半日。"
+  },
+  {
+    "id": "bub_150",
+    "zone": "spring",
+    "personality": "好战",
+    "publicBubble": "洗完剑，水都浑了。",
+    "secretHostBubble": "那声叮嘱说我剑上的旧伤该磨一磨，我便磨了。"
+  },
+  {
+    "id": "bub_151",
+    "zone": "spring",
+    "personality": "冷静",
+    "publicBubble": "泉声变了，底下有响。",
+    "secretHostBubble": "它说今日泉脉涌动，我俯身听了半晌，果然。"
+  },
+  {
+    "id": "bub_152",
+    "zone": "spring",
+    "personality": "重利",
+    "publicBubble": "这泉水灌田，多收两成。",
+    "secretHostBubble": "它说这罐泉水留着有用，我犹豫了半日，倒也没卖。"
+  },
+  {
+    "id": "bub_153",
+    "zone": "spring",
+    "personality": "sect_master",
+    "publicBubble": "灵泉是根，别糟蹋。",
+    "secretHostBubble": "它连我该在泉边种什么药都说得明白，奇哉。"
+  },
+  {
+    "id": "bub_154",
+    "zone": "spring",
+    "personality": "专研",
+    "publicBubble": "水里的草，又长疯了。",
+    "secretHostBubble": "私密指点说这草可入药，我捞了一把，晒在檐下。"
+  },
+  {
+    "id": "bub_155",
+    "zone": "spring",
+    "personality": "elder",
+    "publicBubble": "木桶破了，换一只。",
+    "secretHostBubble": "心里那句说桶底漏气，我翻了翻，果然有条缝。"
+  },
+  {
+    "id": "bub_156",
+    "zone": "spring",
+    "personality": "any",
+    "publicBubble": "鱼苗撒下去了，别搅水。",
+    "secretHostBubble": "它说三月后这池能添一份收成，我便记在心上。"
+  },
+  {
+    "id": "bub_157",
+    "zone": "spring",
+    "personality": "重情",
+    "publicBubble": "师弟脚上的泥，冲一冲。",
+    "secretHostBubble": "那声叮嘱说他今日走得太狠，我便替他打了水。"
+  },
+  {
+    "id": "bub_158",
+    "zone": "spring",
+    "personality": "野心",
+    "publicBubble": "这处灵田，迟早归我管。",
+    "secretHostBubble": "它许我看管灵田满一季便有机会，这活我接了。"
+  },
+  {
+    "id": "bub_159",
+    "zone": "spring",
+    "personality": "谨慎",
+    "publicBubble": "泉边湿滑，别睡过去。",
+    "secretHostBubble": "它昨夜说此处夜里不静，我便睁着眼守到天亮。"
+  },
+  {
+    "id": "bub_160",
+    "zone": "spring",
+    "personality": "好战",
+    "publicBubble": "泉边切磋，最凉快。",
+    "secretHostBubble": "它允我在泉边练拳，说水汽能护脉，我倒觉着舒服。"
+  }
+]

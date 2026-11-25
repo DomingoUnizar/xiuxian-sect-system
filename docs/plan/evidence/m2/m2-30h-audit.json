@@ -1,0 +1,159 @@
+{
+  "environment": {
+    "nodeVersion": "v24.22.0",
+    "platform": "win32 10.0.26300",
+    "cpuModel": "Intel(R) Core(TM) i9-14900HX"
+  },
+  "ticksSimulated": 21600,
+  "finalTick": 21635,
+  "computeMs": 50.64,
+  "noDuplicateLedgerIds": true,
+  "ledgerCount": 15,
+  "nonNegativeResources": true,
+  "daoyuanAvailableAfter": 5448,
+  "daoyuanReservedAfter": 0,
+  "foundationPointsAfter": 9,
+  "factsTotal": 1863,
+  "latest20NotableOrMajorSample": [
+    {
+      "id": "fact_25",
+      "tick": 15,
+      "type": "mission.issued",
+      "visibility": "host_private",
+      "summary": "已向宿主 陆宁竹 私发「锻铸蓄水剑」（预留 6 道源）。"
+    },
+    {
+      "id": "fact_29",
+      "tick": 18,
+      "type": "forging.finished",
+      "visibility": "public",
+      "summary": "陆宁竹 取潮纹玉依「接锋蓄水纹」锻成凡阶上品「储水回锋剑」，已当场交由同门 顾衍远 佩带出战（战力增至 109）。"
+    },
+    {
+      "id": "fact_30",
+      "tick": 18,
+      "type": "heritage.achieved",
+      "visibility": "public",
+      "summary": "陆宁竹 独立使出前辈 宋昭舟 所授「潮纹器道真解」实功告成，正式把这门手法写入宗门传承谱。"
+    },
+    {
+      "id": "fact_31",
+      "tick": 18,
+      "type": "system.advanced",
+      "visibility": "system_only",
+      "summary": "【叮！系统进阶】道统根基已达 5 点，「规则赐予」权限正式解锁！现可消耗道源直接向宿主赐予永久神通，或写进后续任务奖赏。"
+    },
+    {
+      "id": "fact_33",
+      "tick": 18,
+      "type": "reward.granted",
+      "visibility": "host_private",
+      "summary": "陆宁竹 完成「锻铸蓄水剑」，已兑现：10 轮修为灌注实得 +80 缕（修为 284 → 364，晋至炼气8层，战力 106 → 108）。"
+    },
+    {
+      "id": "fact_35",
+      "tick": 21,
+      "type": "mission.issued",
+      "visibility": "host_private",
+      "summary": "已向宿主 陆宁竹 私发「携兽探泉采露」（预留 6 道源）。"
+    },
+    {
+      "id": "fact_38",
+      "tick": 24,
+      "type": "beast.expedition",
+      "visibility": "public",
+      "summary": "陆宁竹 循铃呼应「巡风苍青犬」赴寒泉采露，携回潮纹玉×1、带露玉髓花×1 与护脉草×1 交入宗库。"
+    },
+    {
+      "id": "fact_39",
+      "tick": 24,
+      "type": "heritage.achieved",
+      "visibility": "public",
+      "summary": "陆宁竹 独立使出前辈 沈清月 所授「循铃御兽诀」实功告成，正式把这门手法写入宗门传承谱。"
+    },
+    {
+      "id": "fact_40",
+      "tick": 24,
+      "type": "system.advanced",
+      "visibility": "system_only",
+      "summary": "【叮！系统进阶】道统根基已达 9 点，「多人因果」权限正式解锁！现可同刻对宗门多人秘密布局大比私令，分别结算因果。"
+    },
+    {
+      "id": "fact_42",
+      "tick": 24,
+      "type": "reward.granted",
+      "visibility": "host_private",
+      "summary": "陆宁竹 完成「携兽探泉采露」，已兑现：10 轮修为灌注实得 +80 缕（修为 380 → 460，晋至炼气9层，战力 108 → 109）。"
+    },
+    {
+      "id": "fact_44",
+      "tick": 27,
+      "type": "ability.granted",
+      "visibility": "host_private",
+      "summary": "已耗 12 道源向 顾衍远 赐予永久神通「绝境爆发」。"
+    },
+    {
+      "id": "fact_45",
+      "tick": 27,
+      "type": "mission.issued",
+      "visibility": "host_private",
+      "summary": "多人因果大比私令：向 陆宁竹 私发「阵前破关」（预留 8 道源）。"
+    },
+    {
+      "id": "fact_46",
+      "tick": 27,
+      "type": "mission.issued",
+      "visibility": "host_private",
+      "summary": "多人因果大比私令：向 顾衍远 私发「擂上夺魁」（预留 8 道源）。"
+    },
+    {
+      "id": "fact_47",
+      "tick": 27,
+      "type": "mission.issued",
+      "visibility": "host_private",
+      "summary": "多人因果大比私令：向 江玄月 私发「护我门人」（预留 6 道源）。"
+    },
+    {
+      "id": "fact_48",
+      "tick": 27,
+      "type": "tournament.opened",
+      "visibility": "public",
+      "summary": "青蘅山庄 开启本届宗门论剑大比，由 江玄月 执掌试剑台护阵，陆宁竹 与 顾衍远 入围决赛，各自闭关备战。"
+    },
+    {
+      "id": "fact_50",
+      "tick": 29,
+      "type": "tournament.breakthrough",
+      "visibility": "public",
+      "summary": "大比开擂前夜，陆宁竹 在洞府内顺势破关，晋入炼气9层（战力 109），次日仍如约登台！"
+    },
+    {
+      "id": "fact_51",
+      "tick": 29,
+      "type": "reward.granted",
+      "visibility": "host_private",
+      "summary": "陆宁竹 完成「阵前破关」，已兑现：10 轮修为灌注实得 +80 缕（修为 488 → 568，战力 109 → 109）。"
+    },
+    {
+      "id": "fact_52",
+      "tick": 31,
+      "type": "battle.finished",
+      "visibility": "public",
+      "summary": "青蘅山庄 大比决赛落幕：顾衍远 击败 陆宁竹 夺得头名，江玄月 挥旗收住余波护下二人平安离台。"
+    },
+    {
+      "id": "fact_53",
+      "tick": 31,
+      "type": "reward.granted",
+      "visibility": "host_private",
+      "summary": "顾衍远 完成「擂上夺魁」，已兑现：12 轮修为灌注实得 +96 缕（修为 238 → 334，晋至炼气9层，战力 111 → 113）。"
+    },
+    {
+      "id": "fact_54",
+      "tick": 31,
+      "type": "reward.granted",
+      "visibility": "host_private",
+      "summary": "江玄月 完成「护我门人」，已兑现：10 轮修为灌注实得 +90 缕（修为 323 → 413，战力 110 → 110）。"
+    }
+  ]
+}

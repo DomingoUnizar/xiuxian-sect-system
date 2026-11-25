@@ -1,0 +1,28 @@
+{
+  "seed": 20261123,
+  "startMaterial": {
+    "id": "mat_chaowen_jade",
+    "name": "潮纹玉",
+    "qty": 3
+  },
+  "branchA_sword": {
+    "methodUsed": "method_forging_fengwen (接锋蓄水纹)",
+    "remainingJade": 2,
+    "forgedProduct": "储水回锋剑",
+    "equippedByPeer": {
+      "id": "member_senior_disciple",
+      "name": "顾衍远"
+    },
+    "peerDuelTideTriggered": true
+  },
+  "branchB_furnaceCore": {
+    "methodUsed": "method_forging_ludan (温炉控潮纹)",
+    "remainingJade": 2,
+    "furnaceHasWarmCore": true,
+    "combinedWithBeastDew": true,
+    "supremeAlchemySuccess": true,
+    "producedPillId": "pill_humai_2_supreme",
+    "producedPillName": "二阶极品护脉丹",
+    "alchemyDetailExcerpt": "江玄月 驾驭凡炉依「护脉丹方」成丹一枚（二阶极品护脉丹（潮纹温脉炉胆引潮控温、封入完整带露玉髓花一滴）），已封瓶存入宗门丹库（库中现存 二阶极品护脉丹 1 枚），可供门人疗伤或冲关服用。"
+  }
+}

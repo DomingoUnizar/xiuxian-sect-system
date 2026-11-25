@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ret_001",
+    "durationTier": "short",
+    "mood": "calm",
+    "opening": "山门石阶还是那道旧痕，风把落叶扫到脚边，守门弟子打了个哈欠。"
+  },
+  {
+    "id": "ret_002",
+    "durationTier": "short",
+    "mood": "calm",
+    "opening": "破晓时天刚亮，钟声才响过一遍，阶上薄霜未化，只余巡值弟子一串浅印。"
+  },
+  {
+    "id": "ret_003",
+    "durationTier": "short",
+    "mood": "alchemy_boom",
+    "opening": "一进山门就闻见药香，丹房那边炉火未歇，连吹来的风都是暖的。"
+  },
+  {
+    "id": "ret_004",
+    "durationTier": "short",
+    "mood": "alchemy_boom",
+    "opening": "丹房的烟从檐下漫出来，几个师弟抱着药筐小跑，谁也不肯停脚。"
+  },
+  {
+    "id": "ret_005",
+    "durationTier": "short",
+    "mood": "arena_fervor",
+    "opening": "试剑台那边还有木剑相击的脆响，台下围着一圈人，叫好声没断过。"
+  },
+  {
+    "id": "ret_006",
+    "durationTier": "short",
+    "mood": "arena_fervor",
+    "opening": "刚过山门就听见擂鼓，演武场沙地上人影往来，剑光一闪一闪。"
+  },
+  {
+    "id": "ret_007",
+    "durationTier": "short",
+    "mood": "new_disciples",
+    "opening": "阶下站着几个新面孔，正跟着执事学挂腰牌，手都不知道往哪放。"
+  },
+  {
+    "id": "ret_008",
+    "durationTier": "short",
+    "mood": "new_disciples",
+    "opening": "山门前多了一排小包袱，几个少年蹲在墙根，见了人连忙站起来。"
+  },
+  {
+    "id": "ret_009",
+    "durationTier": "short",
+    "mood": "calm",
+    "opening": "石狮子上落了新雨，前番看时还是干爽青石，如今浸得一片湿凉。"
+  },
+  {
+    "id": "ret_010",
+    "durationTier": "short",
+    "mood": "calm",
+    "opening": "回来得巧，正赶上晚饭的钟，灶房那边飘出一股粗粮的热气。"
+  },
+  {
+    "id": "ret_011",
+    "durationTier": "medium",
+    "mood": "calm",
+    "opening": "走了半月，山门的匾额重新描过金，字还是那三个，看着却新了。"
+  },
+  {
+    "id": "ret_012",
+    "durationTier": "medium",
+    "mood": "alchemy_boom",
+    "opening": "半月未归，丹房新起了两座炉，烟囱一直冒到午后，药香压过了松香。"
+  },
+  {
+    "id": "ret_013",
+    "durationTier": "medium",
+    "mood": "arena_fervor",
+    "opening": "试剑台扩了一圈，沙地新铺过，擂鼓换了大鼓，隔着半个山门都听得见。"
+  },
+  {
+    "id": "ret_014",
+    "durationTier": "medium",
+    "mood": "new_disciples",
+    "opening": "这半月新收了十来个弟子，廊下晾着他们的衣裳，花花绿绿挂了整排。"
+  },
+  {
+    "id": "ret_015",
+    "durationTier": "medium",
+    "mood": "calm",
+    "opening": "山道两侧的松被人修过枝，走起来敞亮，连石阶缝里的草都拔净了。"
+  },
+  {
+    "id": "ret_016",
+    "durationTier": "medium",
+    "mood": "alchemy_boom",
+    "opening": "丹堂添了人手，药圃那边的水渠也改了道，一路过去全是捣药的声响。"
+  },
+  {
+    "id": "ret_017",
+    "durationTier": "medium",
+    "mood": "arena_fervor",
+    "opening": "演武场外搭了个棚子，说是给观战的人遮雨，木架还带着新削的白茬。"
+  },
+  {
+    "id": "ret_018",
+    "durationTier": "medium",
+    "mood": "new_disciples",
+    "opening": "新弟子在殿前排成两列，跟着念门规，声音不齐，倒也有几分气象。"
+  },
+  {
+    "id": "ret_019",
+    "durationTier": "medium",
+    "mood": "calm",
+    "opening": "回程赶上下雨，山门前的泥地被踩得乱七八糟，执事正拿着扫帚发愁。"
+  },
+  {
+    "id": "ret_020",
+    "durationTier": "medium",
+    "mood": "new_disciples",
+    "opening": "山门旁多了间小屋，专给新来的人登记，窗纸新糊，墨味还没散。"
+  },
+  {
+    "id": "ret_021",
+    "durationTier": "long",
+    "mood": "calm",
+    "opening": "一年未归，山门的石阶被踩薄了一层，石狮子的耳朵也缺了一角。"
+  },
+  {
+    "id": "ret_022",
+    "durationTier": "long",
+    "mood": "alchemy_boom",
+    "opening": "离山一年，丹房扩成三进，日夜有炉火，连后山的树都熏得发黑。"
+  },
+  {
+    "id": "ret_023",
+    "durationTier": "long",
+    "mood": "arena_fervor",
+    "opening": "试剑台已换了青石台面，四角立着灯，夜里的剑声一直传到山门。"
+  },
+  {
+    "id": "ret_024",
+    "durationTier": "long",
+    "mood": "new_disciples",
+    "opening": "山门内外多了许多生面孔，执事捧册点名，廊下少年齐声应诺。"
+  },
+  {
+    "id": "ret_025",
+    "durationTier": "long",
+    "mood": "calm",
+    "opening": "归来时已是深秋，山门前的枫红了一片，守门弟子换了两茬。"
+  },
+  {
+    "id": "ret_026",
+    "durationTier": "long",
+    "mood": "alchemy_boom",
+    "opening": "一年之间，药圃扩了五畦，丹房新起高墙，远远就看见白烟直上。"
+  },
+  {
+    "id": "ret_027",
+    "durationTier": "long",
+    "mood": "arena_fervor",
+    "opening": "演武场那边鼓声沉沉，听说今年新设了月赛，台下挤得水泄不通。"
+  },
+  {
+    "id": "ret_028",
+    "durationTier": "long",
+    "mood": "new_disciples",
+    "opening": "廊下挂满了新领的腰牌，风一吹叮当作响，旧木牌已收归执事房。"
+  },
+  {
+    "id": "ret_029",
+    "durationTier": "long",
+    "mood": "calm",
+    "opening": "走了许久，山门还是老样子，只匾上的漆褪了一层，字却更显筋骨。"
+  },
+  {
+    "id": "ret_030",
+    "durationTier": "long",
+    "mood": "new_disciples",
+    "opening": "宗门添了两进院子，新弟子住满了东厢，晨课时念诵声能传到山门。"
+  }
+]
